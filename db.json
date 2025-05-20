@@ -670,7 +670,10 @@
           },
           {
             "name": "Test to see if worked",
-            "details": {}
+            "details": {
+              "voltagem": "true",
+              "isTrusted": "true"
+            }
           }
         ]
       },
