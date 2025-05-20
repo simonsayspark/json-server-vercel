@@ -669,12 +669,20 @@
             }
           },
           {
-            "name": "Test to see if worked",
-            "details": {
-              "voltagem": "true",
-              "isTrusted": "true"
-            }
-          }
+  "name": "Test to see if it worked",
+  "description": "Test product description",
+  "image": "path_to_test_image.jpg",
+  "details": {
+    "Display LCD/Contagem": "Test",
+    "Iluminação": "Test",
+    "True RMS": "Test",
+    "Tensão DC": "Test",
+    "Tensão AC": "Test",
+    "Corrente DC": "Test",
+    "Resistência": "Test",
+    "Garantia": "12 meses"
+  }
+}
         ]
       },
       {
