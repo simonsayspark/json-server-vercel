@@ -138,7 +138,7 @@
                 "Dimensões (mm)/Peso (g)": "136x75x32/193",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/MULTÍMETROS/MULTÍMETROS-DIGITAIS/ET-2030A.jpg"
+              "image": "/ProductImages/MULTÍMETROS/MULTÍMETROS-DIGITAIS/ET-2030A.png"
             },
             {
               "name": "ET-2082E",
@@ -455,7 +455,7 @@
                 "Garantia": "1 ano",
                 "Acessórios": "Manual, Pontas de prova, Termopar"
               },
-              "image": "/ProductImages/MULTÍMETROS/MULTÍMETROS-DIGITAIS/ET-1050.jpg"
+              "image": "/ProductImages/MULTÍMETROS/MULTÍMETROS-DIGITAIS/ET-1050.png"
             },
             {
               "name": "ET-1100B",
@@ -482,7 +482,7 @@
                 "Garantia": "1 ano",
                 "Acessórios": "Manual, Pontas de prova"
               },
-              "image": "/ProductImages/MULTÍMETROS/MULTÍMETROS-DIGITAIS/ET-1100B.jpg"
+              "image": "/ProductImages/MULTÍMETROS/MULTÍMETROS-DIGITAIS/ET-1100B.png"
             },
             {
               "name": "ET-2233",
@@ -526,7 +526,7 @@
                 "Interface de Computador": "USB",
                 "Garantia": "1 ano"
               },
-              "image": "/ProductImages/MULTÍMETROS/MULTÍMETROS-DIGITAIS/ET-2233.jpg"
+              "image": "/ProductImages/MULTÍMETROS/MULTÍMETROS-DIGITAIS/ET-2233.png"
             },
             {
               "name": "ET-1110B",
@@ -555,7 +555,7 @@
                 "Garantia": "1 ano",
                 "Acessórios": "Manual, Pontas de prova, Termopar"
               },
-              "image": "/ProductImages/MULTÍMETROS/MULTÍMETROS-DIGITAIS/ET-1110B.jpg"
+              "image": "/ProductImages/MULTÍMETROS/MULTÍMETROS-DIGITAIS/ET-1110B.png"
             },
             {
               "name": "ET-1505",
@@ -588,7 +588,7 @@
                 "Garantia": "1 ano",
                 "Acessórios": "Manual, Pontas de prova, Termopar"
               },
-              "image": "/ProductImages/MULTÍMETROS/MULTÍMETROS-DIGITAIS/ET-1505.jpg"
+              "image": "/ProductImages/MULTÍMETROS/MULTÍMETROS-DIGITAIS/ET-1505.png"
             },
             {
               "name": "ET-2704",
@@ -691,7 +691,7 @@
                 "Dimensões (mm)/Peso (g)": "285x100x46/40",
                 "Garantia": "6 meses"
               },
-              "image": "/ProductImages/ALICATES/ALICATE-ANALÓGICO/ET-3006A.jpg"
+              "image": "/ProductImages/ALICATES/ANALÓGICOS/ET-3006A.jpg"
             },
             {
               "name": "test to see if iit worked",
@@ -732,7 +732,7 @@
                 "Dimensões(mm)/Peso(g)": "151x65x34/127",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/ALICATES/ALICATES-DIGITAIS-COMPACTOS/ET-3100.jpg"
+              "image": "/ProductImages/ALICATES/DIGITAIS DE BAIXA CORRENTE/ET-3100.jpg"
             },
             {
               "name": "ET-3320A",
@@ -760,7 +760,7 @@
                 "Dimensões(mm)/Peso(g)": "175x60x33,5/170",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/ALICATES/ALICATES-DIGITAIS-COMPACTOS/ET-3320A.jpg"
+              "image": "/ProductImages/ALICATES/DIGITAIS DE BAIXA CORRENTE/ET-3320A.jpg"
             }
           ]
         },
@@ -1105,7 +1105,7 @@
                 "Dimensões (mm)/Peso (g)": "228x77x41/265",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/ALICATES/ALICATES-DIGITAIS/ET-3201A.jpg"
+              "image": "/ProductImages/ALICATES/ALICATES-DIGITAIS/ET-3201A.png"
             },
             {
               "name": "ET-3166B",
@@ -1141,7 +1141,7 @@
                 "Garantia": "1 ano",
                 "Acessórios": "Manual, Pontas de prova, Bolsa para transporte"
               },
-              "image": "/ProductImages/ALICATES/ALICATES-DIGITAIS/ET-3166B.jpg"
+              "image": "/ProductImages/ALICATES/ALICATES-DIGITAIS/ET-3166B.png"
             },
             {
               "name": "ET-3177",
@@ -1178,7 +1178,7 @@
                 "Garantia": "1 ano",
                 "Acessórios": "Manual, Pontas de prova, Termopar tipo K, Bolsa para transporte"
               },
-              "image": "/ProductImages/ALICATES/ALICATES-DIGITAIS/ET-3177.jpg"
+              "image": "/ProductImages/ALICATES/ALICATES-DIGITAIS/ET-3177.png"
             },
             {
               "name": "ET-3710B",
@@ -1217,7 +1217,7 @@
                 "Mudança de faixa": "Automática/Manual",
                 "Garantia": "1 ano"
               },
-              "image": "/ProductImages/ALICATES/ALICATES-DIGITAIS/ET-3710B.jpg"
+              "image": "/ProductImages/ALICATES/ALICATES-DIGITAIS/ET-3710B.png"
             },
             {
               "name": "ET-3810C",
@@ -1258,7 +1258,7 @@
                 "Garantia": "1 ano",
                 "Acessórios": "Manual, Pontas de prova, Termopar, Bolsa para transporte"
               },
-              "image": "/ProductImages/ALICATES/ALICATES-DIGITAIS/ET-3810C.jpg"
+              "image": "/ProductImages/ALICATES/ALICATES-DIGITAIS/ET-3810C.png"
             },
             {
               "name": "ET-3712",
@@ -1375,7 +1375,7 @@
                 "Mudança de Faixa": "Automática",
                 "Garantia": "1 ano"
               },
-              "image": "/ProductImages/ALICATES/ALICATES-DIGITAIS/ET-3155.jpg"
+              "image": "/ProductImages/ALICATES/ALICATES-DIGITAIS/ET-3155.png"
             }
           ]
         },
@@ -1418,7 +1418,7 @@
                 "Dimensões (mm)/Peso (g)": "224x78x40/224",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/ALICATES/ALICATES-WATTÍMETROS/ET-4091.jpg"
+              "image": "/ProductImages/ALICATES/WATTÍMETROS/ET-4091.jpg"
             },
             {
               "name": "ET-4055A",
@@ -1453,7 +1453,7 @@
                 "Dimensões (mm)/Peso (g)": "303x112x39/601",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/ALICATES/ALICATES-WATTÍMETROS/ET-4055A.jpg"
+              "image": "/ProductImages/ALICATES/ALICATES-DIGITAIS/ET-4055A.jpg"
             },
             {
               "name": "ET-4010",
@@ -1534,7 +1534,7 @@
                 "Garantia": "12 meses",
                 "Acessórios": "Pontas de Prova, Bolsa para Transporte, Termopar tipo K"
               },
-              "image": "/ProductImages/ALICATES/ALICATES-PARA-PAINEL-SOLAR/ET-4710.jpg"
+              "image": "/ProductImages/ALICATES/ALICATES-DIGITAIS/ET-4710.png"
             }
           ]
         }
@@ -1905,7 +1905,7 @@
                 "Dimensões (mm)/Peso (g)": "115x175x62,5/758",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/MEGÔMETROS/MI-1000A.jpg"
+              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/MEGÔMETROS/MI-1000A.png"
             },
             {
               "name": "MI-2710",
@@ -1932,7 +1932,7 @@
                 "Garantia": "1 ano",
                 "Acessórios": "Manual / Pontas de Alta Tensão / Garra Jacaré / Mala de Transporte / Alça de Transporte / Cabo USB / Carregador / Gancho / Ponta Garra Jacaré / Chaves para Maleta"
               },
-              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/MEGÔMETROS/MI-2710.jpg"
+              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/MEGÔMETROS/MI-2710.png"
             }
           ]
         },
@@ -1977,7 +1977,7 @@
                 "Dimensões (mm)/Peso (g)": "202x97x40/505",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/MULTÍMETRO-MEGÔMETRO/ET-2780.jpg"
+              "image": "/ProductImages/MULTÍMETROS/MEGÔMETROS/ET-2780.jpg"
             }
           ]
         },
@@ -2078,7 +2078,7 @@
                 "Dimensões (mm)/Peso (g) 160x70,5x100/": "304x104x68/1575",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/ALICATE-TERRÔMETRO/ET-4310.jpg"
+              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/ALICATES TERRÔMETRO/ET-4310.jpg"
             }
           ]
         },
@@ -2280,7 +2280,7 @@
                 "Dimensões (mm) / Peso (g)": "182,4x47x17/27,1",
                 "Garantia": "3 meses"
               },
-              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/TERMÔMETRO-DE-VARETA/MV-363A.jpg"
+              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/TERMÔMETROS DE VARETA/MV-363 , MV-363A.jpg"
             }
           ]
         },
@@ -2467,7 +2467,7 @@
                 "Dimensões (mm)/Peso (g)": "169x103x48/200",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/TERMÔMETROS-INFRAVERMELHOS/MT-350A.jpg"
+              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/TERMÔMETROS INFRAVERMELHO/MT-350A.jpg"
             },
             {
               "name": "MT-395A",
@@ -2493,7 +2493,7 @@
                 "Dimensões (mm)/Peso (g)": "260x155x54/295",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/TERMÔMETROS-INFRAVERMELHOS/MT-395A.jpg"
+              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/TERMÔMETROS INFRAVERMELHO/MT-395A.jpg"
             },
             {
               "name": "MT-320B",
@@ -2514,7 +2514,7 @@
                 "Dimensões (mm)/peso(g)": "165(A)x47(L)x59(P)mm / 135 (g)",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/TERMÔMETROS-INFRAVERMELHOS/MT-320B.jpg"
+              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/TERMÔMETROS INFRAVERMELHO/MT-320B.png"
             }
           ]
         },
@@ -2542,7 +2542,7 @@
                 "Dimensões (mm)": "160x50x28mm/118g",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/ANEMÔMETROS/MDA-01.jpg"
+              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/LINHA MINI AMBIENTAL/MDA-01.jpg"
             },
             {
               "name": "MDA-10A",
@@ -2606,7 +2606,7 @@
                 "Dimensões(mm) / Peso(g)": "120x53x43mm/365",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/ANEMÔMETROS/MDA-11A.jpg"
+              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/ANEMÔMETROS/MDA-11A.png"
             },
             {
               "name": "MDA-10B",
@@ -2659,7 +2659,7 @@
                 "Dimensões (mm)": "160x50x28/118",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/LUXÍMETROS/MLM-1001.jpg"
+              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/LINHA MINI AMBIENTAL/MLM-1001.jpg"
             },
             {
               "name": "MLM-1011",
@@ -2748,7 +2748,7 @@
                 "Dimensões (mm)/Peso (g)": "150x52x27/116",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/DECIBELÍMETROS/MSL-1301.jpg"
+              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/LINHA MINI AMBIENTAL/MSL-1301.jpg"
             }
           ]
         },
@@ -2803,7 +2803,7 @@
                 "Dimensões (mm)/Peso(g)": "236x 75,5x 86 / 503",
                 "Garantia": "1 ano"
               },
-              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/TERMOVISORA/MTV-120.jpg"
+              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/TERMOVISORES/MTV-120 - FRENTE.png"
             },
             {
               "name": "MTV-10M",
@@ -2879,7 +2879,7 @@
                 "Peso": "108,8g",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/CONSTRUÇÃO-CIVIL/TRENAS-A-LASER/MD-40A.jpg"
+              "image": "/ProductImages/MEDIDORES/MEDIDOR DE DISTÂNCIA A LASER/MD-40A.png"
             },
             {
               "name": "MD-50B",
@@ -2924,7 +2924,7 @@
                 "Dimensões(mm)/peso(g)": "Φ120 mm (r) x 50mm (A) / 122g",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/CONSTRUÇÃO-CIVIL/MEDIDOR-DE-ÂNGULO-A-LASER/MLL-102.jpg"
+              "image": "/ProductImages/DIVERSOS/MEDIDORES DE ÂNGULO/MLL-102.jpg"
             }
           ]
         },
@@ -2995,7 +2995,7 @@
                 "Dimensões (mm)/Peso (g)": "166x88x51/320",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/LINHA-AUTOMOTIVA/OSCILOSCÓPIO-AUTOMOTIVO/MS-1005.jpg"
+              "image": "/ProductImages/LINHA-AUTOMOTIVA/OSCILOSCÓPIO AUTOMOTIVO/MS-1005.jpg"
             }
           ]
         },
@@ -3028,7 +3028,7 @@
                 "Dimensões (mm) / Peso (g)": "183x95x47/413",
                 "Garantia": "1 ano"
               },
-              "image": "/ProductImages/LINHA-AUTOMOTIVA/TESTADOR-DE-BATERIA/MTB-1000.jpg"
+              "image": "/ProductImages/LINHA-AUTOMOTIVA/TESTADOR-DE-BATERIA/MTB-1000.png"
             },
             {
               "name": "MTB-200",
@@ -3160,12 +3160,12 @@
                 "Dimensões(mm)/peso(g)": "165(A)x265(L)x360(P)mm / 10 (kg)",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/INSTRUMENTOS-DE-BANCADA/FONTES-DE-ALIMENTAÇÃO/MPC-3005.jpg"
+              "image": "/ProductImages/INSTRUMENTOS-DE-BANCADA/FONTES DE ALIMENTAÇÃO/MPC-3005.jpg"
             },
             {
               "name": "MPL-1305M",
               "details": {},
-              "image": "/ProductImages/INSTRUMENTOS-DE-BANCADA/FONTES-DE-ALIMENTAÇÃO/MPL-1305M.jpg"
+              "image": "/ProductImages/INSTRUMENTOS-DE-BANCADA/FONTES DE ALIMENTAÇÃO/MPL-1305M.jpg"
             },
             {
               "name": "MPL-3305M",
@@ -3191,12 +3191,12 @@
                 "Dimensões (mm)/Peso (g)": "260x170x315/11",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/INSTRUMENTOS-DE-BANCADA/FONTES-DE-ALIMENTAÇÃO/MPL-3305M.jpg"
+              "image": "/ProductImages/INSTRUMENTOS-DE-BANCADA/FONTES DE ALIMENTAÇÃO/MPL-3305M.jpg"
             },
             {
               "name": "MPS-3005B",
               "details": {},
-              "image": "/ProductImages/INSTRUMENTOS-DE-BANCADA/FONTES-DE-ALIMENTAÇÃO/MPS-3005B.jpg"
+              "image": "/ProductImages/INSTRUMENTOS-DE-BANCADA/FONTES DE ALIMENTAÇÃO/MPS-3005B.png"
             },
             {
               "name": "MPC-3003",
@@ -3216,7 +3216,7 @@
                 "Dimensões(mm)/peso(g)": "165(A)x265(L)x360(P)mm / 10 (kg)",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/INSTRUMENTOS-DE-BANCADA/FONTES-DE-ALIMENTAÇÃO/MPC-3003.jpg"
+              "image": "/ProductImages/INSTRUMENTOS-DE-BANCADA/FONTES DE ALIMENTAÇÃO/MPC-3003.jpg"
             },
             {
               "name": "MPL-1305PS",
@@ -3286,7 +3286,7 @@
                 "Peso": "2kg",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/INSTRUMENTOS-DE-BANCADA/GERADORES-DE-FUNÇÃO/MFG-4202A.jpg"
+              "image": "/ProductImages/INSTRUMENTOS-DE-BANCADA/GERADORES DE FUNÇÃO/MFG-4202A.png"
             },
             {
               "name": "MFG-4210C",
@@ -3309,7 +3309,7 @@
                 "Dimensões (mm)/ Peso (g)": "105x229x281/2,6k",
                 "Garantia": "36 meses"
               },
-              "image": "/ProductImages/INSTRUMENTOS-DE-BANCADA/GERADORES-DE-FUNÇÃO/MFG-4210C.jpg"
+              "image": "/ProductImages/INSTRUMENTOS-DE-BANCADA/GERADORES DE FUNÇÃO/MFG-4210C.JPG"
             },
             {
               "name": "MFG-4205C",
@@ -3328,7 +3328,7 @@
                 "Dimensões (mm)/Peso (g)": "165x320x110/ Líquido 3,10kg - Bruto 4,10kg",
                 "Garantia": "36 meses"
               },
-              "image": "/ProductImages/INSTRUMENTOS-DE-BANCADA/GERADORES-DE-FUNÇÃO/MFG-4205C.jpg"
+              "image": "/ProductImages/INSTRUMENTOS-DE-BANCADA/GERADORES DE FUNÇÃO/MFG-4205C.jpg"
             }
           ]
         },
@@ -3369,7 +3369,7 @@
                 "Dimensões (mm)/ Peso (g)": "105x245x300/1,5k",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/INSTRUMENTOS-DE-BANCADA/MULTÍMETROS-DE-BANCADA/MDM-8045C.jpg"
+              "image": "/ProductImages/INSTRUMENTOS-DE-BANCADA/MULTÍMETROS DE BANCADA/MDM-8045C.jpg"
             },
             {
               "name": "MDM-8145A",
@@ -3402,7 +3402,7 @@
                 "Dimensões (mm)/ Peso (g)": "105x245x310/3k",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/INSTRUMENTOS-DE-BANCADA/MULTÍMETROS-DE-BANCADA/MDM-8145A.jpg"
+              "image": "/ProductImages/INSTRUMENTOS-DE-BANCADA/MULTÍMETROS DE BANCADA/MDM-8145A.jpg"
             },
             {
               "name": "MDM-8145B",
@@ -3432,7 +3432,7 @@
                 "Garantia": "12 meses",
                 "Acessórios": "Manual/ Pontas de prova / Garra Jacaré / Cabo de alimentação / Cabo USB"
               },
-              "image": "/ProductImages/INSTRUMENTOS-DE-BANCADA/MULTÍMETROS-DE-BANCADA/MDM-8145B.jpg"
+              "image": "/ProductImages/INSTRUMENTOS-DE-BANCADA/MULTÍMETROS DE BANCADA/MDM-8145B_front.jpg"
             }
           ]
         },
@@ -3457,7 +3457,7 @@
                 "Dimensões (mm)/pesgo (g)": "100x215x270mm/peso 1,6kg",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/INSTRUMENTOS-DE-BANCADA/FREQUENCÍMETRO/MF-7240.jpg"
+              "image": "/ProductImages/INSTRUMENTOS-DE-BANCADA/FREQUENCÍMETROS/MF-7240.jpg"
             }
           ]
         }
@@ -3778,7 +3778,7 @@
                 "Dimensões (mm)/Peso (g)": "143x75x32/200",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/DIVERSOS/CAPACÍMETRO/MC-154A.jpg"
+              "image": "/ProductImages/DIVERSOS/CAPACÍMETROS/MC-154A.jpg"
             }
           ]
         },
@@ -3803,7 +3803,7 @@
                 "Dimensões (mm)/Peso (g)": "172x83x38/310",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/DIVERSOS/MEDIDOR-LCR/MC-155.jpg"
+              "image": "/ProductImages/MULTÍMETROS/MULTÍMETROS-DIGITAIS/MC-155.png"
             }
           ]
         },
@@ -3843,7 +3843,7 @@
                 "Dimensões (mm)/Peso (g)": "193x96x47/374",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/DIVERSOS/PONTE-LCR-PORTÁTIL/MX-1050.jpg"
+              "image": "/ProductImages/INSTRUMENTOS-DE-BANCADA/PONTES LCR/MX-1050.jpg"
             }
           ]
         },
@@ -3871,7 +3871,7 @@
                 "Dimensões (mm)/Peso (g)": "160x72x37/300",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/DIVERSOS/TACÔMETROS/MDT-2238B.jpg"
+              "image": "/ProductImages/DIVERSOS/TACÔMETROS/MDT-2238B_Completa.png"
             },
             {
               "name": "MDT-2245C",
@@ -3963,7 +3963,7 @@
                 "Dimensões (mm)/Peso (g)": "146X72X29/200",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/DIVERSOS/MEDIDORES-DE-ESPESSURA/MCE-100.jpg"
+              "image": "/ProductImages/MEDIDORES/MEDIDORES DE ESPESSURA/MCE-100.jpg"
             },
             {
               "name": "MCT-301",
@@ -3980,7 +3980,7 @@
                 "Dimensões (mm)/Peso (g)": "105x55x27/80",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/DIVERSOS/MEDIDORES-DE-ESPESSURA/MCT-301.jpg"
+              "image": "/ProductImages/DIVERSOS/MEDIDOR DE ESPESSURA/MCT-301.png"
             },
             {
               "name": "MCT-401",
@@ -3998,7 +3998,7 @@
                 "Dimensões (mm)/Peso (g)": "105x55x27/80",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/DIVERSOS/MEDIDORES-DE-ESPESSURA/MCT-401.jpg"
+              "image": "/ProductImages/DIVERSOS/MEDIDOR DE ESPESSURA/MCT-401.png"
             }
           ]
         },
@@ -4020,7 +4020,7 @@
                 "Dimensões (mm)/Peso (g)": "129x63x32/116",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/DIVERSOS/MEDIDOR-DE-UMIDADE-DE-MADEIRA/MWD-14A.jpg"
+              "image": "/ProductImages/MEDIDORES/MEDIDORES DE UMIDADE DE MADEIRA/MWD-14A.jpg"
             }
           ]
         },
@@ -4045,7 +4045,7 @@
                 "Peso (g)": "190,6 (Corpo)/208,3 (Sonda)",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/DIVERSOS/MEDIDOR-DE-UMIDADE-DE-GRÃO/MTG-640.jpg"
+              "image": "/ProductImages/MEDIDORES/MEDIDOR DE UMIDADE DE GRÃO/MTG-640.jpg"
             }
           ]
         },
@@ -4070,7 +4070,7 @@
                 "Dimensões (mm)/Peso (g)": "190x98,5x195/300",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/DIVERSOS/BOROSCÓPIOS/MBR-240.jpg"
+              "image": "/ProductImages/DIVERSOS/BOROSCÓPIO/MBR-240.jpg"
             },
             {
               "name": "MBR-270G",
@@ -4087,7 +4087,7 @@
                 "Dimensões (mm)/Peso (g)": "190x98,5x195/300",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/DIVERSOS/BOROSCÓPIOS/MBR-270G.jpg"
+              "image": "/ProductImages/DIVERSOS/BOROSCÓPIO/MBR-270G.jpg"
             },
             {
               "name": "MBR-270GV",
@@ -4104,7 +4104,7 @@
                 "Dimensões (mm)/Peso (g)": "190x98,5x195/300",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/DIVERSOS/BOROSCÓPIOS/MBR-270GV.jpg"
+              "image": "/ProductImages/DIVERSOS/BOROSCÓPIO/MBR-270GV.jpg"
             },
             {
               "name": "MBR-300",
@@ -4128,7 +4128,7 @@
                 "Garantia": "1 ano",
                 "Acessórios": "Manual, Bolsa de Transporte, Espelho, Gancho e Imã"
               },
-              "image": "/ProductImages/DIVERSOS/BOROSCÓPIOS/MBR-300.jpg"
+              "image": "/ProductImages/DIVERSOS/BOROSCÓPIO/Overlay - MBR-300 - 1.png"
             }
           ]
         },
@@ -4156,7 +4156,7 @@
                 "Dimensões (mm)/Peso (g)": "67x30x183/147",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/DIVERSOS/MEDIDOR-DE-VIBRAÇÃO/MVA-400.jpg"
+              "image": "/ProductImages/DIVERSOS/TESTADOR DE VIBRAÇÃO/MVA-400.jpg"
             }
           ]
         },
@@ -4182,7 +4182,7 @@
                 "Peso": "Transmissor: Aproximadamente 150g\r\n\t\t\tReceptor: Aproximadamente 130g",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/DIVERSOS/IDENTIFICADOR-DE-CABOS/MTC-183.jpg"
+              "image": "/ProductImages/DIVERSOS/IDENTIFICADORES DE CABOS/MTC-183.png"
             }
           ]
         },
@@ -4241,7 +4241,7 @@
                 "Dimensões (mm)/Peso (g)": "76x49x220/440",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/DIVERSOS/DETECTOR-DE-GÁS-COMBUSTÍVEL/MGC-1000.jpg"
+              "image": "/ProductImages/DIVERSOS/DETECTORES DE GÁS/MGC-1000.jpg"
             }
           ]
         },
@@ -4261,7 +4261,7 @@
                 "CFC-114": "Propelente em aerossóis e medicamentos",
                 "CFC-115": "Refrigeração comercial"
               },
-              "image": "/ProductImages/DIVERSOS/DETECTOR-DE-GÁS-REFRIGERANTE/MGR-1000.jpg"
+              "image": "/ProductImages/DIVERSOS/DETECTORES DE GÁS/MGR-1000.jpg"
             }
           ]
         },
@@ -4282,7 +4282,7 @@
                 "Dimensão da Sonda": "200 mm",
                 "Garantia": "6 meses"
               },
-              "image": "/ProductImages/DIVERSOS/MEDIDOR-DE-UMIDADE-DE-SOLO/MV-331.jpg"
+              "image": "/ProductImages/MEDIDORES/MEDIDOR DE UMIDADE DE SOLO/MV-331.png"
             }
           ]
         },
@@ -4347,7 +4347,7 @@
                 "Categoria de Segurança": "CAT II 600V",
                 "Comprimento": "1,2m"
               },
-              "image": "/ProductImages/ACESSÓRIOS/PONTAS-DE-OSCILOSCÓPIO/LF-300.jpg"
+              "image": "/ProductImages/ACESSÓRIOS/PONTAS DE OSCILOSCÓPIO/LF-300.png"
             },
             {
               "name": "LF-60B",
@@ -4391,7 +4391,7 @@
                 "Atenuação": "1:1000",
                 "Relação de Transformação": "1V AC ou DC para 1kV AC ou DC"
               },
-              "image": "/ProductImages/ACESSÓRIOS/PONTA-DE-ALTA-TENSÃO/HV-40A.jpg"
+              "image": "/ProductImages/ACESSÓRIOS/PONTAS DE ALTA TENSÃO/HV-40A.jpg"
             }
           ]
         },
@@ -4411,7 +4411,7 @@
                 "Conexão": "Soquete Tipo K",
                 "Comprimento (mm)": "970"
               },
-              "image": "/ProductImages/ACESSÓRIOS/TERMOPARES-TIPO-K/MTK-01.jpg"
+              "image": "/ProductImages/ACESSÓRIOS/TERMOPARES TIPO K/MTK-01.jpg"
             },
             {
               "name": "MTK-93",
@@ -4427,7 +4427,7 @@
                 "Conformidade": "-",
                 "Comprimento (mm)": "1100"
               },
-              "image": "/ProductImages/ACESSÓRIOS/TERMOPARES-TIPO-K/MTK-93.jpg"
+              "image": "/ProductImages/ACESSÓRIOS/TERMOPARES TIPO K/MTK-93.jpg"
             },
             {
               "name": "MTK-13B",
@@ -4443,7 +4443,7 @@
                 "Conformidade": "ASTM E230",
                 "Comprimento (mm)": "1000"
               },
-              "image": "/ProductImages/ACESSÓRIOS/TERMOPARES-TIPO-K/MTK-13B.jpg"
+              "image": "/ProductImages/ACESSÓRIOS/TERMOPARES TIPO K/MTK-13B.jpg"
             },
             {
               "name": "MTK-15B",
@@ -4459,7 +4459,7 @@
                 "Conformidade": "ASTM E230",
                 "Comprimento (mm)": "1000"
               },
-              "image": "/ProductImages/ACESSÓRIOS/TERMOPARES-TIPO-K/MTK-15B.jpg"
+              "image": "/ProductImages/ACESSÓRIOS/TERMOPARES TIPO K/MTK-15B.jpg"
             }
           ]
         },
@@ -4477,7 +4477,7 @@
                 "Conexão": "Pino Banana 4mm Macho",
                 "Distância Entre Pinos": "20mm"
               },
-              "image": "/ProductImages/ACESSÓRIOS/ADAPTADORES/MAK-2.jpg"
+              "image": "/ProductImages/ACESSÓRIOS/TERMOPARES TIPO K/MAK-2.jpg"
             }
           ]
         },
@@ -4499,7 +4499,7 @@
                 "Comprimento do Cabo (mm)": "700",
                 "Garantia": "3 meses"
               },
-              "image": "/ProductImages/ACESSÓRIOS/PONTAS-DE-PROVA/MTL-1.jpg"
+              "image": "/ProductImages/ACESSÓRIOS/CONJUNTOS DE PONTAS/MTL-100.jpg"
             },
             {
               "name": "MTL-3",
@@ -4513,7 +4513,7 @@
                 "Comprimento do Cabo (mm)": "650",
                 "Garantia": "3 meses"
               },
-              "image": "/ProductImages/ACESSÓRIOS/PONTAS-DE-PROVA/MTL-3.jpg"
+              "image": "/ProductImages/ACESSÓRIOS/CABOS DE CONEXÃO/MTL-37.jpg"
             },
             {
               "name": "MTL-7A",
@@ -4530,7 +4530,7 @@
                 "Acompanha": "2 Protetores para os terminais\r\n\t\t\t2 Protetores para Borne Banana",
                 "Garantia": "3 meses"
               },
-              "image": "/ProductImages/ACESSÓRIOS/PONTAS-DE-PROVA/MTL-7A.jpg"
+              "image": "/ProductImages/ACESSÓRIOS/PONTEIRAS E ADAPTADORES/MTL-7A.png"
             },
             {
               "name": "MTL-24A",
@@ -4546,7 +4546,7 @@
                 "Acompanha": "2 Garras Jacaré Pequenas e 2 Protetores para os Terminais",
                 "Garantia": "3 meses"
               },
-              "image": "/ProductImages/ACESSÓRIOS/PONTAS-DE-PROVA/MTL-24A.jpg"
+              "image": "/ProductImages/ACESSÓRIOS/CONJUNTOS DE PONTAS/MTL-24A.png"
             },
             {
               "name": "MTL-18",
@@ -4583,7 +4583,7 @@
                 "Atenuação": "0,1dB/m @ 30MHz\n0,264dB/m @ 200MHz\n1,4824dB/m @ 3GHz",
                 "Garantia": "3 meses"
               },
-              "image": "/ProductImages/ACESSÓRIOS/CABOS-DE-CONEXÃO/MTL-20.jpg"
+              "image": "/ProductImages/ACESSÓRIOS/CABOS DE CONEXÃO/MTL-20.jpg"
             },
             {
               "name": "MTL-21",
@@ -4597,7 +4597,7 @@
                 "Abertura da Garra Jacaré": "6mm",
                 "Garantia": "3 meses"
               },
-              "image": "/ProductImages/ACESSÓRIOS/CABOS-DE-CONEXÃO/MTL-21.jpg"
+              "image": "/ProductImages/ACESSÓRIOS/CABOS DE CONEXÃO/MTL-21.jpg"
             },
             {
               "name": "MTL-22",
@@ -4610,7 +4610,7 @@
                 "Comprimento do Cabo (mm)": "1000",
                 "Garantia": "3 meses"
               },
-              "image": "/ProductImages/ACESSÓRIOS/CABOS-DE-CONEXÃO/MTL-22.jpg"
+              "image": "/ProductImages/ACESSÓRIOS/CABOS DE CONEXÃO/MTL-22.jpg"
             },
             {
               "name": "MTL-23",
@@ -4624,7 +4624,7 @@
                 "Abertura da Garra Jacaré": "6mm",
                 "Garantia": "3 meses"
               },
-              "image": "/ProductImages/ACESSÓRIOS/CABOS-DE-CONEXÃO/MTL-23.jpg"
+              "image": "/ProductImages/ACESSÓRIOS/CABOS DE CONEXÃO/MTL-23.jpg"
             }
           ]
         },
@@ -4646,7 +4646,7 @@
                 "Categoria de Segurança": "CAT III 1000V",
                 "Dimensões(mm)": "10x115x10"
               },
-              "image": "/ProductImages/ACESSÓRIOS/CABOS-MODULARES/MTL-52.jpg"
+              "image": "/ProductImages/ACESSÓRIOS/CABOS MODULARES/MTL-52.jpg"
             }
           ]
         },
@@ -4671,7 +4671,7 @@
                 "Dimensões (mm)/Peso (g)": "130x69x42/193",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/ACESSÓRIOS/GARRAS-DE-CORRENTE/CA-601.jpg"
+              "image": "/ProductImages/DIVERSOS/GARRAS DE CORRENTE/CA-601_com cabos.jpg"
             }
           ]
         }
@@ -4745,7 +4745,7 @@
                 "Note": "No specifications table found"
               },
               "description": "Detailed information about Dobot Magician.",
-              "image": "path_to_dobot_magician_image.jpg"
+              "image": "/ProductImages/LINHA-EDUCACIONAL/ROBÓTICA/DOBOT-MAGICIAN.jpg"
             },
             {
               "name": "Dobot Lite",
