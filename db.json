@@ -1550,7 +1550,7 @@
           "id": 301,
           "name": "Detector de Alta Tensão",
           "description": "Prático e seguro, detecta tensão sem contato para diversas aplicações (determinação de cabos energizados e de conexões interrompidas, detecção de tensões residuais e induzidas, etc). Indispensável em ambientes de alta tensão devido sua ampla faixa de operação, compatibilidade com vara de manobra e grau de proteção IP 65, contra poeira e jatos d’água.",
-          "image": "/ProductImages/FERRAMENTAS ELÉTRICAS/DETECTOR-DE-ALTA-TENSÃO/subcategory-image.jpg",
+          "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/DETECTOR-DE-ALTA-TENSÃO/subcategory-image.jpg",
           "products": [
             {
               "name": "ezHv",
@@ -1565,7 +1565,7 @@
                 "Dimensões (mm)/ Peso (g)": "299x86/600",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/FERRAMENTAS ELÉTRICAS/DETECTOR-DE-ALTA-TENSÃO/EZHV.jpg"
+              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/DETECTOR-DE-ALTA-TENSÃO/EZHV.jpg"
             }
           ]
         },
@@ -1573,7 +1573,7 @@
           "id": 302,
           "name": "Detectores de Tensão",
           "description": "Fácil de utilizar e de rápida resposta para detecção de tensão AC sem contato elétrico. Ideal para utilização em instalações elétricas graças ao seu nível de segurança e sistema de Auto Check.",
-          "image": "/ProductImages/FERRAMENTAS ELÉTRICAS/DETECTORES-DE-TENSÃO/subcategory-image.jpg",
+          "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/DETECTORES-DE-TENSÃO/subcategory-image.jpg",
           "products": [
             {
               "name": "ezHv",
@@ -1588,7 +1588,7 @@
                 "Dimensões (mm)/ Peso (g)": "299x86/600",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/FERRAMENTAS ELÉTRICAS/DETECTORES-DE-TENSÃO/EZHV.jpg"
+              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/DETECTORES-DE-TENSÃO/EZHV.jpg"
             },
             {
               "name": "ezPhase II",
@@ -1604,7 +1604,7 @@
                 "Dimensões (mm)/Peso (g)": "160x20x20/55",
                 "Garantia": "3 meses"
               },
-              "image": "/ProductImages/FERRAMENTAS ELÉTRICAS/DETECTORES-DE-TENSÃO/EZPHASE-II.jpg"
+              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/DETECTORES-DE-TENSÃO/EZPHASE-II.jpg"
             },
             {
               "name": "ezAlert-I",
@@ -1619,7 +1619,7 @@
                 "Dimensões (mm)/Peso (g)": "153x25x18mm/42g",
                 "Garantia": "3 meses"
               },
-              "image": "/ProductImages/FERRAMENTAS ELÉTRICAS/DETECTORES-DE-TENSÃO/EZALERT-I.jpg"
+              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/DETECTORES-DE-TENSÃO/EZALERT-I.jpg"
             },
             {
               "name": "ezAlert II",
@@ -1634,7 +1634,7 @@
                 "Dimensões (mm)/Peso (g)": "160x20x20mm/55g",
                 "Garantia": "3 meses"
               },
-              "image": "/ProductImages/FERRAMENTAS ELÉTRICAS/DETECTORES-DE-TENSÃO/EZALERT-II.jpg"
+              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/DETECTORES-DE-TENSÃO/EZALERT-II.jpg"
             },
             {
               "name": "ezAlert Pro",
@@ -1649,7 +1649,7 @@
                 "Dimensões (mm)/Peso (g)": "50x26x22mm/55g",
                 "Garantia": "3 meses"
               },
-              "image": "/ProductImages/FERRAMENTAS ELÉTRICAS/DETECTORES-DE-TENSÃO/EZALERT-PRO.jpg"
+              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/DETECTORES-DE-TENSÃO/EZALERT-PRO.jpg"
             },
             {
               "name": "ezTesT II",
@@ -1663,7 +1663,7 @@
                 "Dimensões (mm)/Peso (g)": "185x26,5x23mm/80g",
                 "Garantia": "3 meses"
               },
-              "image": "/ProductImages/FERRAMENTAS ELÉTRICAS/DETECTORES-DE-TENSÃO/EZTEST-II.jpg"
+              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/DETECTORES-DE-TENSÃO/EZTEST-II.jpg"
             },
             {
               "name": "ezTesT III",
@@ -1680,7 +1680,7 @@
                 "Dimensões (mm)/Peso (g)": "251(A) x 77(L) x 28(P)mm/300g",
                 "Garantia": "6 meses"
               },
-              "image": "/ProductImages/FERRAMENTAS ELÉTRICAS/DETECTORES-DE-TENSÃO/EZTEST-III.jpg"
+              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/DETECTORES-DE-TENSÃO/EZTEST-III.jpg"
             },
             {
               "name": "EzAlerT Max",
@@ -1698,7 +1698,7 @@
                 "Dimensões (mm)/Peso (g)": "155(A) x 24,6(L) x 19,6(P)mm / 25g",
                 "Garantia": "3 meses"
               },
-              "image": "/ProductImages/FERRAMENTAS ELÉTRICAS/DETECTORES-DE-TENSÃO/EZALERT-MAX.jpg"
+              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/DETECTORES-DE-TENSÃO/EZALERT-MAX.jpg"
             }
           ]
         },
@@ -1706,7 +1706,7 @@
           "id": 303,
           "name": "Fasímetros",
           "description": "Em grande parte das aplicações, a identificação da sequência correta de fase trifásica é essencial. Em muitos casos, o técnico não possui a opção de errar para depois corrigir, exigindo que se evite acidentes, perda de tempo de execução, entre outros problemas.",
-          "image": "/ProductImages/FERRAMENTAS ELÉTRICAS/FASÍMETROS/subcategory-image.jpg",
+          "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/FASÍMETROS/subcategory-image.jpg",
           "products": [
             {
               "name": "MFA-840A",
@@ -1720,7 +1720,7 @@
                 "Dimensões (mm)/Peso (g)": "85x64x23/200",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/FERRAMENTAS ELÉTRICAS/FASÍMETROS/MFA-840A.jpg"
+              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/FASÍMETROS/MFA-840A.jpg"
             },
             {
               "name": "MFA-850",
@@ -1735,7 +1735,7 @@
                 "Dimensões (mm)/Peso (g)": "134x85x45/540",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/FERRAMENTAS ELÉTRICAS/FASÍMETROS/MFA-850.jpg"
+              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/FASÍMETROS/MFA-850.jpg"
             },
             {
               "name": "MFA-862",
@@ -1751,7 +1751,7 @@
                 "Dimensões (mm)/Peso (g)": "123x71x29/200",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/FERRAMENTAS ELÉTRICAS/FASÍMETROS/MFA-862.jpg"
+              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/FASÍMETROS/MFA-862.jpg"
             },
             {
               "name": "MFA-841A",
@@ -1768,7 +1768,7 @@
                 "Dimensões (mm)/Peso (g)": "93(A) x 70(L) x 30(P)mm / 200g",
                 "Garantia": "1 ano"
               },
-              "image": "/ProductImages/FERRAMENTAS ELÉTRICAS/FASÍMETROS/MFA-841A.jpg"
+              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/FASÍMETROS/MFA-841A.jpg"
             }
           ]
         },
@@ -1776,7 +1776,7 @@
           "id": 304,
           "name": "Megômetros",
           "description": "A segurança é um dos itens mais importantes na escolha de qualquer produto, por isso os testes de isolação são necessários. Realizando este tipo de teste, a segurança do operador será maior, evitando que ele possa receber um choque causado por problemas de isolação. A linha de Megômetros Minipa torna essas medidas mais fáceis.",
-          "image": "/ProductImages/FERRAMENTAS ELÉTRICAS/MEGÔMETROS/subcategory-image.jpg",
+          "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/MEGÔMETROS/subcategory-image.jpg",
           "products": [
             {
               "name": "MI-1000",
@@ -1792,7 +1792,7 @@
                 "Dimensões (mm)/Peso (g)": "110x175x70/750",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/FERRAMENTAS ELÉTRICAS/MEGÔMETROS/MI-1000.jpg"
+              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/MEGÔMETROS/MI-1000.jpg"
             },
             {
               "name": "MI-2552",
@@ -1809,7 +1809,7 @@
                 "Dimensões (mm)/Peso (g)": "100x150x71/500",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/FERRAMENTAS ELÉTRICAS/MEGÔMETROS/MI-2552.jpg"
+              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/MEGÔMETROS/MI-2552.jpg"
             },
             {
               "name": "MI-2701A",
@@ -1831,7 +1831,7 @@
                 "Dimensões (mm)/Peso (g)": "65x180x140/900",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/FERRAMENTAS ELÉTRICAS/MEGÔMETROS/MI-2701A.jpg"
+              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/MEGÔMETROS/MI-2701A.jpg"
             },
             {
               "name": "MI-2705",
@@ -1856,7 +1856,7 @@
                 "Dimensões (mm)/Peso (g)": "202x155x94/500",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/FERRAMENTAS ELÉTRICAS/MEGÔMETROS/MI-2705.jpg"
+              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/MEGÔMETROS/MI-2705.jpg"
             },
             {
               "name": "MI-2702",
@@ -1888,7 +1888,7 @@
                 "Dimensões (mm)/Peso (g)": "65(A) x 180(L) x 140(P)mm / 594g",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/FERRAMENTAS ELÉTRICAS/MEGÔMETROS/MI-2702.jpg"
+              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/MEGÔMETROS/MI-2702.jpg"
             },
             {
               "name": "MI-1000A",
@@ -1905,7 +1905,7 @@
                 "Dimensões (mm)/Peso (g)": "115x175x62,5/758",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/FERRAMENTAS ELÉTRICAS/MEGÔMETROS/MI-1000A.jpg"
+              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/MEGÔMETROS/MI-1000A.jpg"
             },
             {
               "name": "MI-2710",
@@ -1932,7 +1932,7 @@
                 "Garantia": "1 ano",
                 "Acessórios": "Manual / Pontas de Alta Tensão / Garra Jacaré / Mala de Transporte / Alça de Transporte / Cabo USB / Carregador / Gancho / Ponta Garra Jacaré / Chaves para Maleta"
               },
-              "image": "/ProductImages/FERRAMENTAS ELÉTRICAS/MEGÔMETROS/MI-2710.jpg"
+              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/MEGÔMETROS/MI-2710.jpg"
             }
           ]
         },
@@ -1940,7 +1940,7 @@
           "id": 305,
           "name": "Multímetro Megômetro",
           "description": "Portátil e robusto, alia as funções convencionais de um multímetro a testes elétricos de isolação de um megômetro. Mede resistência de até 2GΩ.",
-          "image": "/ProductImages/FERRAMENTAS ELÉTRICAS/MULTÍMETRO-MEGÔMETRO/subcategory-image.jpg",
+          "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/MULTÍMETRO-MEGÔMETRO/subcategory-image.jpg",
           "products": [
             {
               "name": "ET-2780",
@@ -1977,7 +1977,7 @@
                 "Dimensões (mm)/Peso (g)": "202x97x40/505",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/FERRAMENTAS ELÉTRICAS/MULTÍMETRO-MEGÔMETRO/ET-2780.jpg"
+              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/MULTÍMETRO-MEGÔMETRO/ET-2780.jpg"
             }
           ]
         },
@@ -1985,21 +1985,21 @@
           "id": 306,
           "name": "Terrômetros",
           "description": "Não basta instalar um sistema de aterramento, é essencial que se faça a medida para saber e garantir o grau exato da proteção oferecida ao sistema, e se está dentro dos padrões exigidos.",
-          "image": "/ProductImages/FERRAMENTAS ELÉTRICAS/TERRÔMETROS/subcategory-image.jpg",
+          "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/TERRÔMETROS/subcategory-image.jpg",
           "products": [
             {
               "name": "MTR-1522",
               "details": {
                 "Note": "No specifications table found"
               },
-              "image": "/ProductImages/FERRAMENTAS ELÉTRICAS/TERRÔMETROS/MTR-1522.jpg"
+              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/TERRÔMETROS/MTR-1522.jpg"
             },
             {
               "name": "MTR-1530",
               "details": {
                 "Note": "No specifications table found"
               },
-              "image": "/ProductImages/FERRAMENTAS ELÉTRICAS/TERRÔMETROS/MTR-1530.jpg"
+              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/TERRÔMETROS/MTR-1530.jpg"
             },
             {
               "name": "MTR-2100",
@@ -2026,7 +2026,7 @@
                 "Dimensões (mm)/Peso (g)": "277,2x227,5x153/2450",
                 "Garantia": "24 meses"
               },
-              "image": "/ProductImages/FERRAMENTAS ELÉTRICAS/TERRÔMETROS/MTR-2100.jpg"
+              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/TERRÔMETROS/MTR-2100.jpg"
             },
             {
               "name": "MTR-1531",
@@ -2048,7 +2048,7 @@
                 "Dimensões (mm)/Peso (g)": "125(A) x 330(L) x 265(P)mm / 600g",
                 "Garantia": "1 Ano"
               },
-              "image": "/ProductImages/FERRAMENTAS ELÉTRICAS/TERRÔMETROS/MTR-1531.jpg"
+              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/TERRÔMETROS/MTR-1531.jpg"
             }
           ]
         },
@@ -2056,7 +2056,7 @@
           "id": 307,
           "name": "Alicate Terrômetro",
           "description": "Medições de resistência de aterramento de maneira prática e simples.",
-          "image": "/ProductImages/FERRAMENTAS ELÉTRICAS/ALICATE-TERRÔMETRO/subcategory-image.jpg",
+          "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/ALICATE-TERRÔMETRO/subcategory-image.jpg",
           "products": [
             {
               "name": "ET-4310",
@@ -2078,7 +2078,7 @@
                 "Dimensões (mm)/Peso (g) 160x70,5x100/": "304x104x68/1575",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/FERRAMENTAS ELÉTRICAS/ALICATE-TERRÔMETRO/ET-4310.jpg"
+              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/ALICATE-TERRÔMETRO/ET-4310.jpg"
             }
           ]
         },
@@ -2086,7 +2086,7 @@
           "id": 308,
           "name": "Autotransformadores",
           "description": "",
-          "image": "/ProductImages/FERRAMENTAS ELÉTRICAS/AUTOTRANSFORMADORES/subcategory-image.jpg",
+          "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/AUTOTRANSFORMADORES/subcategory-image.jpg",
           "products": [
             {
               "name": "ATM-3000VA",
@@ -2101,7 +2101,7 @@
                 "Dimensões (mm)/ Peso (g)": "160x130x180/6600",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/FERRAMENTAS ELÉTRICAS/AUTOTRANSFORMADORES/ATM-3000VA.jpg"
+              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/AUTOTRANSFORMADORES/ATM-3000VA.jpg"
             },
             {
               "name": "ATM-2000VA",
@@ -2116,7 +2116,7 @@
                 "Dimensões (mm)/ Peso (g)": "145x115x145/5880",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/FERRAMENTAS ELÉTRICAS/AUTOTRANSFORMADORES/ATM-2000VA.jpg"
+              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/AUTOTRANSFORMADORES/ATM-2000VA.jpg"
             },
             {
               "name": "ATM-1500VA",
@@ -2131,7 +2131,7 @@
                 "Dimensões (mm)/ Peso (g)": "125x100x145/4740",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/FERRAMENTAS ELÉTRICAS/AUTOTRANSFORMADORES/ATM-1500VA.jpg"
+              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/AUTOTRANSFORMADORES/ATM-1500VA.jpg"
             },
             {
               "name": "ATM-1010VA",
@@ -2146,7 +2146,7 @@
                 "Dimensões (mm)/ Peso (g)": "105x85x130/3140",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/FERRAMENTAS ELÉTRICAS/AUTOTRANSFORMADORES/ATM-1010VA.jpg"
+              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/AUTOTRANSFORMADORES/ATM-1010VA.jpg"
             },
             {
               "name": "ATM-5000VA",
@@ -2161,7 +2161,7 @@
                 "Dimensões (mm)/ Peso (g)": "160x130x183/10180",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/FERRAMENTAS ELÉTRICAS/AUTOTRANSFORMADORES/ATM-5000VA.jpg"
+              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/AUTOTRANSFORMADORES/ATM-5000VA.jpg"
             }
           ]
         },
@@ -2169,7 +2169,7 @@
           "id": 309,
           "name": "Caneta Multímetro",
           "description": "",
-          "image": "/ProductImages/FERRAMENTAS ELÉTRICAS/CANETA-MULTÍMETRO/subcategory-image.jpg",
+          "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/CANETA-MULTÍMETRO/subcategory-image.jpg",
           "products": [
             {
               "name": "EzVolt3",
@@ -2194,7 +2194,7 @@
                 "Mudança de Faixa": "Automática",
                 "Garantia": "1 ano"
               },
-              "image": "/ProductImages/FERRAMENTAS ELÉTRICAS/CANETA-MULTÍMETRO/EZVOLT3.jpg"
+              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/CANETA-MULTÍMETRO/EZVOLT3.jpg"
             }
           ]
         }
@@ -2210,7 +2210,7 @@
           "id": 401,
           "name": "Termômetros",
           "description": "Soluções completas para a área de termometria. Linha de instrumentos com custo reduzido que unem as mais variadas faixas de medida e funções.",
-          "image": "/ProductImages/TEMPERATURA E AMBIENTE/TERMÔMETROS/subcategory-image.jpg",
+          "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/TERMÔMETROS/subcategory-image.jpg",
           "products": [
             {
               "name": "MT-450A",
@@ -2231,7 +2231,7 @@
                 "Dimensões (mm)/Peso (g)": "120x53x28,5/120",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/TEMPERATURA E AMBIENTE/TERMÔMETROS/MT-450A.jpg"
+              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/TERMÔMETROS/MT-450A.jpg"
             },
             {
               "name": "MT-455A",
@@ -2252,7 +2252,7 @@
                 "Dimensões (mm)/Peso (g)": "120x53x28,5/120",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/TEMPERATURA E AMBIENTE/TERMÔMETROS/MT-455A.jpg"
+              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/TERMÔMETROS/MT-455A.jpg"
             }
           ]
         },
@@ -2260,7 +2260,7 @@
           "id": 402,
           "name": "Termômetro de Vareta",
           "description": "Medidas em líquidos e sólidos perfuráveis, onde a haste tenha contato total com a superfície de medida. Indicado para aplicações nas áreas química, alimentícia e de processos.",
-          "image": "/ProductImages/TEMPERATURA E AMBIENTE/TERMÔMETRO-DE-VARETA/subcategory-image.jpg",
+          "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/TERMÔMETRO-DE-VARETA/subcategory-image.jpg",
           "products": [
             {
               "name": "MV-363A",
@@ -2280,7 +2280,7 @@
                 "Dimensões (mm) / Peso (g)": "182,4x47x17/27,1",
                 "Garantia": "3 meses"
               },
-              "image": "/ProductImages/TEMPERATURA E AMBIENTE/TERMÔMETRO-DE-VARETA/MV-363A.jpg"
+              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/TERMÔMETRO-DE-VARETA/MV-363A.jpg"
             }
           ]
         },
@@ -2288,7 +2288,7 @@
           "id": 403,
           "name": "Data Logger de Temperatura e Umidade",
           "description": "Equipamento portátil e de simples manuseio destinado para monitoramento de temperatura e umidade. Possui grau de proteção IP 67, tornando-o resistente contra poeira e imersão em água.",
-          "image": "/ProductImages/TEMPERATURA E AMBIENTE/DATA-LOGGER-DE-TEMPERATURA-E-UMIDADE/subcategory-image.jpg",
+          "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/DATA-LOGGER-DE-TEMPERATURA-E-UMIDADE/subcategory-image.jpg",
           "products": [
             {
               "name": "EzTemp11",
@@ -2308,7 +2308,7 @@
                 "Dimensões (mm)/Peso (g)": "105(A) x 38(L) x 14(P)mm / 25g",
                 "Garantia": "1 ano"
               },
-              "image": "/ProductImages/TEMPERATURA E AMBIENTE/DATA-LOGGER-DE-TEMPERATURA-E-UMIDADE/EZTEMP11.jpg"
+              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/DATA-LOGGER-DE-TEMPERATURA-E-UMIDADE/EZTEMP11.jpg"
             }
           ]
         },
@@ -2316,7 +2316,7 @@
           "id": 404,
           "name": "Termo-higrômetros",
           "description": "Os termo-higrômetros são instrumentos destinados para medida de temperatura e umidade ambiental. Indicados para aplicações em estufas, salas climatizadas, ambientes residenciais e de escritório. Podem registrar os valores obtidos ou enviar de forma direta para um computador, possibilitando assim a geração de relatórios. Contam também com funções máximo e mínimo, ponto de orvalho, diferença de temperatura entre dois sensores (externo e interno), entre outros.",
-          "image": "/ProductImages/TEMPERATURA E AMBIENTE/TERMO-HIGRÔMETROS/subcategory-image.jpg",
+          "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/TERMO-HIGRÔMETROS/subcategory-image.jpg",
           "products": [
             {
               "name": "MT-241",
@@ -2337,7 +2337,7 @@
                 "Dimensões (mm)/Peso (g)": "108x58x15/100",
                 "Garantia": "3 meses"
               },
-              "image": "/ProductImages/TEMPERATURA E AMBIENTE/TERMO-HIGRÔMETROS/MT-241.jpg"
+              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/TERMO-HIGRÔMETROS/MT-241.jpg"
             },
             {
               "name": "MT-242A",
@@ -2357,7 +2357,7 @@
                 "Dimensões (mm)/Peso (g)": "78x130x23/120",
                 "Garantia": "3 meses"
               },
-              "image": "/ProductImages/TEMPERATURA E AMBIENTE/TERMO-HIGRÔMETROS/MT-242A.jpg"
+              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/TERMO-HIGRÔMETROS/MT-242A.jpg"
             },
             {
               "name": "MTH-1320",
@@ -2385,7 +2385,7 @@
                 "Dimensões (mm)/Peso (g)": "152(A) x 55(L) x 33(P)mm / 98g",
                 "Garantia": "1 ano"
               },
-              "image": "/ProductImages/TEMPERATURA E AMBIENTE/TERMO-HIGRÔMETROS/MTH-1320.jpg"
+              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/TERMO-HIGRÔMETROS/MTH-1320.jpg"
             },
             {
               "name": "MT-241A",
@@ -2405,7 +2405,7 @@
                 "Dimensões (mm)/Peso (g)": "78x130x23/120",
                 "Garantia": "3 meses"
               },
-              "image": "/ProductImages/TEMPERATURA E AMBIENTE/TERMO-HIGRÔMETROS/MT-241A.jpg"
+              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/TERMO-HIGRÔMETROS/MT-241A.jpg"
             },
             {
               "name": "MTH-1390",
@@ -2433,7 +2433,7 @@
                 "Dimensões (mm)/Peso (g)": "218(A) x 64(L) x 35(P)mm / 192g",
                 "Garantia": "1 ano"
               },
-              "image": "/ProductImages/TEMPERATURA E AMBIENTE/TERMO-HIGRÔMETROS/MTH-1390.jpg"
+              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/TERMO-HIGRÔMETROS/MTH-1390.jpg"
             }
           ]
         },
@@ -2441,7 +2441,7 @@
           "id": 405,
           "name": "Termômetros Infravermelhos",
           "description": "Linha destinada às aplicações que requerem medidas de temperatura sem contato, como em locais de difícil acesso, pontos energizados, com altas temperaturas, em peças ou partes em movimento e em locais com impossibilidade de acesso por motivos de segurança ou higiene. Apresentam resposta rápida e prática, com auxílio da mira laser para identificação do local de medida.",
-          "image": "/ProductImages/TEMPERATURA E AMBIENTE/TERMÔMETROS-INFRAVERMELHOS/subcategory-image.jpg",
+          "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/TERMÔMETROS-INFRAVERMELHOS/subcategory-image.jpg",
           "products": [
             {
               "name": "MT-350A",
@@ -2467,7 +2467,7 @@
                 "Dimensões (mm)/Peso (g)": "169x103x48/200",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/TEMPERATURA E AMBIENTE/TERMÔMETROS-INFRAVERMELHOS/MT-350A.jpg"
+              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/TERMÔMETROS-INFRAVERMELHOS/MT-350A.jpg"
             },
             {
               "name": "MT-395A",
@@ -2493,7 +2493,7 @@
                 "Dimensões (mm)/Peso (g)": "260x155x54/295",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/TEMPERATURA E AMBIENTE/TERMÔMETROS-INFRAVERMELHOS/MT-395A.jpg"
+              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/TERMÔMETROS-INFRAVERMELHOS/MT-395A.jpg"
             },
             {
               "name": "MT-320B",
@@ -2514,7 +2514,7 @@
                 "Dimensões (mm)/peso(g)": "165(A)x47(L)x59(P)mm / 135 (g)",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/TEMPERATURA E AMBIENTE/TERMÔMETROS-INFRAVERMELHOS/MT-320B.jpg"
+              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/TERMÔMETROS-INFRAVERMELHOS/MT-320B.jpg"
             }
           ]
         },
@@ -2522,7 +2522,7 @@
           "id": 406,
           "name": "Anemômetros",
           "description": "Estes instrumentos são uma maneira prática de se medir a velocidade de deslocamento e temperatura do ar nas mais variadas aplicações, como em sistemas de ventilação, ar-condicionado, testes da condição ambiente, entre outras.",
-          "image": "/ProductImages/TEMPERATURA E AMBIENTE/ANEMÔMETROS/subcategory-image.jpg",
+          "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/ANEMÔMETROS/subcategory-image.jpg",
           "products": [
             {
               "name": "MDA-01",
@@ -2542,7 +2542,7 @@
                 "Dimensões (mm)": "160x50x28mm/118g",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/TEMPERATURA E AMBIENTE/ANEMÔMETROS/MDA-01.jpg"
+              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/ANEMÔMETROS/MDA-01.jpg"
             },
             {
               "name": "MDA-10A",
@@ -2564,7 +2564,7 @@
                 "Dimensões (mm)/Peso (g)": "165x85x38/200",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/TEMPERATURA E AMBIENTE/ANEMÔMETROS/MDA-10A.jpg"
+              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/ANEMÔMETROS/MDA-10A.jpg"
             },
             {
               "name": "MDA-20",
@@ -2586,7 +2586,7 @@
                 "Dimensões (mm)/Peso (g)": "162x78x30/375",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/TEMPERATURA E AMBIENTE/ANEMÔMETROS/MDA-20.jpg"
+              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/ANEMÔMETROS/MDA-20.jpg"
             },
             {
               "name": "MDA-11A",
@@ -2606,7 +2606,7 @@
                 "Dimensões(mm) / Peso(g)": "120x53x43mm/365",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/TEMPERATURA E AMBIENTE/ANEMÔMETROS/MDA-11A.jpg"
+              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/ANEMÔMETROS/MDA-11A.jpg"
             },
             {
               "name": "MDA-10B",
@@ -2633,7 +2633,7 @@
                 "Dimensões (mm)/Peso (g)": "210(A) x 72(L) x 28(P)mm / 142g",
                 "Garantia": "1 ano"
               },
-              "image": "/ProductImages/TEMPERATURA E AMBIENTE/ANEMÔMETROS/MDA-10B.jpg"
+              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/ANEMÔMETROS/MDA-10B.jpg"
             }
           ]
         },
@@ -2641,7 +2641,7 @@
           "id": 407,
           "name": "Luxímetros",
           "description": "A iluminação ambiente adequada é importante em vários aspectos, desde aqueles relacionados ao conforto humano até aos princípios legais, principalmente trabalhistas.",
-          "image": "/ProductImages/TEMPERATURA E AMBIENTE/LUXÍMETROS/subcategory-image.jpg",
+          "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/LUXÍMETROS/subcategory-image.jpg",
           "products": [
             {
               "name": "MLM-1001",
@@ -2659,7 +2659,7 @@
                 "Dimensões (mm)": "160x50x28/118",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/TEMPERATURA E AMBIENTE/LUXÍMETROS/MLM-1001.jpg"
+              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/LUXÍMETROS/MLM-1001.jpg"
             },
             {
               "name": "MLM-1011",
@@ -2676,7 +2676,7 @@
                 "Dimensões (mm)/Peso (g)": "230x72x30/190",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/TEMPERATURA E AMBIENTE/LUXÍMETROS/MLM-1011.jpg"
+              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/LUXÍMETROS/MLM-1011.jpg"
             },
             {
               "name": "MLM-1020",
@@ -2694,7 +2694,7 @@
                 "Dimensões (mm)/Peso (g)": "195x45x26/185",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/TEMPERATURA E AMBIENTE/LUXÍMETROS/MLM-1020.jpg"
+              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/LUXÍMETROS/MLM-1020.jpg"
             }
           ]
         },
@@ -2702,7 +2702,7 @@
           "id": 408,
           "name": "Decibelímetros",
           "description": "Os ruídos sonoros no ambiente além de incomodar, podem trazer problemas com a fiscalização. Através dos decibelímetros é possível medir e se adequar as legislações pertinentes.",
-          "image": "/ProductImages/TEMPERATURA E AMBIENTE/DECIBELÍMETROS/subcategory-image.jpg",
+          "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/DECIBELÍMETROS/subcategory-image.jpg",
           "products": [
             {
               "name": "MSL-1355B",
@@ -2729,7 +2729,7 @@
                 "Dimensões (mm)/Peso (g)": "256x70x35/244",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/TEMPERATURA E AMBIENTE/DECIBELÍMETROS/MSL-1355B.jpg"
+              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/DECIBELÍMETROS/MSL-1355B.jpg"
             },
             {
               "name": "MSL-1301",
@@ -2748,7 +2748,7 @@
                 "Dimensões (mm)/Peso (g)": "150x52x27/116",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/TEMPERATURA E AMBIENTE/DECIBELÍMETROS/MSL-1301.jpg"
+              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/DECIBELÍMETROS/MSL-1301.jpg"
             }
           ]
         },
@@ -2756,14 +2756,14 @@
           "id": 409,
           "name": "Sensor Wi-Fi",
           "description": "",
-          "image": "/ProductImages/TEMPERATURA E AMBIENTE/SENSOR-WI-FI/subcategory-image.jpg",
+          "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/SENSOR-WI-FI/subcategory-image.jpg",
           "products": [
             {
               "name": "Sensores Wi-Fi / Comunicação em Nuvem",
               "details": {
                 "Note": "No specifications table found"
               },
-              "image": "/ProductImages/TEMPERATURA E AMBIENTE/SENSOR-WI-FI/SENSORES-WI-FI-/-COMUNICAÇÃO-EM-NUVEM.jpg"
+              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/SENSOR-WI-FI/SENSORES-WI-FI-/-COMUNICAÇÃO-EM-NUVEM.jpg"
             }
           ]
         },
@@ -2771,7 +2771,7 @@
           "id": 410,
           "name": "Termovisora",
           "description": "",
-          "image": "/ProductImages/TEMPERATURA E AMBIENTE/TERMOVISORA/subcategory-image.jpg",
+          "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/TERMOVISORA/subcategory-image.jpg",
           "products": [
             {
               "name": "MTV-120",
@@ -2803,7 +2803,7 @@
                 "Dimensões (mm)/Peso(g)": "236x 75,5x 86 / 503",
                 "Garantia": "1 ano"
               },
-              "image": "/ProductImages/TEMPERATURA E AMBIENTE/TERMOVISORA/MTV-120.jpg"
+              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/TERMOVISORA/MTV-120.jpg"
             },
             {
               "name": "MTV-10M",
@@ -2838,7 +2838,7 @@
                 "Garantia": "1 Ano",
                 "Aplicativo para Smartphone Android": "Android TM 8 ou superior"
               },
-              "image": "/ProductImages/TEMPERATURA E AMBIENTE/TERMOVISORA/MTV-10M.jpg"
+              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/TERMOVISORA/MTV-10M.jpg"
             }
           ]
         }
@@ -2861,7 +2861,7 @@
           "id": 601,
           "name": "Trenas a Laser",
           "description": "Os medidores de distância a laser Minipa realizam medições precisas de forma rápida, fácil e eficaz. Possuem funções que substituem cálculo manual como medidas de área, volume e relações pitagóricas. O modelo MD-50A faz medições de até 50m e o MD-100 de até 100m, com memória para até 100 dados.",
-          "image": "/ProductImages/CONSTRUÇÃO CIVIL/TRENAS-A-LASER/subcategory-image.jpg",
+          "image": "/ProductImages/CONSTRUÇÃO-CIVIL/TRENAS-A-LASER/subcategory-image.jpg",
           "products": [
             {
               "name": "MD-40A",
@@ -2879,7 +2879,7 @@
                 "Peso": "108,8g",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/CONSTRUÇÃO CIVIL/TRENAS-A-LASER/MD-40A.jpg"
+              "image": "/ProductImages/CONSTRUÇÃO-CIVIL/TRENAS-A-LASER/MD-40A.jpg"
             },
             {
               "name": "MD-50B",
@@ -2902,7 +2902,7 @@
                 "Dimensões (mm)/Peso (g)": "105(A) x 40(L) x 24(P)mm / 78g",
                 "Garantia": "1 Ano"
               },
-              "image": "/ProductImages/CONSTRUÇÃO CIVIL/TRENAS-A-LASER/MD-50B.jpg"
+              "image": "/ProductImages/CONSTRUÇÃO-CIVIL/TRENAS-A-LASER/MD-50B.jpg"
             }
           ]
         },
@@ -2910,7 +2910,7 @@
           "id": 602,
           "name": "Medidor de Ângulo a Laser",
           "description": "É um indicador de ângulo compacto e portátil desenvolvido para ser operado em campo. Possui lasers guias e indicadores de nível que garantem uma orientação precisa.",
-          "image": "/ProductImages/CONSTRUÇÃO CIVIL/MEDIDOR-DE-ÂNGULO-A-LASER/subcategory-image.jpg",
+          "image": "/ProductImages/CONSTRUÇÃO-CIVIL/MEDIDOR-DE-ÂNGULO-A-LASER/subcategory-image.jpg",
           "products": [
             {
               "name": "MLL-102",
@@ -2924,7 +2924,7 @@
                 "Dimensões(mm)/peso(g)": "Φ120 mm (r) x 50mm (A) / 122g",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/CONSTRUÇÃO CIVIL/MEDIDOR-DE-ÂNGULO-A-LASER/MLL-102.jpg"
+              "image": "/ProductImages/CONSTRUÇÃO-CIVIL/MEDIDOR-DE-ÂNGULO-A-LASER/MLL-102.jpg"
             }
           ]
         },
@@ -2932,7 +2932,7 @@
           "id": 603,
           "name": "Nível a Laser",
           "description": "Os medidores de distância a laser Minipa realizam medições precisas de forma rápida, fácil e eficaz. Possuem funções que substituem cálculo manual como medidas de área, volume e relações pitagóricas. O modelo MD-50A faz medições de até 50m e o MD-100 de até 100m, com memória para até 100 dados.",
-          "image": "/ProductImages/CONSTRUÇÃO CIVIL/NÍVEL-A-LASER/subcategory-image.jpg",
+          "image": "/ProductImages/CONSTRUÇÃO-CIVIL/NÍVEL-A-LASER/subcategory-image.jpg",
           "products": [
             {
               "name": "MN-110",
@@ -2948,7 +2948,7 @@
                 "Dimensões(mm)/peso(g)": "75x65x75",
                 "Garantia": "3 meses"
               },
-              "image": "/ProductImages/CONSTRUÇÃO CIVIL/NÍVEL-A-LASER/MN-110.jpg"
+              "image": "/ProductImages/CONSTRUÇÃO-CIVIL/NÍVEL-A-LASER/MN-110.jpg"
             }
           ]
         }
@@ -2964,7 +2964,7 @@
           "id": 701,
           "name": "Osciloscópio Automotivo",
           "description": "Opção completa para medições em veículos com motores a combustão.",
-          "image": "/ProductImages/LINHA AUTOMOTIVA/OSCILOSCÓPIO-AUTOMOTIVO/subcategory-image.jpg",
+          "image": "/ProductImages/LINHA-AUTOMOTIVA/OSCILOSCÓPIO-AUTOMOTIVO/subcategory-image.jpg",
           "products": [
             {
               "name": "MS-1005",
@@ -2995,7 +2995,7 @@
                 "Dimensões (mm)/Peso (g)": "166x88x51/320",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/LINHA AUTOMOTIVA/OSCILOSCÓPIO-AUTOMOTIVO/MS-1005.jpg"
+              "image": "/ProductImages/LINHA-AUTOMOTIVA/OSCILOSCÓPIO-AUTOMOTIVO/MS-1005.jpg"
             }
           ]
         },
@@ -3003,7 +3003,7 @@
           "id": 702,
           "name": "Testador de Bateria",
           "description": "Inovador e prático, o testador de bateria automotivo pode ser utilizado em veículos a gasolina ou diesel. Avalia a tensão da bateria e seu estado de carga, a tensão de carga de todo o Circuito Automotivo, analisando inclusive alternador ou regulador e a capacidade de partida. Uma avaliação completa e rápida, sem a necessidade de retirar a bateria do veículo, evitando complicações.",
-          "image": "/ProductImages/LINHA AUTOMOTIVA/TESTADOR-DE-BATERIA/subcategory-image.jpg",
+          "image": "/ProductImages/LINHA-AUTOMOTIVA/TESTADOR-DE-BATERIA/subcategory-image.jpg",
           "products": [
             {
               "name": "MTB-1000",
@@ -3028,7 +3028,7 @@
                 "Dimensões (mm) / Peso (g)": "183x95x47/413",
                 "Garantia": "1 ano"
               },
-              "image": "/ProductImages/LINHA AUTOMOTIVA/TESTADOR-DE-BATERIA/MTB-1000.jpg"
+              "image": "/ProductImages/LINHA-AUTOMOTIVA/TESTADOR-DE-BATERIA/MTB-1000.jpg"
             },
             {
               "name": "MTB-200",
@@ -3054,7 +3054,7 @@
                 "Dimensões (mm)/Peso (g)": "200(A) x 120(L) x 55(P)mm / 272g",
                 "Garantia": "1 ano"
               },
-              "image": "/ProductImages/LINHA AUTOMOTIVA/TESTADOR-DE-BATERIA/MTB-200.jpg"
+              "image": "/ProductImages/LINHA-AUTOMOTIVA/TESTADOR-DE-BATERIA/MTB-200.jpg"
             }
           ]
         },
@@ -3062,7 +3062,7 @@
           "id": 703,
           "name": "Multímetros Automotivos",
           "description": "O modelo MA-120 diferencia-se dos modelos de uso geral por causa das funções específicas da área automotiva, tais como RPM, Dwell (Ângulo de Permanência) e Duty Cycle (Ciclo de Trabalho). Além de todas essas funções, o modelo MA-150 possui faixas mais amplas e a possibilidade de comunicação com o computador.",
-          "image": "/ProductImages/LINHA AUTOMOTIVA/MULTÍMETROS-AUTOMOTIVOS/subcategory-image.jpg",
+          "image": "/ProductImages/LINHA-AUTOMOTIVA/MULTÍMETROS-AUTOMOTIVOS/subcategory-image.jpg",
           "products": [
             {
               "name": "MA-120A",
@@ -3093,7 +3093,7 @@
                 "Dimensões (mm)/Peso (g)": "166x88x51/320",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/LINHA AUTOMOTIVA/MULTÍMETROS-AUTOMOTIVOS/MA-120A.jpg"
+              "image": "/ProductImages/LINHA-AUTOMOTIVA/MULTÍMETROS-AUTOMOTIVOS/MA-120A.jpg"
             },
             {
               "name": "MA-150",
@@ -3124,7 +3124,7 @@
                 "Dimensões (mm)/Peso (g)": "184x89x62/447g",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/LINHA AUTOMOTIVA/MULTÍMETROS-AUTOMOTIVOS/MA-150.jpg"
+              "image": "/ProductImages/LINHA-AUTOMOTIVA/MULTÍMETROS-AUTOMOTIVOS/MA-150.jpg"
             }
           ]
         }
@@ -3140,7 +3140,7 @@
           "id": 801,
           "name": "Fontes de Alimentação",
           "description": "Fontes de alimentação DC reguladas e chaveada, atendendo diversas áreas de atuação como pesquisa e desenvolvimento, escolas, centros de manutenção e linhas de produção. Equipamentos voltados para suprir o mercado a um baixo custo, garantindo condições de estabilidade e operações contínuas mesmo nas condições de máxima carga.",
-          "image": "/ProductImages/INSTRUMENTOS DE BANCADA/FONTES-DE-ALIMENTAÇÃO/subcategory-image.jpg",
+          "image": "/ProductImages/INSTRUMENTOS-DE-BANCADA/FONTES-DE-ALIMENTAÇÃO/subcategory-image.jpg",
           "products": [
             {
               "name": "MPC-3005",
@@ -3160,12 +3160,12 @@
                 "Dimensões(mm)/peso(g)": "165(A)x265(L)x360(P)mm / 10 (kg)",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/INSTRUMENTOS DE BANCADA/FONTES-DE-ALIMENTAÇÃO/MPC-3005.jpg"
+              "image": "/ProductImages/INSTRUMENTOS-DE-BANCADA/FONTES-DE-ALIMENTAÇÃO/MPC-3005.jpg"
             },
             {
               "name": "MPL-1305M",
               "details": {},
-              "image": "/ProductImages/INSTRUMENTOS DE BANCADA/FONTES-DE-ALIMENTAÇÃO/MPL-1305M.jpg"
+              "image": "/ProductImages/INSTRUMENTOS-DE-BANCADA/FONTES-DE-ALIMENTAÇÃO/MPL-1305M.jpg"
             },
             {
               "name": "MPL-3305M",
@@ -3191,12 +3191,12 @@
                 "Dimensões (mm)/Peso (g)": "260x170x315/11",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/INSTRUMENTOS DE BANCADA/FONTES-DE-ALIMENTAÇÃO/MPL-3305M.jpg"
+              "image": "/ProductImages/INSTRUMENTOS-DE-BANCADA/FONTES-DE-ALIMENTAÇÃO/MPL-3305M.jpg"
             },
             {
               "name": "MPS-3005B",
               "details": {},
-              "image": "/ProductImages/INSTRUMENTOS DE BANCADA/FONTES-DE-ALIMENTAÇÃO/MPS-3005B.jpg"
+              "image": "/ProductImages/INSTRUMENTOS-DE-BANCADA/FONTES-DE-ALIMENTAÇÃO/MPS-3005B.jpg"
             },
             {
               "name": "MPC-3003",
@@ -3216,7 +3216,7 @@
                 "Dimensões(mm)/peso(g)": "165(A)x265(L)x360(P)mm / 10 (kg)",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/INSTRUMENTOS DE BANCADA/FONTES-DE-ALIMENTAÇÃO/MPC-3003.jpg"
+              "image": "/ProductImages/INSTRUMENTOS-DE-BANCADA/FONTES-DE-ALIMENTAÇÃO/MPC-3003.jpg"
             },
             {
               "name": "MPL-1305PS",
@@ -3240,7 +3240,7 @@
                 "Dimensões(mm)/Peso (g)": "262(A) x 110(L) x 160(P)mm / 4,3kg",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/INSTRUMENTOS DE BANCADA/FONTES-DE-ALIMENTAÇÃO/MPL-1305PS.jpg"
+              "image": "/ProductImages/INSTRUMENTOS-DE-BANCADA/FONTES-DE-ALIMENTAÇÃO/MPL-1305PS.jpg"
             }
           ]
         },
@@ -3248,7 +3248,7 @@
           "id": 802,
           "name": "Geradores de Função",
           "description": "Fornecem diferentes tipos de sinais para teste, calibração e solução de problemas de circuitos eletrônicos. Os modelos MFG-4225A/4280 geram formas de onda padrão e arbitrárias (customizadas pelo usuário), com canal duplo de saída. Já o MFG-4202A gera sinais simples para testes básicos com preço acessível.",
-          "image": "/ProductImages/INSTRUMENTOS DE BANCADA/GERADORES-DE-FUNÇÃO/subcategory-image.jpg",
+          "image": "/ProductImages/INSTRUMENTOS-DE-BANCADA/GERADORES-DE-FUNÇÃO/subcategory-image.jpg",
           "products": [
             {
               "name": "MFG-4205D",
@@ -3270,7 +3270,7 @@
                 "Frequência de Modulação": "AM, FM, PM, Varredura e Burst: 2mHz até 20,00kHz\r\n\t\t\tFSK: 2mHz ~ 100kHz",
                 "Faixa de Frequência": "Frequência, Período, Duty Cycle, Comprimento de Pulso Positivo: 100mHz ~200MHz"
               },
-              "image": "/ProductImages/INSTRUMENTOS DE BANCADA/GERADORES-DE-FUNÇÃO/MFG-4205D.jpg"
+              "image": "/ProductImages/INSTRUMENTOS-DE-BANCADA/GERADORES-DE-FUNÇÃO/MFG-4205D.jpg"
             },
             {
               "name": "MFG-4202A",
@@ -3286,7 +3286,7 @@
                 "Peso": "2kg",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/INSTRUMENTOS DE BANCADA/GERADORES-DE-FUNÇÃO/MFG-4202A.jpg"
+              "image": "/ProductImages/INSTRUMENTOS-DE-BANCADA/GERADORES-DE-FUNÇÃO/MFG-4202A.jpg"
             },
             {
               "name": "MFG-4210C",
@@ -3309,7 +3309,7 @@
                 "Dimensões (mm)/ Peso (g)": "105x229x281/2,6k",
                 "Garantia": "36 meses"
               },
-              "image": "/ProductImages/INSTRUMENTOS DE BANCADA/GERADORES-DE-FUNÇÃO/MFG-4210C.jpg"
+              "image": "/ProductImages/INSTRUMENTOS-DE-BANCADA/GERADORES-DE-FUNÇÃO/MFG-4210C.jpg"
             },
             {
               "name": "MFG-4205C",
@@ -3328,7 +3328,7 @@
                 "Dimensões (mm)/Peso (g)": "165x320x110/ Líquido 3,10kg - Bruto 4,10kg",
                 "Garantia": "36 meses"
               },
-              "image": "/ProductImages/INSTRUMENTOS DE BANCADA/GERADORES-DE-FUNÇÃO/MFG-4205C.jpg"
+              "image": "/ProductImages/INSTRUMENTOS-DE-BANCADA/GERADORES-DE-FUNÇÃO/MFG-4205C.jpg"
             }
           ]
         },
@@ -3336,7 +3336,7 @@
           "id": 803,
           "name": "Multímetros de Bancada",
           "description": "Multímetros de bancada com maior velocidade de leitura e sistema Data Logger para registro de medições. Ideais para bancadas de manutenção e educacionais. Os modelos MDM- 8045C e MDM-8145A possuem um compartimento para guardar seus acessórios.",
-          "image": "/ProductImages/INSTRUMENTOS DE BANCADA/MULTÍMETROS-DE-BANCADA/subcategory-image.jpg",
+          "image": "/ProductImages/INSTRUMENTOS-DE-BANCADA/MULTÍMETROS-DE-BANCADA/subcategory-image.jpg",
           "products": [
             {
               "name": "MDM-8045C",
@@ -3369,7 +3369,7 @@
                 "Dimensões (mm)/ Peso (g)": "105x245x300/1,5k",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/INSTRUMENTOS DE BANCADA/MULTÍMETROS-DE-BANCADA/MDM-8045C.jpg"
+              "image": "/ProductImages/INSTRUMENTOS-DE-BANCADA/MULTÍMETROS-DE-BANCADA/MDM-8045C.jpg"
             },
             {
               "name": "MDM-8145A",
@@ -3402,7 +3402,7 @@
                 "Dimensões (mm)/ Peso (g)": "105x245x310/3k",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/INSTRUMENTOS DE BANCADA/MULTÍMETROS-DE-BANCADA/MDM-8145A.jpg"
+              "image": "/ProductImages/INSTRUMENTOS-DE-BANCADA/MULTÍMETROS-DE-BANCADA/MDM-8145A.jpg"
             },
             {
               "name": "MDM-8145B",
@@ -3432,7 +3432,7 @@
                 "Garantia": "12 meses",
                 "Acessórios": "Manual/ Pontas de prova / Garra Jacaré / Cabo de alimentação / Cabo USB"
               },
-              "image": "/ProductImages/INSTRUMENTOS DE BANCADA/MULTÍMETROS-DE-BANCADA/MDM-8145B.jpg"
+              "image": "/ProductImages/INSTRUMENTOS-DE-BANCADA/MULTÍMETROS-DE-BANCADA/MDM-8145B.jpg"
             }
           ]
         },
@@ -3440,7 +3440,7 @@
           "id": 804,
           "name": "Frequencímetro",
           "description": "",
-          "image": "/ProductImages/INSTRUMENTOS DE BANCADA/FREQUENCÍMETRO/subcategory-image.jpg",
+          "image": "/ProductImages/INSTRUMENTOS-DE-BANCADA/FREQUENCÍMETRO/subcategory-image.jpg",
           "products": [
             {
               "name": "MF-7240",
@@ -3457,7 +3457,7 @@
                 "Dimensões (mm)/pesgo (g)": "100x215x270mm/peso 1,6kg",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/INSTRUMENTOS DE BANCADA/FREQUENCÍMETRO/MF-7240.jpg"
+              "image": "/ProductImages/INSTRUMENTOS-DE-BANCADA/FREQUENCÍMETRO/MF-7240.jpg"
             }
           ]
         }
@@ -3480,7 +3480,7 @@
           "id": 1001,
           "name": "Dispositivos IoT",
           "description": "Detailed information about Dispositivos IoT.",
-          "image": "/ProductImages/LINHA SMART/DISPOSITIVOS-IOT/subcategory-image.jpg",
+          "image": "/ProductImages/LINHA-SMART/DISPOSITIVOS-IOT/subcategory-image.jpg",
           "products": [
             {
               "name": "SM-1000",
@@ -3507,7 +3507,7 @@
                 "Mudança de Faixa": "Automática",
                 "Garantia": "6  meses"
               },
-              "image": "/ProductImages/LINHA SMART/DISPOSITIVOS-IOT/SM-1000.jpg"
+              "image": "/ProductImages/LINHA-SMART/DISPOSITIVOS-IOT/SM-1000.jpg"
             },
             {
               "name": "SM-1600",
@@ -3541,7 +3541,7 @@
                 "Mudança de Faixa": "Automática",
                 "Garantia": "1 ano"
               },
-              "image": "/ProductImages/LINHA SMART/DISPOSITIVOS-IOT/SM-1600.jpg"
+              "image": "/ProductImages/LINHA-SMART/DISPOSITIVOS-IOT/SM-1600.jpg"
             }
           ]
         },
@@ -3549,7 +3549,7 @@
           "id": 1002,
           "name": "Sensores Inteligentes",
           "description": "Detailed information about Sensores Inteligentes.",
-          "image": "/ProductImages/LINHA SMART/SENSORES-INTELIGENTES/subcategory-image.jpg",
+          "image": "/ProductImages/LINHA-SMART/SENSORES-INTELIGENTES/subcategory-image.jpg",
           "products": [
             {
               "name": "SM-3305",
@@ -3586,7 +3586,7 @@
                 "Mudança de Faixa": "Automática",
                 "Garantia": "1 ano"
               },
-              "image": "/ProductImages/LINHA SMART/SENSORES-INTELIGENTES/SM-3305.jpg"
+              "image": "/ProductImages/LINHA-SMART/SENSORES-INTELIGENTES/SM-3305.jpg"
             }
           ]
         }
@@ -4687,28 +4687,28 @@
           "id": 1201,
           "name": "Kits Educacionais",
           "description": "Sistemas de treinamento e plataformas de estudo projetados para atender as necessidade de aulas práticas de Eletrônica Digital dos cursos de Engenharia Elétrica, Técnico em Eletroeletrônica, Técnico em Eletrotécnica, Técnico em Automação Industrial e Técnico em Mecatrônica, entre outros.",
-          "image": "/ProductImages/LINHA EDUCACIONAL/KITS-EDUCACIONAIS/subcategory-image.jpg",
+          "image": "/ProductImages/LINHA-EDUCACIONAL/KITS-EDUCACIONAIS/subcategory-image.jpg",
           "products": [
             {
               "name": "PNEUSYSTEM",
               "details": {
                 "Note": "No specifications table found"
               },
-              "image": "/ProductImages/LINHA EDUCACIONAL/KITS-EDUCACIONAIS/PNEUSYSTEM.jpg"
+              "image": "/ProductImages/LINHA-EDUCACIONAL/KITS-EDUCACIONAIS/PNEUSYSTEM.jpg"
             },
             {
               "name": "AUTOSYSTEM",
               "details": {
                 "Note": "No specifications table found"
               },
-              "image": "/ProductImages/LINHA EDUCACIONAL/KITS-EDUCACIONAIS/AUTOSYSTEM.jpg"
+              "image": "/ProductImages/LINHA-EDUCACIONAL/KITS-EDUCACIONAIS/AUTOSYSTEM.jpg"
             },
             {
               "name": "MECHATROSYSTEM",
               "details": {
                 "Note": "No specifications table found"
               },
-              "image": "/ProductImages/LINHA EDUCACIONAL/KITS-EDUCACIONAIS/MECHATROSYSTEM.jpg"
+              "image": "/ProductImages/LINHA-EDUCACIONAL/KITS-EDUCACIONAIS/MECHATROSYSTEM.jpg"
             },
             {
               "name": "AI Starter",
@@ -4729,7 +4729,7 @@
                 "Sensor Geomagnético": "x 1",
                 "Sensor de Luz": "x 1"
               },
-              "image": "/ProductImages/LINHA EDUCACIONAL/KITS-EDUCACIONAIS/AI-STARTER.jpg"
+              "image": "/ProductImages/LINHA-EDUCACIONAL/KITS-EDUCACIONAIS/AI-STARTER.jpg"
             }
           ]
         },
@@ -4737,7 +4737,7 @@
           "id": 1202,
           "name": "Robótica",
           "description": "Equipamentos voltados para atender as mais variadas áreas do conhecimento escolar e universitário auxiliando no ensino de processos de robótica, automação, inteligência artificial e outras competências.",
-          "image": "/ProductImages/LINHA EDUCACIONAL/ROBÓTICA/subcategory-image.jpg",
+          "image": "/ProductImages/LINHA-EDUCACIONAL/ROBÓTICA/subcategory-image.jpg",
           "products": [
             {
               "name": "Dobot Magician",
@@ -4752,7 +4752,7 @@
               "details": {
                 "Note": "No specifications table found"
               },
-              "image": "/ProductImages/LINHA EDUCACIONAL/ROBÓTICA/DOBOT-LITE.jpg"
+              "image": "/ProductImages/LINHA-EDUCACIONAL/ROBÓTICA/DOBOT-LITE.jpg"
             },
             {
               "name": "Dobot M1",
@@ -4768,7 +4768,7 @@
                 "Software": "M1 Studio",
                 "Sensor de Luz": "x 1"
               },
-              "image": "/ProductImages/LINHA EDUCACIONAL/ROBÓTICA/DOBOT-M1.jpg"
+              "image": "/ProductImages/LINHA-EDUCACIONAL/ROBÓTICA/DOBOT-M1.jpg"
             }
           ]
         }
