@@ -626,7 +626,7 @@
               "image": "/ProductImages/MULTÍMETROS/MULTÍMETROS-DIGITAIS/ET-2704.jpg"
             },
             {
-              "name": "ET-1639B",
+              "name": "ET-1639",
               "details": {
                 "Modelo": "ET-1639B",
                 "Dígitos": "4000 - 3 3/4\"",
@@ -692,11 +692,6 @@
                 "Garantia": "6 meses"
               },
               "image": "/ProductImages/ALICATES/ANALÓGICOS/ET-3006A.jpg"
-            },
-            {
-              "name": "test to see if iit worked",
-              "details": {},
-              "image": "/ProductImages/ALICATES/ALICATE-ANALÓGICO/TEST-TO-SEE-IF-IIT-WORKED.jpg"
             }
           ]
         },
@@ -4347,7 +4342,7 @@
                 "Categoria de Segurança": "CAT II 600V",
                 "Comprimento": "1,2m"
               },
-              "image": "/ProductImages/ACESSÓRIOS/PONTAS DE OSCILOSCÓPIO/LF-300.png"
+              "image": "/ProductImages/ACESSÓRIOS/PONTAS-DE-OSCILOSCÓPIO/LF-300.png"
             },
             {
               "name": "LF-60B",
