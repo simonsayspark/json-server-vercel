@@ -14,42 +14,50 @@
           "products": [
             {
               "name": "ET-2022B",
+              "description": "",
+              "image": "/ProductImages/MULTÍMETROS/MULTÍMETROS-ANALÓGICOS/ET-2022B.jpg",
               "details": {
+                "Display": "Analógico",
+                "Categoria de Segurança": "CAT II 300V",
                 "Tensão DC": "0,1/0,5/2,5/10/50/250/1000V",
                 "Sensibilidade DC": "20kΩ/V",
                 "Tensão AC": "10/50/250/1000V",
                 "Sensibilidade AC": "9kΩ/V",
                 "Corrente DC": "50μ/2,5m/25m/250mA",
                 "Resistência": "2k/20k/200kΩ/2M/20MΩ",
+                "Teste de Diodo": "•",
+                "Teste Iceo": "•",
                 "Teste de Fuga de Transistores": "•",
                 "Decibel": "-10~+62dB",
-                "Teste Iceo": "•",
                 "Precisão Básica": "4%",
                 "Alimentação": "2x1,5V AA/1x9V",
                 "Dimensões (mm)/Peso (g)": "148x100x35/280",
+                "Mudança de Faixa": "Manual",
                 "Garantia": "6 meses"
-              },
-              "image": "/ProductImages/MULTÍMETROS/MULTÍMETROS-ANALÓGICOS/ET-2022B.jpg"
+              }
             },
             {
               "name": "ET-3021C",
+              "description": "",
+              "image": "/ProductImages/MULTÍMETROS/MULTÍMETROS-ANALÓGICOS/ET-3021C.jpg",
               "details": {
+                "Display": "Analógico",
+                "Categoria de Segurança": "CAT III 500V",
                 "Tensão AC": "10/50/250/1000V",
                 "Tensão DC": "0,1/2,5/10/50/250/1000V",
                 "Corrente DC": "50µ/2,5m/25m/250m/10A",
                 "Resistência": "2k/20k/200k/2M/20M/200MΩ",
-                "Decibéis": "-22~+62dB",
-                "Teste de Bateria": "✓",
-                "Teste hFE": "✓",
-                "Transitor Iceo": "✓",
                 "Teste de Continuidade/Diodo": "✓",
-                "Categoria de Segurança": "CAT III 500V",
-                "Precisão Básica": "3,00%",
+                "Teste de Bateria": "✓",
+                "Transitor Iceo": "✓",
+                "Teste hFE": "✓",
+                "Decibéis": "-22~+62dB",
+                "Precisão Básica": "3%",
                 "Alimentação": "2x1,5V AA/1x9V",
                 "Dimensões (mm)/Peso (g)": "171x108x37/370",
+                "Mudança de Faixa": "Manual",
                 "Garantia": "12 meses"
-              },
-              "image": "/ProductImages/MULTÍMETROS/MULTÍMETROS-ANALÓGICOS/ET-3021C.jpg"
+              }
             }
           ]
         },
@@ -62,19 +70,20 @@
             {
               "name": "ET-1000",
               "details": {
-                "Display LCD/Contagem": "3 1/2 Dígitos/2000",
+                "Display LCD/Contagem": "3 1/2 Dígitos/2000 constagens",
+                "Categoria de Segurança": "CAT I 600V",
                 "Tensão DC": "200m/2000m/20/200/600V",
                 "Tensão AC": "200/600V",
                 "Corrente DC": "2000μ/20m/200m/10A",
                 "Resistência": "200/2000/20k/200k/2000kΩ",
                 "Teste de Continuidade/Diodo": "✓",
                 "Teste hFE": "✓",
-                "Mudança de Faixa": "Manual",
+                "Indicador de Bateria Fraca": "✓",
                 "Gerador de onda quadrada": "✓",
-                "Precisão Básica": "0,50%",
-                "Categoria de Segurança": "CAT I 600V",
+                "Precisão Básica": "0,5%",
                 "Alimentação": "1X9V",
                 "Dimensões": "129x70x29/129",
+                "Mudança de Faixa": "Manual",
                 "Garantia": "6 meses"
               },
               "image": "/ProductImages/MULTÍMETROS/MULTÍMETROS-DIGITAIS/ET-1000.jpg"
@@ -83,21 +92,73 @@
               "name": "ET-1002",
               "details": {
                 "Display LCD/Contagem": "3 1/2 Dígitos/2000",
+                "Categoria de Segurança": "CAT I 600V",
                 "Tensão DC": "200m/2000m/20/200/600V",
                 "Tensão AC": "200/600V",
                 "Corrente DC": "200μ/2000μ/20m/200m/10A",
                 "Resistência": "200/2000/20k/200k/2000kΩ",
-                "Teste de Continuidade/Diodo": "•",
-                "Teste hFE": "•",
-                "Mudança de Faixa": "Manual",
-                "Indicação de Bateria Fraca": "•",
+                "Teste de Continuidade/Diodo": "✓",
+                "Teste hFE": "✓",
+                "Indicação de Bateria Fraca": "✓",
                 "Precisão Básica": "0,5%",
-                "Categoria de Segurança": "CAT I 600V",
                 "Alimentação": "1X9V",
                 "Dimensões": "128x66x27/130",
+                "Mudança de Faixa": "Manual",
                 "Garantia": "6 meses"
               },
               "image": "/ProductImages/MULTÍMETROS/MULTÍMETROS-DIGITAIS/ET-1002.jpg"
+            },
+            {
+              "name": "SM-1000",
+              "details": {
+                "Modelo": "SM-1000",
+                "Dígitos": "4000 - 3 3/4\"",
+                "Cat. Seg": "CAT II 300V",
+                "True RMS": "AC",
+                "Tensão AC": "4/40/400/500V",
+                "Tensão DC": "4/40/400/500V",
+                "Corrente AC": "400m/2A",
+                "Corrente DC": "400m/2A",
+                "Resistência": "4k/40k/400k/4M/20MΩ",
+                "Lanterna": "✔",
+                "Backlight": "✔",
+                "Continuidade": "✔",
+                "Deslig. Automático": "✔",
+                "Detecção de Tensão Sem Contato": "NCV",
+                "HOLD": "Data Hold",
+                "Indic. de bateria fraca": "✔",
+                "Precisão Básica": "±1,0% + 5D",
+                "Alimentação": "2 x 1,5V AAA",
+                "Dimensões (mm) / Peso (g)": "115(A) x 55(L) x 35(P)mm / 100 g",
+                "Mudança de Faixa": "Automática",
+                "Garantia": "6 meses"
+              },
+              "image": "/ProductImages/LINHA-SMART/DISPOSITIVOS-IOT/SM-1000.jpg"
+            },
+            {
+              "name": "ET-1100B",
+              "details": {
+                "Display": "3 1/2 Dígitos/2000 contagens",
+                "Categoria de seguranças": "CAT II 600V",
+                "True-RMS": "AC",
+                "Tensão AC": "200/600V",
+                "Tensão DC": "200m/2000m/20/200/600V",
+                "Corrente DC": "20μ/2m/200m/10A",
+                "Resistência": "200/2k/20k/2M/200MΩ",
+                "Continuidade e Diodo": "✓",
+                "Transistor hFE": "✓",
+                "Congelamento de Leitura": "Data Hold",
+                "Máx-Min-Méd-Rel": "Relativo",
+                "Detecção de Tensão sem Contato": "NCV",
+                "Auto Desligamento": "✓",
+                "Indicador de Bateria Fraca": "✓",
+                "Precisão Básica": "0,5%",
+                "Alimentação": "2x1,5V AAA",
+                "Dimensões (mm)/Peso (g)": "140x72x37/195",
+                "Mudança de Faixa": "Manual",
+                "Garantia": "1 ano"
+              },
+              "image": "/ProductImages/MULTÍMETROS/MULTÍMETROS-DIGITAIS/ET-1100B.jpg"
             },
             {
               "name": "ET-1400",
@@ -456,33 +517,6 @@
                 "Acessórios": "Manual, Pontas de prova, Termopar"
               },
               "image": "/ProductImages/MULTÍMETROS/MULTÍMETROS-DIGITAIS/ET-1050.jpg"
-            },
-            {
-              "name": "ET-1100B",
-              "details": {
-                "Display": "3 1/2 Dígitos/2000 contagens",
-                "Categoria de seguranças": "CAT II  600V",
-                "True-RMS": "AC",
-                "Tensão AC": "200/600V",
-                "Tensão DC": "200m/2000m/20/200/600V",
-                "Corrente DC": "20μ/2m/200m/10A",
-                "Resistência": "200/2k/20k/2M/200MΩ",
-                "Continuidade e Diodo": "✓",
-                "Transistor hFE": "✓",
-                "Lanterna": "X",
-                "Congelamento de Leitura": "Data Hold",
-                "Máx-Min-Méd-Rel": "Rel",
-                "Detecção de Tensão sem Contato": "NCV",
-                "Auto Desligamento": "✓",
-                "Indicador de Bateria Fraca": "✓",
-                "Precisão Básica": "0,5%",
-                "Alimentação": "2x1,5V AAA",
-                "Dimensões (mm)/Peso (g)": "140x72x37/195",
-                "Mudança de Faixa": "Manual",
-                "Garantia": "1 ano",
-                "Acessórios": "Manual, Pontas de prova"
-              },
-              "image": "/ProductImages/MULTÍMETROS/MULTÍMETROS-DIGITAIS/ET-1100B.jpg"
             },
             {
               "name": "ET-2233",
@@ -4745,7 +4779,7 @@
                 "Note": "No specifications table found"
               },
               "description": "Detailed information about Dobot Magician.",
-              "image": "path_to_dobot_magician_image.jpg"
+              "image": "/ProductImages/LINHA-EDUCACIONAL/ROBÓTICA/DOBOT-MAGICIAN.jpg"
             },
             {
               "name": "Dobot Lite",
