@@ -726,11 +726,6 @@
                 "Garantia": "6 meses"
               },
               "image": "/ProductImages/ALICATES/ALICATE-ANALÓGICO - OK/ET-3006A.png"
-            },
-            {
-              "name": "test to see if iit worked",
-              "details": {},
-              "image": "/ProductImages/ALICATES/ALICATE-ANALÓGICO/TEST-TO-SEE-IF-IIT-WORKED.jpg"
             }
           ]
         },
@@ -1672,6 +1667,8 @@
             },
             {
               "name": "ezAlert Pro",
+              "description": "",
+              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/DETECTORES-DE-TENSÃO/EZALERT-PRO.jpg",
               "details": {
                 "Tensão AC": "90~1000V",
                 "Tensão DC": "-",
@@ -1682,8 +1679,7 @@
                 "Alimentação": "2x1,5V AAA",
                 "Dimensões (mm)/Peso (g)": "50x26x22mm/55g",
                 "Garantia": "3 meses"
-              },
-              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/DETECTORES-DE-TENSÃO/EZALERT-PRO.jpg"
+              }
             },
             {
               "name": "ezTesT II",
@@ -2228,7 +2224,7 @@
                 "Mudança de Faixa": "Automática",
                 "Garantia": "1 ano"
               },
-              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/CANETA-MULTÍMETRO/EZVOLT3.jpg"
+              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/CANETA-MULTIMETRO/EZVOLT3.png"
             }
           ]
         }
@@ -3739,7 +3735,7 @@
                 "Dimensões (mm)/Peso (g)": "306x147x122mm/2,2k",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/OSCILOSCÓPIOS/OSCILOSCÓPIO-DIGITAIS/MVB-DSO.jpg"
+              "image": "/ProductImages/OSCILOSCÓPIOS/Osciloscópios Digitais/MVB-DSO.png"
             },
             {
               "name": "MO-1104C",
