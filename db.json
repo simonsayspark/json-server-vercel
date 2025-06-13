@@ -1634,6 +1634,7 @@
                 "Garantia": "3 meses"
               },
               "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/DETECTORES-DE-TENSÃO/EZPHASE-II.jpg"
+              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/DETECTORS-DE-TENSÃO/EZPHASE-II.jpg"
             },
             {
               "name": "ezAlert-I",
@@ -2109,89 +2110,6 @@
                 "Garantia": "12 meses"
               },
               "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/ALICATE-TERRÔMETRO/ET-4310.png"
-            }
-          ]
-        },
-        {
-          "id": 308,
-          "name": "Autotransformadores",
-          "description": "",
-          "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/AUTOTRANSFORMADORES/subcategory-image.jpg",
-          "products": [
-            {
-              "name": "ATM-3000VA",
-              "details": {
-                "Potência": "3000 VA",
-                "Entrada/Saída": "110V/220V ou 220V/110V",
-                "Frequência": "60HZ",
-                "Temperatura de Operação": "0 a 40ºC",
-                "Tipo de Conexão": "Cordão Tripolar PP",
-                "Gabinete": "Caneca Plástica",
-                "Cor": "Preto",
-                "Dimensões (mm)/ Peso (g)": "160x130x180/6600",
-                "Garantia": "12 meses"
-              },
-              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/AUTOTRANSFORMADORES/ATM-3000VA.jpg"
-            },
-            {
-              "name": "ATM-2000VA",
-              "details": {
-                "Potência": "2000 VA",
-                "Entrada/Saída": "110V/220V ou 220V/110V",
-                "Frequência": "60HZ",
-                "Temperatura de Operação": "0 a 40ºC",
-                "Tipo de Conexão": "Cordão Tripolar PP",
-                "Gabinete": "Caneca Plástica",
-                "Cor": "Preto",
-                "Dimensões (mm)/ Peso (g)": "145x115x145/5880",
-                "Garantia": "12 meses"
-              },
-              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/AUTOTRANSFORMADORES/ATM-2000VA.jpg"
-            },
-            {
-              "name": "ATM-1500VA",
-              "details": {
-                "Potência": "1500VA",
-                "Entrada/Saída": "110V/220V ou 220V/110V",
-                "Frequência": "60HZ",
-                "Temperatura de Operação": "0 a 40ºC",
-                "Tipo de Conexão": "Cordão Tripolar PP",
-                "Gabinete": "Caneca Plástica",
-                "Cor": "Preto",
-                "Dimensões (mm)/ Peso (g)": "125x100x145/4740",
-                "Garantia": "12 meses"
-              },
-              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/AUTOTRANSFORMADORES/ATM-1500VA.jpg"
-            },
-            {
-              "name": "ATM-1010VA",
-              "details": {
-                "Potência": "1010 VA",
-                "Entrada/Saída": "110V/220V ou 220V/110V",
-                "Frequência": "60HZ",
-                "Temperatura de Operação": "0 à 40ºC",
-                "Tipo de Conexão": "Cordão Tripolar PP",
-                "Gabinete": "Caneca Plástica",
-                "Cor": "Preto",
-                "Dimensões (mm)/ Peso (g)": "105x85x130/3140",
-                "Garantia": "12 meses"
-              },
-              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/AUTOTRANSFORMADORES/ATM-1010VA.jpg"
-            },
-            {
-              "name": "ATM-5000VA",
-              "details": {
-                "Potência": "5000 VA",
-                "Entrada/Saída": "110V/220V ou 220V/110V",
-                "Frequência": "60HZ",
-                "Temperatura de Operação": "0 a 40ºC",
-                "Tipo de Conexão": "Borne Triplo Isolado",
-                "Gabinete": "Caneca Plástica",
-                "Cor": "Preto",
-                "Dimensões (mm)/ Peso (g)": "160x130x183/10180",
-                "Garantia": "12 meses"
-              },
-              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/AUTOTRANSFORMADORES/ATM-5000VA.jpg"
             }
           ]
         },
@@ -4706,110 +4624,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": 12,
-      "name": "Linha Educacional",
-      "description": "Educational tools and kits.",
-      "image": "/ProductImages/LINHA EDUCACIONAL/category-image.jpg",
-      "subcategories": [
-        {
-          "id": 1201,
-          "name": "Kits Educacionais",
-          "description": "Sistemas de treinamento e plataformas de estudo projetados para atender as necessidade de aulas práticas de Eletrônica Digital dos cursos de Engenharia Elétrica, Técnico em Eletroeletrônica, Técnico em Eletrotécnica, Técnico em Automação Industrial e Técnico em Mecatrônica, entre outros.",
-          "image": "/ProductImages/LINHA-EDUCACIONAL/KITS-EDUCACIONAIS/subcategory-image.jpg",
-          "products": [
-            {
-              "name": "PNEUSYSTEM",
-              "details": {
-                "Note": "No specifications table found"
-              },
-              "image": "/ProductImages/LINHA-EDUCACIONAL/KITS-EDUCACIONAIS/PNEUSYSTEM.jpg"
-            },
-            {
-              "name": "AUTOSYSTEM",
-              "details": {
-                "Note": "No specifications table found"
-              },
-              "image": "/ProductImages/LINHA-EDUCACIONAL/KITS-EDUCACIONAIS/AUTOSYSTEM.jpg"
-            },
-            {
-              "name": "MECHATROSYSTEM",
-              "details": {
-                "Note": "No specifications table found"
-              },
-              "image": "/ProductImages/LINHA-EDUCACIONAL/KITS-EDUCACIONAIS/MECHATROSYSTEM.jpg"
-            },
-            {
-              "name": "AI Starter",
-              "details": {
-                "Tensão de Operação": "1,4V",
-                "Placa de controle": "DuDuinoMega2560\r\n\t\t\tCompatível com o Arduíno Mega2560",
-                "Baterial": "18650 Li-ion recarregável",
-                "Alcace de sensor ultrassônico": "30mm-1000mm",
-                "Dimensões do Al-Starter": "195mm x 172mm x 79mm",
-                "Peso do Al-Starter": "810g",
-                "Capacidade de carga": "500g",
-                "Diâmetro das rodas": "67mm",
-                "Temperatura de operação": "0~-40~",
-                "Softwares de programação": "Arduíno IDE, Mixly ou qualquer outro software compatível com Mega 2560",
-                "Interfaces de comunicação": "USB / Serial",
-                "Interfaces de expansão": "4 pinos gerais da entrada / 2 pinos gerais de saída",
-                "Sensores": "Sensor Ultrassônico x 3 / Sensor de Cor x 2 / Sensor Infravermelhor",
-                "Sensor Geomagnético": "x 1",
-                "Sensor de Luz": "x 1"
-              },
-              "image": "/ProductImages/LINHA-EDUCACIONAL/KITS-EDUCACIONAIS/AI-STARTER.jpg"
-            }
-          ]
-        },
-        {
-          "id": 1202,
-          "name": "Robótica",
-          "description": "Equipamentos voltados para atender as mais variadas áreas do conhecimento escolar e universitário auxiliando no ensino de processos de robótica, automação, inteligência artificial e outras competências.",
-          "image": "/ProductImages/LINHA-EDUCACIONAL/ROBÓTICA/subcategory-image.jpg",
-          "products": [
-            {
-              "name": "Dobot Magician",
-              "details": {
-                "Note": "No specifications table found"
-              },
-              "description": "Detailed information about Dobot Magician.",
-              "image": "/ProductImages/LINHA-EDUCACIONAL/ROBÓTICA/DOBOT-MAGICIAN.jpg"
-            },
-            {
-              "name": "Dobot Lite",
-              "details": {
-                "Note": "No specifications table found"
-              },
-              "image": "/ProductImages/LINHA-EDUCACIONAL/ROBÓTICA/DOBOT-LITE.jpg"
-            },
-            {
-              "name": "Dobot M1",
-              "details": {
-                "Alcance": "400 mm",
-                "Capacidade Carga": "1.5 kg",
-                "Velocidade resultade do braço traseiro e antebraço": "2000 mm/s",
-                "Velocidade do eixo Z": "1000 mm/s",
-                "Repetibilidade": "0,02 mm",
-                "Alimentação": "100-240 V, 50/60 Hz",
-                "Interfaces de comunicação": "SEthernet, RA-232C",
-                "I/O": "22 digital outputs, 24 digital inputs, 6 ADC inputs",
-                "Software": "M1 Studio",
-                "Sensor de Luz": "x 1"
-              },
-              "image": "/ProductImages/LINHA-EDUCACIONAL/ROBÓTICA/DOBOT-M1.jpg"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 1203,
-      "name": "Impressoras 3D",
-      "description": "As impressoras 3D podem criar desde objetos mais complexos até os mais simples, de maneira eficiente e rápida. É uma excelente ferramenta educacional para o ensino de diversos conceitos.",
-      "image": "/ProductImages/IMPRESSORAS 3D/category-image.jpg",
-      "subcategories": []
     }
   ]
 }
