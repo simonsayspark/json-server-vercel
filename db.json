@@ -15,7 +15,7 @@
             {
               "name": "ET-2022B",
               "description": "",
-              "image": "/ProductImages/MULTÍMETROS/MULTÍMETROS-ANALÓGICOS/ET-2022B.jpg",
+              "image": "/ProductImages/MULTÍMETROS/MULTÍMETROS-ANALÓGICOS/ET-2022B.png",
               "details": {
                 "Display": "Analógico",
                 "Categoria de Segurança": "CAT II 300V",
@@ -39,7 +39,7 @@
             {
               "name": "ET-3021C",
               "description": "",
-              "image": "/ProductImages/MULTÍMETROS/MULTÍMETROS-ANALÓGICOS/ET-3021C.jpg",
+              "image": "/ProductImages/MULTÍMETROS/MULTÍMETROS-ANALÓGICOS/ET-3021C.png",
               "details": {
                 "Display": "Analógico",
                 "Categoria de Segurança": "CAT III 500V",
@@ -86,7 +86,7 @@
                 "Mudança de Faixa": "Manual",
                 "Garantia": "6 meses"
               },
-              "image": "/ProductImages/MULTÍMETROS/MULTÍMETROS-DIGITAIS/ET-1000.jpg"
+              "image": "/ProductImages/MULTÍMETROS/MULTÍMETROS-DIGITAIS/ET-1000.png"
             },
             {
               "name": "ET-1002",
@@ -106,7 +106,7 @@
                 "Mudança de Faixa": "Manual",
                 "Garantia": "6 meses"
               },
-              "image": "/ProductImages/MULTÍMETROS/MULTÍMETROS-DIGITAIS/ET-1002.jpg"
+              "image": "/ProductImages/MULTÍMETROS/MULTÍMETROS-DIGITAIS/ET-1002.png"
             },
             {
               "name": "SM-1000",
@@ -132,7 +132,7 @@
                 "Mudança de Faixa": "Automática",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/LINHA-SMART/DISPOSITIVOS-IOT/SM-1000.jpg"
+              "image": "/ProductImages/LINHA-SMART/SM-1000.png"
             },
             {
               "name": "ET-1100B",
@@ -157,59 +157,59 @@
                 "Mudança de Faixa": "Manual",
                 "Garantia": "1 ano"
               },
-              "image": "/ProductImages/MULTÍMETROS/MULTÍMETROS-DIGITAIS/ET-1100B.jpg"
+              "image": "/ProductImages/MULTÍMETROS/MULTÍMETROS-DIGITAIS/ET-1100B.png"
             },
             {
-                "name": "ET-1110C",
-                "details": {
-                  "Display": "3 1/2 Dígitos 2000 contagens",
-                  "Categoria de seguranças": "CAT III 600V",
-                  "True-RMS": "AC",
-                  "Tensão AC": "200m/20/600V",
-                  "Tensão DC": "200m/20/600V",
-                  "Corrente AC": "200μ/20m/200m/10A",
-                  "Corrente DC": "200μ/20m/200m/10A",
-                  "Resistência": "200/20k/2M/200MΩ",
-                  "Temperatura": "-20°C a 1000°C",
-                  "capacitância": "20n/2μ/200μF",
-                  "Frequência": "2KHz",
-                  "Continuidade e Diodo": "✓",
-                  "Luz de Fundo": "✓",
-                  "Congelamento de Leitura": "Data Hold",
-                  "Detecção de Tensão sem Contato": "NCV/Live",
-                  "Auto Desligamento": "✓",
-                  "Indicador de Bateria Fraca": "✓",
-                  "Precisão Básica": "±1%",
-                  "Alimentação": "2 x 1,5V AAA",
-                  "Dimensões/Peso": "133 x 71 x 47 / 190",
-                  "Mudança de Faixa": "Manual",
-                  "Garantia": "1 ano"
-                },
-                "image": ""
+              "name": "ET-1110C",
+              "details": {
+                "Display": "3 1/2 Dígitos 2000 contagens",
+                "Categoria de seguranças": "CAT III 600V",
+                "True-RMS": "AC",
+                "Tensão AC": "200m/20/600V",
+                "Tensão DC": "200m/20/600V",
+                "Corrente AC": "200μ/20m/200m/10A",
+                "Corrente DC": "200μ/20m/200m/10A",
+                "Resistência": "200/20k/2M/200MΩ",
+                "Temperatura": "-20°C a 1000°C",
+                "capacitância": "20n/2μ/200μF",
+                "Frequência": "2KHz",
+                "Continuidade e Diodo": "✓",
+                "Luz de Fundo": "✓",
+                "Congelamento de Leitura": "Data Hold",
+                "Detecção de Tensão sem Contato": "NCV/Live",
+                "Auto Desligamento": "✓",
+                "Indicador de Bateria Fraca": "✓",
+                "Precisão Básica": "±1%",
+                "Alimentação": "2 x 1,5V AAA",
+                "Dimensões/Peso": "133 x 71 x 47 / 190",
+                "Mudança de Faixa": "Manual",
+                "Garantia": "1 ano"
               },
-              {
-                "name": "ET-1400A",
-                "details": {
-                  "Display": "3 1/2 Dígitos 2000 contagens",
-                  "Categoria de seguranças": "CAT II 300V",
-                  "Tensão AC": "200/500V",
-                  "Tensão DC": "200m/2/20/200/500V",
-                  "Corrente DC": "200μ/2m/20m/200m/10A",
-                  "Resistência": "200/2000Ω/20k/200k/20MΩ",
-                  "Temperatura": "-40°C a 1370°C",
-                  "Continuidade e Diodo": "✓",
-                  "Luz de Fundo": "✓",
-                  "Congelamento de Leitura": "Data Hold",
-                  "Indicador de Bateria Fraca": "✓",
-                  "Precisão Básica": "±0.5%",
-                  "Alimentação": "1 x 9V",
-                  "Dimensões/Peso": "132 x 70 x 36 / 170",
-                  "Mudança de Faixa": "Manual",
-                  "Garantia": "1 ano"
-                },
-                "image": ""
+              "image": "/ProductImages/MULTÍMETROS/MULTÍMETROS-DIGITAIS/ET-1110C.jpg"
+            },
+            {
+              "name": "ET-1400A",
+              "details": {
+                "Display": "3 1/2 Dígitos 2000 contagens",
+                "Categoria de seguranças": "CAT II 300V",
+                "Tensão AC": "200/500V",
+                "Tensão DC": "200m/2/20/200/500V",
+                "Corrente DC": "200μ/2m/20m/200m/10A",
+                "Resistência": "200/2000Ω/20k/200k/20MΩ",
+                "Temperatura": "-40°C a 1370°C",
+                "Continuidade e Diodo": "✓",
+                "Luz de Fundo": "✓",
+                "Congelamento de Leitura": "Data Hold",
+                "Indicador de Bateria Fraca": "✓",
+                "Precisão Básica": "±0.5%",
+                "Alimentação": "1 x 9V",
+                "Dimensões/Peso": "132 x 70 x 36 / 170",
+                "Mudança de Faixa": "Manual",
+                "Garantia": "1 ano"
               },
-              {
+              "image": "/ProductImages/MULTÍMETROS/MULTÍMETROS-DIGITAIS/ET-1400A.jpg"
+            },
+            {
               "name": "ET-2030A",
               "details": {
                 "Display": "2000 - 3 1/2D",
@@ -226,86 +226,86 @@
                 "Mudança de Faixa": "Manual",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/MULTÍMETROS/MULTÍMETROS-DIGITAIS/ET-2030A.jpg"
+              "image": "/ProductImages/MULTÍMETROS/MULTÍMETROS-DIGITAIS/ET-2030A.png"
             },
             {
               "name": "ET-2082E",
               "details": {
-                  "Display": "3 1/2 Dígitos/2000",
-                  "Categoria de seguranças": "CAT III 600V",
-                  "True-RMS": "AC",
-                  "Tensão AC": "200m/2/20/200/750V",
-                  "Tensão DC": "200m/2/20/200/1000V",
-                  "Corrente AC": "200µ/2m/20m/200m/20A",
-                  "Corrente DC": "200µ/2m/20m/200m/20A",
-                  "Resistência": "200/2k/20k/200k/2M/20M/200MΩ",
-                  "Frequência": "10~20MHz",
-                  "Capacitância": "2n/20n/200n/2μ/20μ/200μ/2mF",
-                  "Indutância": "2m/20m/200m/2/20H",
-                  "Temperatura": "-20~+1000ºC",
-                  "Continuidade e Diodo": "✓",
-                  "Transistor HFE": "✓",
-                  "Luz de Fundo": "✓",
-                  "Congelamento de Leitura": "Data Hold",  
-                  "Min./Max./Rel": "✓",
-                  "Auto Desligamento": "✓",
-                  "Indicador de Bateria Fraca": "✓",
-                  "Precisão Básica": "0,5%",
-                  "Alimentação": "1x9V",
-                  "Dimensões/Peso": "190x88,5x27,5/422",
-                  "Mudança de Faixa": "Manual",
-                  "Garantia": "12 meses"
-                },
-              "image": "/ProductImages/MULTÍMETROS/MULTÍMETROS-DIGITAIS/ET-2082E.jpg"
+                "Display": "3 1/2 Dígitos/2000",
+                "Categoria de seguranças": "CAT III 600V",
+                "True-RMS": "AC",
+                "Tensão AC": "200m/2/20/200/750V",
+                "Tensão DC": "200m/2/20/200/1000V",
+                "Corrente AC": "200µ/2m/20m/200m/20A",
+                "Corrente DC": "200µ/2m/20m/200m/20A",
+                "Resistência": "200/2k/20k/200k/2M/20M/200MΩ",
+                "Frequência": "10~20MHz",
+                "Capacitância": "2n/20n/200n/2μ/20μ/200μ/2mF",
+                "Indutância": "2m/20m/200m/2/20H",
+                "Temperatura": "-20~+1000ºC",
+                "Continuidade e Diodo": "✓",
+                "Transistor HFE": "✓",
+                "Luz de Fundo": "✓",
+                "Congelamento de Leitura": "Data Hold",
+                "Min./Max./Rel": "✓",
+                "Auto Desligamento": "✓",
+                "Indicador de Bateria Fraca": "✓",
+                "Precisão Básica": "0,5%",
+                "Alimentação": "1x9V",
+                "Dimensões/Peso": "190x88,5x27,5/422",
+                "Mudança de Faixa": "Manual",
+                "Garantia": "12 meses"
+              },
+              "image": "/ProductImages/MULTÍMETROS/MULTÍMETROS-DIGITAIS/ET-2082E.png"
             },
             {
               "name": "ET-1050",
               "details": {
-                  "Display": "3 3/4 Dígitos 4000 contagens / EBTN",
-                  "Categoria de seguranças": "CAT III 600V",
-                  "Tensão AC": "4/40/400/600V",
-                  "Tensão DC": "4/40/400/600V",
-                  "Corrente DC": "4/40/400/600V",
-                  "Resistência": "400/4K/40K/400K/4M/20MΩ",
-                  "Temperatura": "-40ºC a 300ºC",
-                  "Continuidade e Diodo": "Continuidade",
-                  "Luz de Fundo": "Display Invertido",
-                  "Congelamento de Leitura": "Data Hold",
-                  "Detecção de Tensão sem Contato": "NCV",
-                  "Auto Desligamento": "✓",
-                  "Indicador de Bateria Fraca": "✓",
-                  "Precisão Básica": "0,5%",
-                  "Alimentação": "2x1,5V AAA",
-                  "Dimensões/Peso": "130x65x28 / 130",
-                  "Mudança de Faixa": "Automática",
-                  "Garantia": "1 ano"
+                "Display": "3 3/4 Dígitos 4000 contagens / EBTN",
+                "Categoria de seguranças": "CAT III 600V",
+                "Tensão AC": "4/40/400/600V",
+                "Tensão DC": "4/40/400/600V",
+                "Corrente DC": "4/40/400/600V",
+                "Resistência": "400/4K/40K/400K/4M/20MΩ",
+                "Temperatura": "-40ºC a 300ºC",
+                "Continuidade e Diodo": "Continuidade",
+                "Luz de Fundo": "Display Invertido",
+                "Congelamento de Leitura": "Data Hold",
+                "Detecção de Tensão sem Contato": "NCV",
+                "Auto Desligamento": "✓",
+                "Indicador de Bateria Fraca": "✓",
+                "Precisão Básica": "0,5%",
+                "Alimentação": "2x1,5V AAA",
+                "Dimensões/Peso": "130x65x28 / 130",
+                "Mudança de Faixa": "Automática",
+                "Garantia": "1 ano"
               },
-              "image": "/ProductImages/MULTÍMETROS/MULTÍMETROS-DIGITAIS/ET-1050.jpg"
+              "image": "/ProductImages/MULTÍMETROS/MULTÍMETROS-DIGITAIS/ET-1050.png"
             },
             {
-                "name": "EzVolt3",
-                "details": {
-                  "Display": "LCD 3 3/6 Dígitos, 6000 Contagens",
-                  "Categoria de seguranças": "CAT III 600V",
-                  "True-RMS": "AC",
-                  "Tensão AC": "6/60/600/700V",
-                  "Tensão DC": "6/60/600/1000V",
-                  "Resistência": "600/6k/60k/600k/6M/60MΩ",
-                  "Frequência": "1~ 8MHz",
-                  "Capacitância": "10n/100n/1µ/10µ/100µ/1m/10m/60mF",
-                  "Temperatura": "0 ~ 50°C",
-                  "Continuidade e Diodo": "✔",
-                  "Lanterna": "✔",
-                  "Congelamento de Leitura": "Data Hold",
-                  "Auto Desligamento": "✔",
-                  "Indicador de Bateria Fraca": "✔",
-                  "Precisão Básica": "0,5%",
-                  "Alimentação": "1x1,5V AAA",
-                  "Dimensões/Peso": "170x24x21 / 50",
-                  "Mudança de Faixa": "Automática",
-                  "Garantia": "1 ano"
-                },
-              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/CANETA-MULTÍMETRO/EZVOLT3.jpg"
+              "name": "EzVolt3",
+              "details": {
+                "Display": "LCD 3 3/6 Dígitos, 6000 Contagens",
+                "Categoria de seguranças": "CAT III 600V",
+                "True-RMS": "AC",
+                "Tensão AC": "6/60/600/700V",
+                "Tensão DC": "6/60/600/1000V",
+                "Resistência": "600/6k/60k/600k/6M/60MΩ",
+                "Frequência": "1~ 8MHz",
+                "Capacitância": "10n/100n/1µ/10µ/100µ/1m/10m/60mF",
+                "Temperatura": "0 ~ 50°C",
+                "Continuidade e Diodo": "✔",
+                "Lanterna": "✔",
+                "Congelamento de Leitura": "Data Hold",
+                "Auto Desligamento": "✔",
+                "Indicador de Bateria Fraca": "✔",
+                "Precisão Básica": "0,5%",
+                "Alimentação": "1x1,5V AAA",
+                "Dimensões/Peso": "170x24x21 / 50",
+                "Mudança de Faixa": "Automática",
+                "Garantia": "1 ano"
+              },
+              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/CANETA-MULTIMETRO/EZVOLT3.png"
             },
             {
               "name": "ET-1505A",
@@ -337,7 +337,7 @@
                 "Mudança de faixa": "Automática",
                 "Garantia": "1 ano"
               },
-              "image": "/ProductImages/MULTÍMETROS/MULTÍMETROS-DIGITAIS/ET-1505.jpg"
+              "image": "/ProductImages/MULTÍMETROS/MULTÍMETROS-DIGITAIS/ET-1505A.png"
             },
             {
               "name": "ET-1507B",
@@ -346,11 +346,11 @@
                 "Categoria de Segurança": "CAT III 600V",
                 "True RMS": "AC",
                 "Tensão AC": "6/60/600/750V",
-                "Tensão DC": "6/60/600/1000V",              
+                "Tensão DC": "6/60/600/1000V",
                 "Corrente DC": "600μ/6000μ/60m/600m/6A/10A",
                 "Corrente AC": "600μ/6000μ/60m/600m/6A/10A",
                 "Resistência": "600/6k/60k/600k/6M/40MΩ",
-                "Frequência":  "10 ~ 20M",
+                "Frequência": "10 ~ 20M",
                 "Frequência de Rede": "✓",
                 "Duty Cycle": "✓",
                 "Capacitância": "100n/1000n/10μ/100μ/1000μ/10m/30m",
@@ -369,9 +369,9 @@
                 "Mudança de Faixa": "Manual/Automática",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/MULTÍMETROS/MULTÍMETROS-DIGITAIS/ET-1507B.jpg"
+              "image": "/ProductImages/MULTÍMETROS/MULTÍMETROS-DIGITAIS/ET-1507B.png"
             },
-           {
+            {
               "name": "SM-1600",
               "details": {
                 "Display LCD/Contagem": "3 5/6 Dígitos/6000",
@@ -402,9 +402,9 @@
                 "Mudança de Faixa": "Automática",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/LINHA-SMART/DISPOSITIVOS-IOT/SM-1600.jpg"
+              "image": "/ProductImages/LINHA-SMART/SM-1600.png"
             },
-              {
+            {
               "name": "ET-1639B",
               "details": {
                 "Display LCD/Contagem": "4 3/4 Dígitos/4000",
@@ -439,443 +439,443 @@
                 "Dimensões (mm)/Peso (g)": "186x91x54/280,5",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/MULTÍMETROS/MULTÍMETROS-DIGITAIS/ET-1639B.jpg"
+              "image": "/ProductImages/MULTÍMETROS/MULTÍMETROS-DIGITAIS/ET-1639B.png"
             },
-            {             
-                "name": "ET-1649",
-                "details": {
-                  "Display LCD/Contagem": "3 5/6 Dígitos/6000",
-                  "Categoria de Segurança": "CAT III 600V",
-                  "True RMS": "AC",
-                  "Tensão AC": "60m/600m/6/60/600/750V",
-                  "Tensão DC": "60m/600m/6/60/600/1000V",
-                  "Corrente DC": "600μ/6000μ/60m/600m/6/10A",
-                  "Corrente AC": "600μ/6000μ/60m/600m/6/10A",
-                  "Resistência": "600/6k/60k/600k/6M/60MΩ",
-                  "Frequência": "10Hz ~ 10MHz",
-                  "Duty Cycle": "0,1% ~ 99,9%",
-                  "Capacitância": "10n/100n/1µ/10µ/100µ/1m/10m/100mF",
-                  "Temperatura": "-40°C a 1000°C / -40°F a 1832°F",
-                  "Teste de Continuidade/Diodo": "✓",
-                  "Luz de Fundo": "✓",
-                  "Data Hold": "✓",
-                  "Max-Min-Rel-Zero": "Máx./Mín./Relativo",
-                  "Autodesligamento": "✓",
-                  "Indicação de Bateria Fraca": "✓",
-                  "Mudança de Faixa": "Manual/Automática",
-                  "Precisão Básica": "±(0,5%+2D/3D, conforme faixa)",
-                  "Função VFC": "✓",
-                  "Alimentação": "2x 1,5V AA (R6P)",
-                  "Dimensões (mm)/Peso (g)": "175x80x48,5/350",
-                  "Garantia": "12 meses"
-                },
-                "image": "/ProductImages/MULTÍMETROS/MULTÍMETROS-DIGITAIS/ET-1649.jpg"
+            {
+              "name": "ET-1649",
+              "details": {
+                "Display LCD/Contagem": "3 5/6 Dígitos/6000",
+                "Categoria de Segurança": "CAT III 600V",
+                "True RMS": "AC",
+                "Tensão AC": "60m/600m/6/60/600/750V",
+                "Tensão DC": "60m/600m/6/60/600/1000V",
+                "Corrente DC": "600μ/6000μ/60m/600m/6/10A",
+                "Corrente AC": "600μ/6000μ/60m/600m/6/10A",
+                "Resistência": "600/6k/60k/600k/6M/60MΩ",
+                "Frequência": "10Hz ~ 10MHz",
+                "Duty Cycle": "0,1% ~ 99,9%",
+                "Capacitância": "10n/100n/1µ/10µ/100µ/1m/10m/100mF",
+                "Temperatura": "-40°C a 1000°C / -40°F a 1832°F",
+                "Teste de Continuidade/Diodo": "✓",
+                "Luz de Fundo": "✓",
+                "Data Hold": "✓",
+                "Max-Min-Rel-Zero": "Máx./Mín./Relativo",
+                "Autodesligamento": "✓",
+                "Indicação de Bateria Fraca": "✓",
+                "Mudança de Faixa": "Manual/Automática",
+                "Precisão Básica": "±(0,5%+2D/3D, conforme faixa)",
+                "Função VFC": "✓",
+                "Alimentação": "2x 1,5V AA (R6P)",
+                "Dimensões (mm)/Peso (g)": "175x80x48,5/350",
+                "Garantia": "12 meses"
               },
-              {
-                  "name": "ET-1649BT",
-                  "details": {
-                    "Display LCD/Contagem": "4 Dígitos/9999",
-                    "Categoria de Segurança": "CAT III 600V",
-                    "True RMS": "AC",
-                    "Tensão AC": "999,9m/9,999/99,99/999,9V",
-                    "Tensão DC": "999,9m/9,999/99,99/999,9V",
-                    "Corrente DC": "999,9μ/9999μ/99,99m/999,9m/9,999A",
-                    "Corrente AC": "999,9μ/9999μ/99,99m/999,9m/9,999A",
-                    "Resistência": "999,9/9,999k/99,99k/999,9k/9,999M/99,99MΩ",
-                    "Frequência": "9,999Hz ~ 9,999MHz",
-                    "Duty Cycle": "0,1% ~ 99,9%",
-                    "Capacitância": "9,999n/99,99n/999,9n/9,999µ/99,99µ/999,9µ/9,999m/99,99mF",
-                    "Temperatura": "-40°C a 1000°C / -40°F a 1832°F",
-                    "Teste de Continuidade/Diodo": "✓",
-                    "Luz de Fundo": "✓",
-                    "Data Hold": "✓",
-                    "Max-Min-Rel-Zero": "✓",
-                    "Autodesligamento": "✓",
-                    "Indicação de Bateria Fraca": "✓",
-                    "Mudança de Faixa": "Automática",
-                    "Precisão Básica": "±(0,5%+3D)",
-                    "NCV com níveis EFLo/EFHi": "✓",
-                    "Conectividade Bluetooth": "✓",
-                    "Aplicativo": "Minipa Link (Android/iOS)",
-                    "Taxa de Amostragem": "3 vezes/segundo",
-                    "Alimentação": "3x 1,5V AAA",
-                    "Dimensões (mm)/Peso (g)": "187x88x56/400",
-                    "Garantia": "12 meses"
-                  },
-                  "image": "/ProductImages/MULTÍMETROS/MULTÍMETROS-DIGITAIS/ET-1649BT.jpg"
-                },
-                {
-                    "name": "ET-2042F",
-                    "details": {
-                      "Display LCD/Contagem": "3 5/6 Dígitos/6000",
-                      "Categoria de Segurança": "CAT II 1000V / CAT III 600V",
-                      "True RMS": "AC",
-                      "Tensão AC": "6/60/600/1000V",
-                      "Tensão DC": "600m/6/60/600/1000V",
-                      "Corrente DC": "60µ/60m/600m/20A",
-                      "Corrente AC": "60m/600m/20A",
-                      "Resistência": "600/6k/60k/600k/6M/60MΩ",
-                      "Frequência": "10 ~ 10MHz",
-                      "Temperatura": "-40°C a 1000°C / -40°F a 1832°F",
-                      "Capacitância": "6n/60n/600n/6µ/60µ/600µ/6m/60m/100mF",
-                      "Duty Cycle": "✓",
-                      "Teste de Continuidade/Diodo": "✓",
-                      "Luz de Fundo": "✓",
-                      "Lanterna": "✓",
-                      "hFE": "✓",
-                      "Frequência de Rede": "✓",
-                      "Data Hold": "✓",
-                      "Max-Min-Rel-Zero": "-",
-                      "Autodesligamento": "✓",
-                      "Detecção de Tensão sem Contato (NCV)": "✓",
-                      "Indicação de Bateria Fraca": "✓",
-                      "Precisão Básica": "0,5%",
-                      "Mudança de Faixa": "Manual",
-                      "Alimentação": "2x 1,5V AA",
-                      "Dimensões (mm)/Peso (g)": "175x81x48,5/345",
-                      "Garantia": "12 meses",
-                      "Acessórios": "Manual, Pontas de Prova e Termopar"
-                    },
-                    "image": "/ProductImages/MULTÍMETROS/MULTÍMETROS-DIGITAIS/ET-2042F.jpg"
-                  },
-                  {
-                        "name": "MA-120A",
-                        "details": {
-                          "Display LCD/Contagem": "3 5/6 Dígitos/6000",
-                          "Categoria de Segurança": "CAT IV 600V / CAT III 1000V",
-                          "True RMS": "✓",
-                          "Tensão AC": "600m/6/60/600/750V",
-                          "Tensão DC": "600m/6/60/600/1000V",
-                          "Corrente DC": "600µ/6m/60m/600m/6A/20A",
-                          "Corrente AC": "60m/600m/6A/20A",
-                          "Resistência": "600/6k/60k/600k/6M/60MΩ",
-                          "Frequência": "9,999Hz ~ 9,999MHz",
-                          "Duty Cycle": "1,0% ~ 99,9%",
-                          "Capacitância": "9,999n/99,99n/999,9n/9,999µ/99,99µ/999,9µ/9,999mF",
-                          "Temperatura": "-30°C a 1000°C",
-                          "Teste de Continuidade/Diodo": "✓",
-                          "Data Hold": "✓",
-                          "Max-Min-Rel-Zero": "✓",
-                          "Autodesligamento": "✓",
-                          "Indicação de Bateria Fraca": "✓",
-                          "Mudança de Faixa": "Manual/Automática",
-                          "Precisão Básica": "±(1%+3D)",
-                          "RPM (Garra Indutiva)/Ciclos": "60 ~ 12000RPM / 2 ~ 4cil.",
-                          "Dwell": "0 ~ 180º (2 ~ 8 cil.)",
-                          "Largura de Pulso": "1,0 ~ 10,0 ms",
-                          "Garra Opcional G1-120": "✓",
-                          "Interface USB": "✓",
-                          "Alimentação": "1x 9V",
-                          "Dimensões (mm)/Peso (g)": "166x88x51/320",
-                          "Garantia": "12 meses"
-                        },
-                        "image": "/ProductImages/LINHA-AUTOMOTIVA/MULTÍMETROS-AUTOMOTIVOS/MA-120A.jpg"
-                      },
-                      {
-                          "name": "MA-150",
-                          "details": {
-                            "Display LCD/Contagem": "3 5/6 Dígitos/6000",
-                            "Categoria de Segurança": "CAT III 750V AC / CAT III 1000V DC",
-                            "Tensão AC": "600m/6/60/600/750V",
-                            "Tensão DC": "600m/6/60/600/1000V",
-                            "Corrente DC": "600µ/6m/60m/600m/6A/20A",
-                            "Corrente AC": "60m/600m/6A/20A",
-                            "Resistência": "600/6k/60k/600k/6M/60MΩ",
-                            "Frequência": "9,999Hz ~ 9,999MHz",
-                            "Duty Cycle": "0,5% ~ 99,9%",
-                            "Capacitância": "9,999n/99,99n/999,9n/9,999µ/99,99µ/999,9µ/9,999mF",
-                            "Temperatura": "-20°C a 1000°C",
-                            "Teste de Continuidade/Diodo": "✓",
-                            "Luz de Fundo": "✓",
-                            "Data Hold": "✓",
-                            "Max-Min-Rel-Zero": "✓",
-                            "Autodesligamento": "✓",
-                            "Indicação de Bateria Fraca": "✓",
-                            "Mudança de Faixa": "Manual/Automática",
-                            "Precisão Básica": "±(0,8%+5D até 60V / ±(1%+5D) até 1000V)",
-                            "RPM (Garra Indutiva)/Ciclos": "60 ~ 12000RPM / 2 ~ 4cil.",
-                            "Dwell": "0 ~ 180º (4 ~ 8 cil.)",
-                            "Largura de Pulso": "1,0 ~ 10,0 ms",
-                            "Garra Opcional G1-120": "✓",
-                            "Interface USB": "✓",
-                            "Alimentação": "1x 9V",
-                            "Dimensões (mm)/Peso (g)": "184x89x62/447",
-                            "Garantia": "12 meses"
-                          },
-                          "image": "/ProductImages/LINHA-AUTOMOTIVA/MULTÍMETROS-AUTOMOTIVOS/MA-150.jpg"
-                        },
-                        {
-                          "name": "ET-2760",
-                          "details": {
-                            "Display LCD/Contagem": "3 5/6 Dígitos/6000",
-                            "Categoria de Segurança": "CAT III 600V",
-                            "True RMS": "AC",
-                            "Tensão AC": "6/60/600/750V",
-                            "Tensão DC": "600m/6/60/600/1000V",
-                            "Corrente DC": "6m/60m/600m/6/20A",
-                            "Corrente AC": "6m/60m/600m/6/20A",
-                            "Resistência": "600/6k/60k/600k/6M/60MΩ",
-                            "Temperatura": "-40ºC ~ 1000ºC / -40ºF ~ 1832ºF",
-                            "Capacitância": "60n/600n/6µ/60µ/600µ/6m/60mF",
-                            "Frequência": "10Hz ~ 50kHz",
-                            "Duty Cycle": "0,1% ~ 99,9%",
-                            "Teste de Continuidade/Diodo": "✓",
-                            "Teste de Resistência de Isolamento": "250V/300MΩ, 500V/500MΩ, 1000V/2GΩ",
-                            "Data Hold": "✓",
-                            "Max-Min-Rel-Zero": "✓",
-                            "Autodesligamento": "✓",
-                            "Luz de Fundo": "✓",
-                            "Detecção de Tensão sem Contato (NCV)": "✓",
-                            "Indicação de Bateria Fraca": "✓",
-                            "Mudança de Faixa": "Automática/Manual",
-                            "Precisão Básica": "±(0,5%+5D)",
-                            "Alimentação": "6x 1,5V AA",
-                            "Dimensões (mm)/Peso (g)": "200x92x50/480",
-                            "Garantia": "12 meses"
-                          },
-                          "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/MULTÍMETRO-MEGÔMETRO/ET-2760.jpg"
-                        },
-                         {
-                            "name": "ET-2780",
-                            "details": {
-                              "Display LCD/Contagem": "3 5/6 Dígitos (Duplo)/6000",
-                              "Categoria de Segurança": "CAT IV 600V / CAT III 1000V",
-                              "True RMS": "AC",
-                              "Tensão AC": "6/60/600/1000V",
-                              "Tensão DC": "60m/600m/6/60/600/1000V",
-                              "Corrente DC": "60m/600mA",
-                              "Corrente AC": "60m/600mA",
-                              "Resistência": "600/6k/60k/600k/6M/40MΩ",
-                              "Temperatura": "-40ºC ~ +537ºC / -40ºF ~ +998ºF",
-                              "Capacitância": "10n/100n/1000n/10µ/100µF",
-                              "Frequência": "60/600/6k/60k/600k/1MHz",
-                              "Duty Cycle": "-",
-                              "Teste de Continuidade/Diodo": "✓",
-                              "Tensão de Teste": "50/100/250/500/1000V",
-                              "Resistência de Teste": "0,1MΩ ~ 2GΩ",
-                              "Data Hold": "✓",
-                              "Max-Min-Rel-Zero": "✓",
-                              "Autodesligamento": "✓",
-                              "Luz de Fundo": "✓",
-                              "Memória": "99 Registros",
-                              "Precisão Básica": "0,1%",
-                              "Alimentação": "6x 1,5V AA (LR6)",
-                              "Dimensões (mm)/Peso (g)": "202x97x40/505",
-                              "Garantia": "12 meses"
-                            },
-                            "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/MULTÍMETRO-MEGÔMETRO/ET-2780.jpg"
-                          },
-                          {
-                              "name": "ET-2402B",
-                              "details": {
-                                "Display LCD/Contagem": "4 1/2 Dígitos/20000 contagens",
-                                "Categoria de Segurança": "CAT IV 600V",
-                                "True RMS": "✓",
-                                "Tensão AC": "200m/2/20/200/750V",
-                                "Tensão DC": "200m/2/20/200/1000V",
-                                "Corrente DC": "200µ/2000µ/20m/200m/10A",
-                                "Corrente AC": "200µ/2000µ/20m/200m/10A",
-                                "Resistência": "200/2k/20k/200k/2M/20MΩ",
-                                "Temperatura": "-20°C a 1000°C",
-                                "Capacitância": "20n/200n/2µ/20µ/200µ/2000µF",
-                                "Frequência": "10/100/1k/10k/100k/1M/20MHz",
-                                "Teste de Continuidade/Diodo": "✓",
-                                "Data Hold": "✓",
-                                "Max-Min-Rel-Zero": "✓",
-                                "Autodesligamento": "✓",
-                                "NCV": "✓",
-                                "Indicação de Bateria Fraca": "✓",
-                                "Precisão Básica": "0,8%",
-                                "Mudança de Faixa": "Automática/Manual",
-                                "Alimentação": "1x 9V",
-                                "Dimensões (mm)/Peso (g)": "184x90x46/320",
-                                "Garantia": "12 meses"
-                              },
-                              "image": "/ProductImages/MULTÍMETROS/MULTÍMETROS-DIGITAIS/ET-2402B.jpg"
-                           },
-                           {
-                              "name": "ET-2704",
-                              "details": {
-                                "Display LCD/Contagem": "4 1/2 Dígitos/20000",
-                                "Categoria de Segurança": "CAT III 1000V / CAT IV 600V",
-                                "True RMS": "✓",
-                                "Tensão AC": "200m/2/20/200/750V",
-                                "Tensão DC": "200m/2/20/200/1000V",
-                                "Corrente DC": "200µ/2000µ/20m/200m/10A",
-                                "Corrente AC": "200µ/2000µ/20m/200m/10A",
-                                "Resistência": "200/2k/20k/200k/2M/20M/100MΩ",
-                                "Temperatura": "-40°C a 1000°C",
-                                "Capacitância": "2n/20n/200n/2µ/20µ/200µ/2m/20mF",
-                                "Frequência": "200Hz ~ 10MHz",
-                                "Teste de Continuidade/Diodo": "✓",
-                                "Data Hold": "✓",
-                                "Max-Min-Rel-Zero": "✓",
-                                "Autodesligamento": "✓",
-                                "NCV": "✓",
-                                "Teste de Linha Viva": "✓",
-                                "Duty Cycle": "✓",
-                                "Frequência de Rede": "✓",
-                                "Lanterna": "✓",
-                                "Luz de Fundo": "✓",
-                                "Indicação de Bateria Fraca": "✓",
-                                "Barra Gráfica": "40 segmentos",
-                                "Indicação de Borne Luminoso": "✓",
-                                "Alerta de Alta Tensão/Corrente": "✓",
-                                "Precisão Básica": "±0,08% + 5D",
-                                "Mudança de Faixa": "Automática",
-                                "Alimentação": "2x 1,5V AA",
-                                "Dimensões (mm)/Peso (g)": "186x91x54/321,5",
-                                "Garantia": "12 meses"
-                              },
-                              "image": "/ProductImages/MULTÍMETROS/MULTÍMETROS-DIGITAIS/ET-2704.jpg"
-                            },
-                          {
-                              "name": "ET-2507B",
-                              "details": {
-                                "Display LCD/Contagem": "3 5/6 Dígitos/6000 com Barra Gráfica de 31 segmentos",
-                                "Categoria de Segurança": "CAT IV 600V / CAT III 1000V",
-                                "Proteção": "IP65",
-                                "True RMS": "AC",
-                                "Tensão AC": "600m/6/60/600/750V",
-                                "Tensão DC": "600m/6/60/600/1000V",
-                                "Corrente DC": "600µ/6000µ/60m/600m/6/20A",
-                                "Corrente AC": "600µ/6000µ/60m/600m/6/20A",
-                                "Resistência": "600/6k/60k/600k/6M/60MΩ",
-                                "Capacitância": "6n/60n/600/6m/60mF",
-                                "Frequência": "60Hz ~ 10MHz",
-                                "Teste de Continuidade/Diodo": "✓",
-                                "Data Hold": "✓",
-                                "Max-Min-Rel-Zero": "✓",
-                                "Duty Cycle": "✓",
-                                "Autodesligamento": "✓",
-                                "Lanterna": "✓",
-                                "Luz de Fundo": "✓",
-                                "Indicação de Bateria Fraca": "✓",
-                                "Função LoZ": "✓",
-                                "Alerta de Alta Tensão/Corrente": "✓",
-                                "Mudança de Faixa": "Automática/Manual",
-                                "Precisão Básica": "0,5%",
-                                "Alimentação": "1x 9V (6F22)",
-                                "Dimensões (mm)/Peso (g)": "195x95x58/473",
-                                "Garantia": "12 meses"
-                              },
-                              "image": "/ProductImages/MULTÍMETROS/MULTÍMETROS-DIGITAIS/ET-2507B.jpg"
-                            },
-                            {
-                              "name": "MS-350",
-                              "details": {
-                                "Display LCD/Contagem": "LCD 3,5” Colorido (320 x 240)",
-                                "Categoria de Segurança": "CAT III 600V (Multímetro) / CAT II 400V (Osciloscópio)",
-                                "Banda de Frequência": "50 MHz",
-                                "Amostragem em Tempo Real": "125 MSa/s (2 canais) / 250 MSa/s (1 canal)",
-                                "Faixa de Amostragem": "0,25 Sa/s ~ 250 MSa/s",
-                                "True RMS": "AC",
-                                "Memória de Canal": "8kpts",
-                                "Taxa de Atualização da Forma de Onda": "10.000 wfms/s",
-                                "Canais de Entrada": "2",
-                                "Base de Tempo": "5ns/DIV ~ 1000s/DIV",
-                                "Amostragem Acumulativa": "Amostragem, detecção de picos",
-                                "Fator de Deflexão Vertical": "10 mV/div a 10 V/div",
-                                "Precisão Básica Vertical": "3%",
-                                "Resposta do Tempo de Subida": "≤ 8 ns",
-                                "Impedância de Entrada": "1 MΩ ±2% || 16 pF ±10 pF",
-                                "Máxima Tensão de Entrada": "400V (DC+AC, PK-PK)",
-                                "Modo de Trigger": "Auto/Normal/Single",
-                                "Tipos de Trigger/Fontes de Trigger": "Borda de Subida e Descida CH1, CH2",
-                                "Saída de Calibração": "3,3 Vpp, onda quadrada 1 kHz",
-                                "Proteção": "Fusível mA 400mA/250 V, Fusível 10A/600V",
-                                "Tensão DC": "600m/6/60/600/1000V",
-                                "Tensão AC": "600m/6/60/600/750V",
-                                "Corrente DC": "600µ/6000µ/60m/600m/6/20A",
-                                "Corrente AC": "600µ/6000µ/60m/600m/6/20A",
-                                "Resistência": "600/6k/60k/600k/6M/60MΩ",
-                                "Capacitância": "6n/60n/600n/6µ/60µ/600µ/6m/60mF",
-                                "Frequência": "10Hz ~ 10MHz",
-                                "Duty Cycle": "0,1% ~ 99,9%",
-                                "Teste de Continuidade/Diodo": "✓",
-                                "Data Hold": "✓",
-                                "Max-Min-Rel-Zero": "✓",
-                                "Função Relativa (REL)": "✓",
-                                "NCV": "✓",
-                                "Indicação de Bateria Fraca": "✓",
-                                "Alerta de Sobretensão": "✓",
-                                "Autodesligamento": "✓",
-                                "Luz de Fundo": "✓",
-                                "Alimentação": "Bateria Recarregável 2x 3,7V @ 2200mAh ou Fonte AC 100-240V 50/60Hz",
-                                "Dimensões (mm)/Peso (g)": "198x96x38/600",
-                                "Garantia": "12 meses"
-                              },
-                              "image": "/ProductImages/OSCILOSCÓPIOS/OSCILOSCÓPIO-DIGITAIS/MS-350.jpg"
-                            },
-                              {
-                          "name": "ET-2233",
-                          "details": {
-                            "Display LCD/Contagem": "3 5/6 Dígitos/6000",
-                            "Categoria de Segurança": "CAT III 1000V / CAT IV 600V",
-                            "True RMS": "AC",
-                            "Tensão AC": "60m/600m/6/60/600/1000V",
-                            "Tensão DC": "60m/600m/6/60/600/1000V",
-                            "Corrente DC": "600µ/6000µ/60m/600m/6/20A",
-                            "Corrente AC": "600µ/6000µ/60m/600m/6/20A",
-                            "Resistência": "600/6k/60k/600k/6M/60MΩ",
-                            "Capacitância": "60n/600n/6µ/60µ/600µ/6m/60mF",
-                            "Frequência": "10Hz ~ 10MHz",
-                            "Temperatura": "-40°C a 1000°C",
-                            "Teste de Continuidade/Diodo": "✓",
-                            "Data Hold / Peak Hold": "✓",
-                            "Max-Min-Rel-Zero": "✓",
-                            "Duty Cycle": "✓",
-                            "Frequência de Rede": "✓",
-                            "LoZ (Baixa Impedância AC)": "✓",
-                            "Barra Gráfica": "31 segmentos",
-                            "Luz de Fundo": "✓",
-                            "NCV (Detecção de Tensão sem Contato/EF)": "✓",
-                            "Indicação de Bateria Fraca": "✓",
-                            "Autodesligamento": "✓",
-                            "Precisão Básica": "0,5%",
-                            "Mudança de Faixa": "Automática/Manual",
-                            "Interface de Computador": "USB",
-                            "Alimentação": "4x 1,5V AAA",
-                            "Dimensões (mm)/Peso (g)": "186x89x49/400",
-                            "Garantia": "12 meses"
-                          },
-                          "image": "/ProductImages/MULTÍMETROS/MULTÍMETROS-DIGITAIS/ET-2233.jpg"
-                        },
-                        {
-                            "name": "ET-2517A",
-                            "details": {
-                              "Display LCD/Contagem": "4 Dígitos (Duplo)/9999",
-                              "Categoria de Segurança": "CAT IV 1000V",
-                              "True RMS": "AC",
-                              "Tensão DC": "60m/600m/10/100/1000V",
-                              "Tensão AC": "60m/600m/10/100/1000V",
-                              "Corrente DC": "600µ/6000µ/60m/600m/6/10A",
-                              "Corrente AC": "600µ/6000µ/60m/600m/6/10A",
-                              "Resistência": "600/6k/60k/600k/6M/60MΩ",
-                              "Condutância": "100nS",
-                              "Temperatura": "-50°C ~ +1000°C / -58°F ~ +1832°F",
-                              "Capacitância": "60n/600n/6µ/60µ/600µ/6m/25mF",
-                              "Frequência": "5Hz ~ 1MHz",
-                              "Frequência de Rede": "✓",
-                              "Duty Cycle": "✓",
-                              "Teste de Continuidade/Diodo": "✓",
-                              "NCV (Detecção de Tensão sem Contato com Nível/EF)": "✓",
-                              "Data Hold": "✓",
-                              "Peak Hold": "✓",
-                              "Max-Min-Avg-Rel-Zero": "Máx./Mín./Média/Relativo",
-                              "Autodesligamento / Beep Guard": "✓",
-                              "Barra Gráfica": "41 segmentos",
-                              "Função CREST (pico de 1ms)": "✓",
-                              "Beep-Jack™": "✓",
-                              "Mudança de Faixa": "Automática/Manual",
-                              "Interface de Computador": "USB (Opcional)",
-                              "Precisão Básica": "0,06%",
-                              "Alimentação": "1x 9V",
-                              "Dimensões (mm)/Peso (g)": "208x103x65/635",
-                              "Garantia": "60 meses"
-                            },
-                            "image": "/ProductImages/MULTÍMETROS/MULTÍMETROS-DIGITAIS/ET-2517A.jpg"
-                          }
+              "image": "/ProductImages/MULTÍMETROS/MULTÍMETROS-DIGITAIS/ET-1649.png"
+            },
+            {
+              "name": "ET-1649BT",
+              "details": {
+                "Display LCD/Contagem": "4 Dígitos/9999",
+                "Categoria de Segurança": "CAT III 600V",
+                "True RMS": "AC",
+                "Tensão AC": "999,9m/9,999/99,99/999,9V",
+                "Tensão DC": "999,9m/9,999/99,99/999,9V",
+                "Corrente DC": "999,9μ/9999μ/99,99m/999,9m/9,999A",
+                "Corrente AC": "999,9μ/9999μ/99,99m/999,9m/9,999A",
+                "Resistência": "999,9/9,999k/99,99k/999,9k/9,999M/99,99MΩ",
+                "Frequência": "9,999Hz ~ 9,999MHz",
+                "Duty Cycle": "0,1% ~ 99,9%",
+                "Capacitância": "9,999n/99,99n/999,9n/9,999µ/99,99µ/999,9µ/9,999m/99,99mF",
+                "Temperatura": "-40°C a 1000°C / -40°F a 1832°F",
+                "Teste de Continuidade/Diodo": "✓",
+                "Luz de Fundo": "✓",
+                "Data Hold": "✓",
+                "Max-Min-Rel-Zero": "✓",
+                "Autodesligamento": "✓",
+                "Indicação de Bateria Fraca": "✓",
+                "Mudança de Faixa": "Automática",
+                "Precisão Básica": "±(0,5%+3D)",
+                "NCV com níveis EFLo/EFHi": "✓",
+                "Conectividade Bluetooth": "✓",
+                "Aplicativo": "Minipa Link (Android/iOS)",
+                "Taxa de Amostragem": "3 vezes/segundo",
+                "Alimentação": "3x 1,5V AAA",
+                "Dimensões (mm)/Peso (g)": "187x88x56/400",
+                "Garantia": "12 meses"
+              },
+              "image": "/ProductImages/MULTÍMETROS/MULTÍMETROS-DIGITAIS/ET-1649BT.jpg"
+            },
+            {
+              "name": "ET-2042F",
+              "details": {
+                "Display LCD/Contagem": "3 5/6 Dígitos/6000",
+                "Categoria de Segurança": "CAT II 1000V / CAT III 600V",
+                "True RMS": "AC",
+                "Tensão AC": "6/60/600/1000V",
+                "Tensão DC": "600m/6/60/600/1000V",
+                "Corrente DC": "60µ/60m/600m/20A",
+                "Corrente AC": "60m/600m/20A",
+                "Resistência": "600/6k/60k/600k/6M/60MΩ",
+                "Frequência": "10 ~ 10MHz",
+                "Temperatura": "-40°C a 1000°C / -40°F a 1832°F",
+                "Capacitância": "6n/60n/600n/6µ/60µ/600µ/6m/60m/100mF",
+                "Duty Cycle": "✓",
+                "Teste de Continuidade/Diodo": "✓",
+                "Luz de Fundo": "✓",
+                "Lanterna": "✓",
+                "hFE": "✓",
+                "Frequência de Rede": "✓",
+                "Data Hold": "✓",
+                "Max-Min-Rel-Zero": "-",
+                "Autodesligamento": "✓",
+                "Detecção de Tensão sem Contato (NCV)": "✓",
+                "Indicação de Bateria Fraca": "✓",
+                "Precisão Básica": "0,5%",
+                "Mudança de Faixa": "Manual",
+                "Alimentação": "2x 1,5V AA",
+                "Dimensões (mm)/Peso (g)": "175x81x48,5/345",
+                "Garantia": "12 meses",
+                "Acessórios": "Manual, Pontas de Prova e Termopar"
+              },
+              "image": "/ProductImages/MULTÍMETROS/MULTÍMETROS-DIGITAIS/ET-2042F.png"
+            },
+            {
+              "name": "MA-120A",
+              "details": {
+                "Display LCD/Contagem": "3 5/6 Dígitos/6000",
+                "Categoria de Segurança": "CAT IV 600V / CAT III 1000V",
+                "True RMS": "✓",
+                "Tensão AC": "600m/6/60/600/750V",
+                "Tensão DC": "600m/6/60/600/1000V",
+                "Corrente DC": "600µ/6m/60m/600m/6A/20A",
+                "Corrente AC": "60m/600m/6A/20A",
+                "Resistência": "600/6k/60k/600k/6M/60MΩ",
+                "Frequência": "9,999Hz ~ 9,999MHz",
+                "Duty Cycle": "1,0% ~ 99,9%",
+                "Capacitância": "9,999n/99,99n/999,9n/9,999µ/99,99µ/999,9µ/9,999mF",
+                "Temperatura": "-30°C a 1000°C",
+                "Teste de Continuidade/Diodo": "✓",
+                "Data Hold": "✓",
+                "Max-Min-Rel-Zero": "✓",
+                "Autodesligamento": "✓",
+                "Indicação de Bateria Fraca": "✓",
+                "Mudança de Faixa": "Manual/Automática",
+                "Precisão Básica": "±(1%+3D)",
+                "RPM (Garra Indutiva)/Ciclos": "60 ~ 12000RPM / 2 ~ 4cil.",
+                "Dwell": "0 ~ 180º (2 ~ 8 cil.)",
+                "Largura de Pulso": "1,0 ~ 10,0 ms",
+                "Garra Opcional G1-120": "✓",
+                "Interface USB": "✓",
+                "Alimentação": "1x 9V",
+                "Dimensões (mm)/Peso (g)": "166x88x51/320",
+                "Garantia": "12 meses"
+              },
+              "image": "/ProductImages/LINHA-AUTOMOTIVA/MULTÍMETROS-AUTOMOTIVO/MA-120A.png"
+            },
+            {
+              "name": "MA-150",
+              "details": {
+                "Display LCD/Contagem": "3 5/6 Dígitos/6000",
+                "Categoria de Segurança": "CAT III 750V AC / CAT III 1000V DC",
+                "Tensão AC": "600m/6/60/600/750V",
+                "Tensão DC": "600m/6/60/600/1000V",
+                "Corrente DC": "600µ/6m/60m/600m/6A/20A",
+                "Corrente AC": "60m/600m/6A/20A",
+                "Resistência": "600/6k/60k/600k/6M/60MΩ",
+                "Frequência": "9,999Hz ~ 9,999MHz",
+                "Duty Cycle": "0,5% ~ 99,9%",
+                "Capacitância": "9,999n/99,99n/999,9n/9,999µ/99,99µ/999,9µ/9,999mF",
+                "Temperatura": "-20°C a 1000°C",
+                "Teste de Continuidade/Diodo": "✓",
+                "Luz de Fundo": "✓",
+                "Data Hold": "✓",
+                "Max-Min-Rel-Zero": "✓",
+                "Autodesligamento": "✓",
+                "Indicação de Bateria Fraca": "✓",
+                "Mudança de Faixa": "Manual/Automática",
+                "Precisão Básica": "±(0,8%+5D até 60V / ±(1%+5D) até 1000V)",
+                "RPM (Garra Indutiva)/Ciclos": "60 ~ 12000RPM / 2 ~ 4cil.",
+                "Dwell": "0 ~ 180º (4 ~ 8 cil.)",
+                "Largura de Pulso": "1,0 ~ 10,0 ms",
+                "Garra Opcional G1-120": "✓",
+                "Interface USB": "✓",
+                "Alimentação": "1x 9V",
+                "Dimensões (mm)/Peso (g)": "184x89x62/447",
+                "Garantia": "12 meses"
+              },
+              "image": "/ProductImages/LINHA-AUTOMOTIVA/MULTÍMETROS-AUTOMOTIVO/MA-150.png"
+            },
+            {
+              "name": "ET-2760",
+              "details": {
+                "Display LCD/Contagem": "3 5/6 Dígitos/6000",
+                "Categoria de Segurança": "CAT III 600V",
+                "True RMS": "AC",
+                "Tensão AC": "6/60/600/750V",
+                "Tensão DC": "600m/6/60/600/1000V",
+                "Corrente DC": "6m/60m/600m/6/20A",
+                "Corrente AC": "6m/60m/600m/6/20A",
+                "Resistência": "600/6k/60k/600k/6M/60MΩ",
+                "Temperatura": "-40ºC ~ 1000ºC / -40ºF ~ 1832ºF",
+                "Capacitância": "60n/600n/6µ/60µ/600µ/6m/60mF",
+                "Frequência": "10Hz ~ 50kHz",
+                "Duty Cycle": "0,1% ~ 99,9%",
+                "Teste de Continuidade/Diodo": "✓",
+                "Teste de Resistência de Isolamento": "250V/300MΩ, 500V/500MΩ, 1000V/2GΩ",
+                "Data Hold": "✓",
+                "Max-Min-Rel-Zero": "✓",
+                "Autodesligamento": "✓",
+                "Luz de Fundo": "✓",
+                "Detecção de Tensão sem Contato (NCV)": "✓",
+                "Indicação de Bateria Fraca": "✓",
+                "Mudança de Faixa": "Automática/Manual",
+                "Precisão Básica": "±(0,5%+5D)",
+                "Alimentação": "6x 1,5V AA",
+                "Dimensões (mm)/Peso (g)": "200x92x50/480",
+                "Garantia": "12 meses"
+              },
+              "image": "/ProductImages/MULTÍMETROS/MULTÍMETROS-DIGITAIS/ET-2760.jpg"
+            },
+            {
+              "name": "ET-2780",
+              "details": {
+                "Display LCD/Contagem": "3 5/6 Dígitos (Duplo)/6000",
+                "Categoria de Segurança": "CAT IV 600V / CAT III 1000V",
+                "True RMS": "AC",
+                "Tensão AC": "6/60/600/1000V",
+                "Tensão DC": "60m/600m/6/60/600/1000V",
+                "Corrente DC": "60m/600mA",
+                "Corrente AC": "60m/600mA",
+                "Resistência": "600/6k/60k/600k/6M/40MΩ",
+                "Temperatura": "-40ºC ~ +537ºC / -40ºF ~ +998ºF",
+                "Capacitância": "10n/100n/1000n/10µ/100µF",
+                "Frequência": "60/600/6k/60k/600k/1MHz",
+                "Duty Cycle": "-",
+                "Teste de Continuidade/Diodo": "✓",
+                "Tensão de Teste": "50/100/250/500/1000V",
+                "Resistência de Teste": "0,1MΩ ~ 2GΩ",
+                "Data Hold": "✓",
+                "Max-Min-Rel-Zero": "✓",
+                "Autodesligamento": "✓",
+                "Luz de Fundo": "✓",
+                "Memória": "99 Registros",
+                "Precisão Básica": "0,1%",
+                "Alimentação": "6x 1,5V AA (LR6)",
+                "Dimensões (mm)/Peso (g)": "202x97x40/505",
+                "Garantia": "12 meses"
+              },
+              "image": "/ProductImages/MULTÍMETROS/MULTÍMETROS-DIGITAIS/ET-2780.png"
+            },
+            {
+              "name": "ET-2402B",
+              "details": {
+                "Display LCD/Contagem": "4 1/2 Dígitos/20000 contagens",
+                "Categoria de Segurança": "CAT IV 600V",
+                "True RMS": "✓",
+                "Tensão AC": "200m/2/20/200/750V",
+                "Tensão DC": "200m/2/20/200/1000V",
+                "Corrente DC": "200µ/2000µ/20m/200m/10A",
+                "Corrente AC": "200µ/2000µ/20m/200m/10A",
+                "Resistência": "200/2k/20k/200k/2M/20MΩ",
+                "Temperatura": "-20°C a 1000°C",
+                "Capacitância": "20n/200n/2µ/20µ/200µ/2000µF",
+                "Frequência": "10/100/1k/10k/100k/1M/20MHz",
+                "Teste de Continuidade/Diodo": "✓",
+                "Data Hold": "✓",
+                "Max-Min-Rel-Zero": "✓",
+                "Autodesligamento": "✓",
+                "NCV": "✓",
+                "Indicação de Bateria Fraca": "✓",
+                "Precisão Básica": "0,8%",
+                "Mudança de Faixa": "Automática/Manual",
+                "Alimentação": "1x 9V",
+                "Dimensões (mm)/Peso (g)": "184x90x46/320",
+                "Garantia": "12 meses"
+              },
+              "image": "/ProductImages/MULTÍMETROS/MULTÍMETROS-DIGITAIS/ET-2402B.png"
+            },
+            {
+              "name": "ET-2704",
+              "details": {
+                "Display LCD/Contagem": "4 1/2 Dígitos/20000",
+                "Categoria de Segurança": "CAT III 1000V / CAT IV 600V",
+                "True RMS": "✓",
+                "Tensão AC": "200m/2/20/200/750V",
+                "Tensão DC": "200m/2/20/200/1000V",
+                "Corrente DC": "200µ/2000µ/20m/200m/10A",
+                "Corrente AC": "200µ/2000µ/20m/200m/10A",
+                "Resistência": "200/2k/20k/200k/2M/20M/100MΩ",
+                "Temperatura": "-40°C a 1000°C",
+                "Capacitância": "2n/20n/200n/2µ/20µ/200µ/2m/20mF",
+                "Frequência": "200Hz ~ 10MHz",
+                "Teste de Continuidade/Diodo": "✓",
+                "Data Hold": "✓",
+                "Max-Min-Rel-Zero": "✓",
+                "Autodesligamento": "✓",
+                "NCV": "✓",
+                "Teste de Linha Viva": "✓",
+                "Duty Cycle": "✓",
+                "Frequência de Rede": "✓",
+                "Lanterna": "✓",
+                "Luz de Fundo": "✓",
+                "Indicação de Bateria Fraca": "✓",
+                "Barra Gráfica": "40 segmentos",
+                "Indicação de Borne Luminoso": "✓",
+                "Alerta de Alta Tensão/Corrente": "✓",
+                "Precisão Básica": "±0,08% + 5D",
+                "Mudança de Faixa": "Automática",
+                "Alimentação": "2x 1,5V AA",
+                "Dimensões (mm)/Peso (g)": "186x91x54/321,5",
+                "Garantia": "12 meses"
+              },
+              "image": "/ProductImages/MULTÍMETROS/MULTÍMETROS-DIGITAIS/ET-2704.png"
+            },
+            {
+              "name": "ET-2507B",
+              "details": {
+                "Display LCD/Contagem": "3 5/6 Dígitos/6000 com Barra Gráfica de 31 segmentos",
+                "Categoria de Segurança": "CAT IV 600V / CAT III 1000V",
+                "Proteção": "IP65",
+                "True RMS": "AC",
+                "Tensão AC": "600m/6/60/600/750V",
+                "Tensão DC": "600m/6/60/600/1000V",
+                "Corrente DC": "600µ/6000µ/60m/600m/6/20A",
+                "Corrente AC": "600µ/6000µ/60m/600m/6/20A",
+                "Resistência": "600/6k/60k/600k/6M/60MΩ",
+                "Capacitância": "6n/60n/600/6m/60mF",
+                "Frequência": "60Hz ~ 10MHz",
+                "Teste de Continuidade/Diodo": "✓",
+                "Data Hold": "✓",
+                "Max-Min-Rel-Zero": "✓",
+                "Duty Cycle": "✓",
+                "Autodesligamento": "✓",
+                "Lanterna": "✓",
+                "Luz de Fundo": "✓",
+                "Indicação de Bateria Fraca": "✓",
+                "Função LoZ": "✓",
+                "Alerta de Alta Tensão/Corrente": "✓",
+                "Mudança de Faixa": "Automática/Manual",
+                "Precisão Básica": "0,5%",
+                "Alimentação": "1x 9V (6F22)",
+                "Dimensões (mm)/Peso (g)": "195x95x58/473",
+                "Garantia": "12 meses"
+              },
+              "image": "/ProductImages/MULTÍMETROS/MULTÍMETROS-DIGITAIS/ET-2507B.png"
+            },
+            {
+              "name": "MS-350",
+              "details": {
+                "Display LCD/Contagem": "LCD 3,5” Colorido (320 x 240)",
+                "Categoria de Segurança": "CAT III 600V (Multímetro) / CAT II 400V (Osciloscópio)",
+                "Banda de Frequência": "50 MHz",
+                "Amostragem em Tempo Real": "125 MSa/s (2 canais) / 250 MSa/s (1 canal)",
+                "Faixa de Amostragem": "0,25 Sa/s ~ 250 MSa/s",
+                "True RMS": "AC",
+                "Memória de Canal": "8kpts",
+                "Taxa de Atualização da Forma de Onda": "10.000 wfms/s",
+                "Canais de Entrada": "2",
+                "Base de Tempo": "5ns/DIV ~ 1000s/DIV",
+                "Amostragem Acumulativa": "Amostragem, detecção de picos",
+                "Fator de Deflexão Vertical": "10 mV/div a 10 V/div",
+                "Precisão Básica Vertical": "3%",
+                "Resposta do Tempo de Subida": "≤ 8 ns",
+                "Impedância de Entrada": "1 MΩ ±2% || 16 pF ±10 pF",
+                "Máxima Tensão de Entrada": "400V (DC+AC, PK-PK)",
+                "Modo de Trigger": "Auto/Normal/Single",
+                "Tipos de Trigger/Fontes de Trigger": "Borda de Subida e Descida CH1, CH2",
+                "Saída de Calibração": "3,3 Vpp, onda quadrada 1 kHz",
+                "Proteção": "Fusível mA 400mA/250 V, Fusível 10A/600V",
+                "Tensão DC": "600m/6/60/600/1000V",
+                "Tensão AC": "600m/6/60/600/750V",
+                "Corrente DC": "600µ/6000µ/60m/600m/6/20A",
+                "Corrente AC": "600µ/6000µ/60m/600m/6/20A",
+                "Resistência": "600/6k/60k/600k/6M/60MΩ",
+                "Capacitância": "6n/60n/600n/6µ/60µ/600µ/6m/60mF",
+                "Frequência": "10Hz ~ 10MHz",
+                "Duty Cycle": "0,1% ~ 99,9%",
+                "Teste de Continuidade/Diodo": "✓",
+                "Data Hold": "✓",
+                "Max-Min-Rel-Zero": "✓",
+                "Função Relativa (REL)": "✓",
+                "NCV": "✓",
+                "Indicação de Bateria Fraca": "✓",
+                "Alerta de Sobretensão": "✓",
+                "Autodesligamento": "✓",
+                "Luz de Fundo": "✓",
+                "Alimentação": "Bateria Recarregável 2x 3,7V @ 2200mAh ou Fonte AC 100-240V 50/60Hz",
+                "Dimensões (mm)/Peso (g)": "198x96x38/600",
+                "Garantia": "12 meses"
+              },
+              "image": "/ProductImages/OSCILOSCÓPIOS/Osciloscópios Digitais/MS-350.png"
+            },
+            {
+              "name": "ET-2233",
+              "details": {
+                "Display LCD/Contagem": "3 5/6 Dígitos/6000",
+                "Categoria de Segurança": "CAT III 1000V / CAT IV 600V",
+                "True RMS": "AC",
+                "Tensão AC": "60m/600m/6/60/600/1000V",
+                "Tensão DC": "60m/600m/6/60/600/1000V",
+                "Corrente DC": "600µ/6000µ/60m/600m/6/20A",
+                "Corrente AC": "600µ/6000µ/60m/600m/6/20A",
+                "Resistência": "600/6k/60k/600k/6M/60MΩ",
+                "Capacitância": "60n/600n/6µ/60µ/600µ/6m/60mF",
+                "Frequência": "10Hz ~ 10MHz",
+                "Temperatura": "-40°C a 1000°C",
+                "Teste de Continuidade/Diodo": "✓",
+                "Data Hold / Peak Hold": "✓",
+                "Max-Min-Rel-Zero": "✓",
+                "Duty Cycle": "✓",
+                "Frequência de Rede": "✓",
+                "LoZ (Baixa Impedância AC)": "✓",
+                "Barra Gráfica": "31 segmentos",
+                "Luz de Fundo": "✓",
+                "NCV (Detecção de Tensão sem Contato/EF)": "✓",
+                "Indicação de Bateria Fraca": "✓",
+                "Autodesligamento": "✓",
+                "Precisão Básica": "0,5%",
+                "Mudança de Faixa": "Automática/Manual",
+                "Interface de Computador": "USB",
+                "Alimentação": "4x 1,5V AAA",
+                "Dimensões (mm)/Peso (g)": "186x89x49/400",
+                "Garantia": "12 meses"
+              },
+              "image": "/ProductImages/MULTÍMETROS/MULTÍMETROS-DIGITAIS/ET-2233.png"
+            },
+            {
+              "name": "ET-2517A",
+              "details": {
+                "Display LCD/Contagem": "4 Dígitos (Duplo)/9999",
+                "Categoria de Segurança": "CAT IV 1000V",
+                "True RMS": "AC",
+                "Tensão DC": "60m/600m/10/100/1000V",
+                "Tensão AC": "60m/600m/10/100/1000V",
+                "Corrente DC": "600µ/6000µ/60m/600m/6/10A",
+                "Corrente AC": "600µ/6000µ/60m/600m/6/10A",
+                "Resistência": "600/6k/60k/600k/6M/60MΩ",
+                "Condutância": "100nS",
+                "Temperatura": "-50°C ~ +1000°C / -58°F ~ +1832°F",
+                "Capacitância": "60n/600n/6µ/60µ/600µ/6m/25mF",
+                "Frequência": "5Hz ~ 1MHz",
+                "Frequência de Rede": "✓",
+                "Duty Cycle": "✓",
+                "Teste de Continuidade/Diodo": "✓",
+                "NCV (Detecção de Tensão sem Contato com Nível/EF)": "✓",
+                "Data Hold": "✓",
+                "Peak Hold": "✓",
+                "Max-Min-Avg-Rel-Zero": "Máx./Mín./Média/Relativo",
+                "Autodesligamento / Beep Guard": "✓",
+                "Barra Gráfica": "41 segmentos",
+                "Função CREST (pico de 1ms)": "✓",
+                "Beep-Jack™": "✓",
+                "Mudança de Faixa": "Automática/Manual",
+                "Interface de Computador": "USB (Opcional)",
+                "Precisão Básica": "0,06%",
+                "Alimentação": "1x 9V",
+                "Dimensões (mm)/Peso (g)": "208x103x65/635",
+                "Garantia": "60 meses"
+              },
+              "image": "/ProductImages/MULTÍMETROS/MULTÍMETROS-DIGITAIS/ET-2517A.png"
+            }
           ]
         }
       ]
@@ -892,7 +892,6 @@
           "description": "Simplicidade e velocidade.",
           "image": "/ProductImages/ALICATES/ALICATE-ANALÓGICO/subcategory-image.jpg",
           "products": [
-            
             {
               "name": "test to see if iit worked",
               "details": {},
@@ -907,66 +906,66 @@
           "image": "/ProductImages/ALICATES/ALICATES-DIGITAIS-COMPACTOS/subcategory-image.jpg",
           "products": [
             {
-                "name": "ET-3100",
-                "details": {
-                  "Display LCD/Contagem": "3 1/2 Dígitos/2000",
-                  "Categoria de Segurança": "CAT II 600V",
-                  "True RMS": "✓ (AC)",
-                  "Tensão DC": "600V",
-                  "Tensão AC": "600V",
-                  "Corrente AC": "2/20/200A",
-                  "Resistência": "2000/200kΩ",
-                  "Resolução em Corrente": "0,001/0,01/0,1A",
-                  "Teste de Continuidade/Diodo": "✓",
-                  "Data Hold": "✓",
-                  "Mudança de Faixa": "Manual",
-                  "Abertura de Garra": "27mm",
-                  "Diâmetro de Condutor": "25mm",
-                  "Precisão Básica": "2,5%",
-                  "Alimentação": "3x 3V CR2032",
-                  "Dimensões (mm)/Peso (g)": "151x65x34/127",
-                  "Garantia": "12 meses",
-                  "Taxa de Amostragem": "3 vezes/segundo",
-                  "Indicação de Polaridade": "Automática",
-                  "Indicação de Sobrecarga": "Sim (\"1\" no display)",
-                  "Indicação de Bateria Fraca": "✓"
-                },
-                "image": "/ProductImages/ALICATES/ALICATES-DIGITAIS-COMPACTOS/ET-3100.jpg"
+              "name": "ET-3100",
+              "details": {
+                "Display LCD/Contagem": "3 1/2 Dígitos/2000",
+                "Categoria de Segurança": "CAT II 600V",
+                "True RMS": "✓ (AC)",
+                "Tensão DC": "600V",
+                "Tensão AC": "600V",
+                "Corrente AC": "2/20/200A",
+                "Resistência": "2000/200kΩ",
+                "Resolução em Corrente": "0,001/0,01/0,1A",
+                "Teste de Continuidade/Diodo": "✓",
+                "Data Hold": "✓",
+                "Mudança de Faixa": "Manual",
+                "Abertura de Garra": "27mm",
+                "Diâmetro de Condutor": "25mm",
+                "Precisão Básica": "2,5%",
+                "Alimentação": "3x 3V CR2032",
+                "Dimensões (mm)/Peso (g)": "151x65x34/127",
+                "Garantia": "12 meses",
+                "Taxa de Amostragem": "3 vezes/segundo",
+                "Indicação de Polaridade": "Automática",
+                "Indicação de Sobrecarga": "Sim (\"1\" no display)",
+                "Indicação de Bateria Fraca": "✓"
               },
-              {
-                "name": "ET-3320A",
-                "details": {
-                  "Display LCD/Contagem": "3 1/2 Dígitos/2000",
-                  "Categoria de Segurança": "CAT II 600V / CAT III 300V",
-                  "True RMS": "✓ (AC)",
-                  "Tensão DC": "200m/2/20/200/600V",
-                  "Tensão AC": "2/20/200/600V",
-                  "Corrente DC": "2/20/100A",
-                  "Corrente AC": "2/20/100A",
-                  "Resistência": "200/2k/20k/200k/2M/20MΩ",
-                  "Capacitância": "2n/20n/200n/2µ/20µ/200µ/2m/20mF",
-                  "Resolução em Corrente": "0,001/0,01/0,1A",
-                  "Teste de Continuidade/Diodo": "✓",
-                  "NCV (Detecção de Tensão sem Contato)": "✓",
-                  "Data Hold": "✓",
-                  "Iluminação": "✓",
-                  "Função Relativa (ZERO/REL)": "✓",
-                  "Função VFC (Filtro de Frequência Variável)": "✓",
-                  "Autodesligamento": "✓",
-                  "Indicação de Polaridade": "Automática",
-                  "Indicação de Sobrecarga": "OL no display",
-                  "Indicação de Bateria Fraca": "✓",
-                  "Mudança de Faixa": "Automática",
-                  "Taxa de Amostragem": "2 ~ 3 vezes/segundo",
-                  "Abertura de Garra": "17mm",
-                  "Diâmetro de Condutor": "17mm",
-                  "Precisão Básica": "2,5%",
-                  "Alimentação": "2x 1,5V AAA",
-                  "Dimensões (mm)/Peso (g)": "175x60x33,5/170",
-                  "Garantia": "12 meses"
-                },
-                "image": "/ProductImages/ALICATES/ALICATES-DIGITAIS-COMPACTOS/ET-3320A.jpg"
-              }
+              "image": "/ProductImages/ALICATES/ALICATES-DIGITAIS-COMPACTOS/ET-3100.png"
+            },
+            {
+              "name": "ET-3320A",
+              "details": {
+                "Display LCD/Contagem": "3 1/2 Dígitos/2000",
+                "Categoria de Segurança": "CAT II 600V / CAT III 300V",
+                "True RMS": "✓ (AC)",
+                "Tensão DC": "200m/2/20/200/600V",
+                "Tensão AC": "2/20/200/600V",
+                "Corrente DC": "2/20/100A",
+                "Corrente AC": "2/20/100A",
+                "Resistência": "200/2k/20k/200k/2M/20MΩ",
+                "Capacitância": "2n/20n/200n/2µ/20µ/200µ/2m/20mF",
+                "Resolução em Corrente": "0,001/0,01/0,1A",
+                "Teste de Continuidade/Diodo": "✓",
+                "NCV (Detecção de Tensão sem Contato)": "✓",
+                "Data Hold": "✓",
+                "Iluminação": "✓",
+                "Função Relativa (ZERO/REL)": "✓",
+                "Função VFC (Filtro de Frequência Variável)": "✓",
+                "Autodesligamento": "✓",
+                "Indicação de Polaridade": "Automática",
+                "Indicação de Sobrecarga": "OL no display",
+                "Indicação de Bateria Fraca": "✓",
+                "Mudança de Faixa": "Automática",
+                "Taxa de Amostragem": "2 ~ 3 vezes/segundo",
+                "Abertura de Garra": "17mm",
+                "Diâmetro de Condutor": "17mm",
+                "Precisão Básica": "2,5%",
+                "Alimentação": "2x 1,5V AAA",
+                "Dimensões (mm)/Peso (g)": "175x60x33,5/170",
+                "Garantia": "12 meses"
+              },
+              "image": "/ProductImages/ALICATES/ALICATES-DIGITAIS-COMPACTOS/ET-3320A.png"
+            }
           ]
         },
         {
@@ -975,593 +974,592 @@
           "description": "Práticos e seguros, realizam medições de corrente sem necessidade de abertura de circuito. A linha digital conta com uma grande diversidade de funções nos instrumentos, tornando-os assim uma ferramenta indispensável. Por possuírem diversos tipos de filtros integrados, realizam medições de altíssima confiabilidade.",
           "image": "/ProductImages/ALICATES/ALICATES-DIGITAIS/subcategory-image.jpg",
           "products": [
-              {
-                "name": "ET-3200",
-                "details": {
-                  "Display LCD/Contagem": "3 1/2 Dígitos/2000",
-                  "Categoria de Segurança": "CAT II 1000V",
-                  "Tensão DC": "200m/20/200/1000V",
-                  "Tensão AC": "200/750V",
-                  "Corrente AC": "20/200/1000A",
-                  "Resistência": "200/2k/20k/200k/2MΩ",
-                  "Teste de Continuidade/Diodo": "✓",
-                  "Peak Hold": "✓",
-                  "Mudança de Faixa": "Manual",
-                  "Abertura de Garra": "50mm",
-                  "Diâmetro do Condutor": "50mm",
-                  "Autodesligamento": "✓ (aprox. 30 min)",
-                  "Indicação de Bateria Fraca": "✓",
-                  "Indicação de Sobrefaixa": "✓ (\"1\" no display)",
-                  "Indicação de Polaridade": "Automática",
-                  "Precisão Básica": "2,5%",
-                  "Alimentação": "1x9V (6F22/NEDA 1604)",
-                  "Dimensões (mm)/Peso (g)": "240x102x47/337",
-                  "Garantia": "12 meses"
-                },
-                "image": "/ProductImages/ALICATES/ALICATES-DIGITAIS/ET-3200.jpg"
+            {
+              "name": "ET-3200",
+              "details": {
+                "Display LCD/Contagem": "3 1/2 Dígitos/2000",
+                "Categoria de Segurança": "CAT II 1000V",
+                "Tensão DC": "200m/20/200/1000V",
+                "Tensão AC": "200/750V",
+                "Corrente AC": "20/200/1000A",
+                "Resistência": "200/2k/20k/200k/2MΩ",
+                "Teste de Continuidade/Diodo": "✓",
+                "Peak Hold": "✓",
+                "Mudança de Faixa": "Manual",
+                "Abertura de Garra": "50mm",
+                "Diâmetro do Condutor": "50mm",
+                "Autodesligamento": "✓ (aprox. 30 min)",
+                "Indicação de Bateria Fraca": "✓",
+                "Indicação de Sobrefaixa": "✓ (\"1\" no display)",
+                "Indicação de Polaridade": "Automática",
+                "Precisão Básica": "2,5%",
+                "Alimentação": "1x9V (6F22/NEDA 1604)",
+                "Dimensões (mm)/Peso (g)": "240x102x47/337",
+                "Garantia": "12 meses"
               },
-          {
-                "name": "ET-3200A",
-                "details": {
-                  "Display LCD/Contagem": "3 1/2 Dígitos/2000",
-                  "Categoria de Segurança": "CAT II 1000V",
-                  "Tensão DC": "200m/20/200/1000V",
-                  "Tensão AC": "200/750V",
-                  "Corrente AC": "20/200/1000A",
-                  "Resistência": "200/2k/20k/200k/2MΩ",
-                  "Teste de Continuidade/Diodo": "✓",
-                  "Peak Hold": "✓",
-                  "Mudança de Faixa": "Manual",
-                  "Abertura de Garra": "57mm",
-                  "Diâmetro do Condutor": "57mm",
-                  "Precisão Básica": "2,0%",
-                  "Alimentação": "1x9V",
-                  "Dimensões (mm)/Peso (g)": "248x70x38,5/337",
-                  "Garantia": "12 meses"
-                },
-                "image": "/ProductImages/ALICATES/ALICATES-DIGITAIS/ET-3200A.jpg"
+              "image": "/ProductImages/ALICATES/ALICATE-DIGITAIS/ET-3200.png"
+            },
+            {
+              "name": "ET-3200A",
+              "details": {
+                "Display LCD/Contagem": "3 1/2 Dígitos/2000",
+                "Categoria de Segurança": "CAT II 1000V",
+                "Tensão DC": "200m/20/200/1000V",
+                "Tensão AC": "200/750V",
+                "Corrente AC": "20/200/1000A",
+                "Resistência": "200/2k/20k/200k/2MΩ",
+                "Teste de Continuidade/Diodo": "✓",
+                "Peak Hold": "✓",
+                "Mudança de Faixa": "Manual",
+                "Abertura de Garra": "57mm",
+                "Diâmetro do Condutor": "57mm",
+                "Precisão Básica": "2,0%",
+                "Alimentação": "1x9V",
+                "Dimensões (mm)/Peso (g)": "248x70x38,5/337",
+                "Garantia": "12 meses"
               },
-         {
-                  "name": "ET-3111",
-                  "details": {
-                      "Display LCD/Contagem": "3 1/2 Dígitos/2000",
-                      "Categoria de Segurança": "CAT III 600V",
-                      "Tensão DC": "200m/2/20/200/1000V",
-                      "Tensão AC": "200/750V",
-                      "Corrente AC": "20/200/1000A",
-                      "Resistência": "200/2k/20k/200k/2M/20MΩ",
-                      "Teste de Continuidade/Diodo": "✓",
-                      "Peak Hold": "✓",
-                      "Mudança de Faixa": "Manual",
-                      "Abertura de Garra": "40mm",
-                      "Diâmetro do Condutor": "40mm",
-                      "Precisão Básica": "3%",
-                      "Alimentação": "1x9V",
-                      "Dimensões (mm)/Peso (g)": "250x95x45/345",
-                      "Garantia": "12 meses"
-                  },
-                  "image": "/ProductImages/ALICATES/ALICATES-DIGITAIS/ET-3111.jpg"
-                },
-              {
-                  "name": "ET-3200B",
-                  "details": {
-                    "Display LCD/Contagem": "3 1/2 Dígitos/2000",
-                    "Categoria de Segurança": "CAT III 600V",
-                    "Tensão DC": "200m/2/20/200/1000V",
-                    "Tensão AC": "200/750V",
-                    "Corrente AC": "20/200/1000A",
-                    "Resistência": "200/2k/20k/200k/2000kΩ",
-                    "Teste de Continuidade/Diodo": "✓",
-                    "Peak Hold": "✓",
-                    "Iluminação na Garra": "✓",
-                    "Detecção de Tensão Sem Contato": "✓",
-                    "Iluminação de Display": "✓",
-                    "Mudança de Faixa": "Manual",
-                    "Abertura de Garra": "40mm",
-                    "Diâmetro do Condutor": "40mm",
-                    "Precisão Básica": "3%",
-                    "Alimentação": "1x9V",
-                    "Dimensões (mm)/Peso (g)": "250x95x45/345",
-                    "Garantia": "12 meses"
-                  },
-                  "image": "/ProductImages/ALICATES/ALICATES-DIGITAIS/ET-3200B.jpg"
-                },
-                {
-                  "name": "ET-3201A",
-                  "details": {
-                    "Display LCD/Contagem": "3 1/2 Dígitos/2000",
-                    "Categoria de Segurança": "CAT III 600V / CAT IV 300V",
-                    "True RMS": "AC",
-                    "Tensão AC": "200/750V",
-                    "Tensão DC": "200m/20/200/1000V",
-                    "Corrente AC": "20/200/1000A",
-                    "Resistência": "200/2k/20k/200k/2M/20M/50MΩ",
-                    "Teste de Continuidade/Diodo": "✓",
-                    "Peak Hold": "✓",
-                    "NCV (Detecção de Tensão sem Contato)": "✓ (com indicação luminosa frontal)",
-                    "Iluminação de Display": "✓",
-                    "Abertura de Garra": "30mm",
-                    "Diâmetro do Condutor": "30mm",
-                    "Mudança de Faixa": "Manual",
-                    "Precisão Básica": "0,3%",
-                    "Alimentação": "2x 1,5V AA",
-                    "Dimensões (mm)/Peso (g)": "228x77x41/265",
-                    "Garantia": "12 meses"
-                  },
-                  "image": "/ProductImages/ALICATES/ALICATES-DIGITAIS/ET-3201A.jpg"
-                },
-                {
-                  "name": "ET-3901",
-                  "details": {
-                    "Display LCD/Contagem": "3 1/2 Dígitos/2000",
-                    "Categoria de Segurança": "CAT IV 600V / CAT III 1000V",
-                    "Tensão DC": "2/20/200/1000V",
-                    "Tensão AC": "2/20/200/750V",
-                    "Corrente AC": "200/2000A",
-                    "Resistência": "200/2k/20k/200k/2M/20MΩ",
-                    "Teste de Continuidade/Diodo": "✓",
-                    "Data Hold": "✓",
-                    "Máx./Mín./Relativo": "Máx.",
-                    "Autodesligamento": "✓",
-                    "Mudança de Faixa": "Automática",
-                    "Iluminação": "✓",
-                    "Abertura de Garra": "63mm",
-                    "Diâmetro do Condutor": "60mm",
-                    "Precisão Básica": "2,5%",
-                    "Alimentação": "1x9V",
-                    "Dimensões (mm)/Peso (g)": "298x107x47/389",
-                    "Garantia": "12 meses"
-                  },
-                  "image": "/ProductImages/ALICATES/ALICATES-DIGITAIS/ET-3901.jpg"
-                },
-                {
-                  "name": "ET-3702A",
-                  "details": {
-                    "Display LCD/Contagem": "3 3/4 Dígitos/4000",
-                    "True RMS": "AC",
-                    "Tensão DC": "400m/4/40/400/1000V",
-                    "Tensão AC": "400m/4/40/400/750V",
-                    "Corrente AC": "40/400/1000A",
-                    "Resistência": "400/4k/40k/400k/4M/40MΩ",
-                    "Capacitância": "4μ/40μ/400μ/4mF",
-                    "Frequência": "4k/40k/400k/1MHz",
-                    "Teste de Continuidade/Diodo": "✓",
-                    "Data Hold": "✓",
-                    "Autodesligamento": "✓",
-                    "Mudança de Faixa": "Automática/Manual",
-                    "Abertura de Garra": "51mm",
-                    "Diâmetro do Condutor": "57mm",
-                    "Precisão Básica": "2%",
-                    "Categoria de Segurança": "CAT IV 600V",
-                    "Alimentação": "1x9V",
-                    "Dimensões (mm)/Peso (g)": "279x103x53/510",
-                    "Garantia": "12 meses"
-                  },
-                  "image": "/ProductImages/ALICATES/ALICATES-DIGITAIS/ET-3702A.jpg"
-                },
-                {
-                  "name": "ET-3960",
-                  "details": {
-                    "Display LCD/Contagem": "3 3/4 Dígitos/4000",
-                    "Categoria de Segurança": "CAT III 600V",
-                    "True RMS": "AC",
-                    "Tensão DC": "4/40/400/1000V",
-                    "Tensão AC": "4/40/400/750V",
-                    "Corrente DC": "400/2000A",
-                    "Corrente AC": "400/2000A",
-                    "Resistência": "400/4k/40k/400k/4M/40MΩ",
-                    "Frequência": "100/1k/10k/100k/1MHz",
-                    "Teste de Continuidade/Diodo": "✓",
-                    "Data Hold": "✓",
-                    "Autodesligamento": "✓",
-                    "Mudança de Faixa": "Automática/Manual",
-                    "Abertura de Garra": "57mm",
-                    "Diâmetro do Condutor": "55mm",
-                    "Precisão Básica": "2%",
-                    "Alimentação": "1x9V",
-                    "Dimensões (mm)/Peso (g)": "240x100x50/610",
-                    "Garantia": "12 meses"
-                  },
-                  "image": "/ProductImages/ALICATES/ALICATES-DIGITAIS/ET-3960.jpg"
-                },
-                {
-                  "name": "SM-3305",
-                  "details": {
-                    "Display LCD/Contagem": "3 5/6 Dígitos/6000",
-                    "Categoria de Segurança": "CAT III 600V",
-                    "True RMS": "AC",
-                    "Tensão AC": "600m/6/60/600V",
-                    "Tensão DC": "600m/6/60/600V",
-                    "Corrente AC": "60/600A",
-                    "Corrente DC": "60/600A",
-                    "Resistência": "600/6k/60k/600k/6M/60MΩ",
-                    "Frequência": "100~10MHz",
-                    "Capacitância": "6n/60n/600n/6µ/60µ/600µ/6m/60mF",
-                    "Temperatura": "-40°C a 1000°C",
-                    "Lanterna": "✓",
-                    "Teste de Continuidade/Diodo": "✓",
-                    "Duty Cycle": "✓",
-                    "Inrush": "✓",
-                    "Freq. de Rede": "✓",
-                    "Data Hold": "✓",
-                    "Máx./Mín./Relativo": "Máx./Mín.",
-                    "Detecção de Tensão Sem Contato (NCV)": "✓",
-                    "Indicador de Bateria Fraca": "✓",
-                    "Autodesligamento": "✓",
-                    "Mudança de Faixa": "Automática",
-                    "Abertura de Garra": "36mm",
-                    "Diâmetro do Condutor": "36mm",
-                    "Precisão Básica": "2,5% + 5D",
-                    "Alimentação": "3x 1,5V AAA",
-                    "Dimensões (mm)/Peso (g)": "199x79x32/206",
-                    "Garantia": "12 meses"
-                  },
-                  "image": "/ProductImages/LINHA-SMART/SENSORES-INTELIGENTES/SM-3305.jpg"
-                },
-                {
-                  "name": "ET-3105BT",
-                  "details": {
-                    "Display LCD/Contagem": "4 Dígitos/9999",
-                    "Categoria de Segurança": "CAT III 600V",
-                    "True RMS": "AC",
-                    "Tensão DC": "9,999/99,99/600V",
-                    "Tensão AC": "9,999/99,99/600V",
-                    "Corrente AC": "99,99/600A",
-                    "Resistência": "99,99Ω/999,9Ω/9,999kΩ/99,99kΩ/999,9kΩ/9,999MΩ/99,99MΩ",
-                    "Capacitância": "99,99nF/999,9nF/9,999µF/99,99µF/999,9µF/9,999mF/99,99mF",
-                    "Temperatura": "-40°C~1000°C / -40°F~1832°F",
-                    "Frequência": "100Hz~10MHz",
-                    "Duty Cycle": "✓",
-                    "Teste de Continuidade/Diodo": "✓",
-                    "Data Hold": "✓",
-                    "Máx./Mín./Relativo": "✓",
-                    "Filtro Passa Baixa (LPF)": "✓",
-                    "Inrush": "✓",
-                    "Bluetooth": "✓ (Minipa Link App)",
-                    "Autodesligamento": "✓ (15 min)",
-                    "Lanterna": "✓",
-                    "Luz de Fundo": "✓",
-                    "Mudança de Faixa": "Automática/Manual",
-                    "Abertura de Garra": "28mm",
-                    "Dimensões (mm)/Peso (g)": "201,5x47x28,5/251",
-                    "Alimentação": "2x1,5V AAA",
-                    "Garantia": "12 meses"
-                  },
-                  "image": "/ProductImages/ALICATES/ALICATES-DIGITAIS/ET-3105BT.jpg"
-                },
-                {
-                  "name": "ET-3155",
-                  "details": {
-                    "Display": "LCD 3 5/6 Dígitos 6099 Contagens",
-                    "Categoria de Segurança": "CAT III 600V",
-                    "True-RMS": "AC",
-                    "Tensão AC": "6/60/600V",
-                    "Tensão DC": "600m/6/60/600V",
-                    "Corrente AC": "6/60/600A",
-                    "Resistência": "600/6k/60k/600k/6M/60MΩ",
-                    "Frequência": "10 ~ 10MHz",
-                    "Duty Cycle": "✓",
-                    "Capacitância": "6n/60n/600n/6µ/60µ/600µ/6m/60mF",
-                    "Continuidade e Diodo": "✓",
-                    "Luz de Fundo": "✓",
-                    "Congelamento de Leitura": "Data Hold",
-                    "Máx-Mín-Rel": "Máx./Mín./Relativo",
-                    "Detecção de Tensão Sem Contato": "NCV/Live",
-                    "Auto Desligamento": "✓",
-                    "Indicador de Bateria Fraca": "✓",
-                    "Precisão Básica": "2%",
-                    "Abertura de Garra": "28mm",
-                    "Diâmetro do Condutor": "28mm",
-                    "Mudança de Faixa": "Automática",
-                    "Alimentação": "2 x 1,5V AAA",
-                    "Dimensões (mm)/Peso (g)": "215 x 63,5 x 36 / 248",
-                    "Garantia": "12 meses"
-                  },
-                  "image": "/ProductImages/ALICATES/ALICATES-DIGITAIS/ET-3155.jpg"
-                },
-                {
-                  "name": "ET-3167",
-                  "details": {
-                    "Display LCD/Contagem": "3 5/6 Dígitos/6000",
-                    "Categoria de Segurança": "CAT III 1000V / CAT IV 600V",
-                    "True RMS": "AC",
-                    "Tensão DC": "600m/6/60/600/1000V",
-                    "Tensão AC": "6/60/600/1000V",
-                    "Corrente AC": "6/60/600/1000A",
-                    "Resistência": "600/6k/60k/600k/6M/60MΩ",
-                    "Capacitância": "10n/100n/1000n/10µ/100µ/1000µ/10m/100mF",
-                    "Temperatura": "-20°C ~ 1000°C / -4°F ~ 1832°F",
-                    "Frequência": "10Hz ~ 10MHz",
-                    "Duty Cycle": "0,1% ~ 99,9%",
-                    "Teste de Continuidade/Diodo": "✓",
-                    "Função LoZ": "✓",
-                    "Data Hold / Peak Hold": "✓",
-                    "Máx./Mín./Relativo": "✓",
-                    "Lanterna / Luz de Fundo": "✓",
-                    "Detecção de Tensão Sem Contato (NCV)": "✓",
-                    "Teste de Linha Viva (LIVE)": "✓",
-                    "Inrush": "✓",
-                    "Autodesligamento": "✓",
-                    "Indicador de Bateria Fraca": "✓",
-                    "Precisão Básica": "0,5%",
-                    "Abertura de Garra": "42mm",
-                    "Diâmetro do Condutor": "42mm",
-                    "Mudança de Faixa": "Automática/Manual",
-                    "Alimentação": "2x 1,5V AAA",
-                    "Dimensões (mm)/Peso (g)": "230x83x40/275",
-                    "Garantia": "12 meses"
-                  },
-                  "image": "/ProductImages/ALICATES/ALICATES-DIGITAIS/ET-3167.jpg"
-                },
-                {
-                  "name": "ET-3178",
-                  "details": {
-                    "Display LCD/Contagem": "3 5/6 Dígitos/6000",
-                    "Categoria de Segurança": "CAT III 1000V / CAT IV 600V",
-                    "True RMS": "AC",
-                    "Tensão DC": "600m/6/60/600/1000V",
-                    "Tensão AC": "6/60/600/1000V",
-                    "Corrente AC": "6/60/600/1000A",
-                    "Corrente DC": "60/600/1000A",
-                    "Resistência": "600/6k/60k/600k/6M/60MΩ",
-                    "Capacitância": "10n/100n/1000n/10µ/100µ/1000µ/10m/100mF",
-                    "Temperatura": "-20°C ~ 1000°C / -4°F ~ 1832°F",
-                    "Frequência": "10Hz ~ 10MHz",
-                    "Duty Cycle": "0,1% ~ 99,9%",
-                    "Teste de Continuidade/Diodo": "✓",
-                    "Função LoZ": "✓",
-                    "Data Hold / Peak Hold": "✓",
-                    "Máx./Mín./Relativo": "✓",
-                    "Lanterna / Luz de Fundo": "✓",
-                    "Detecção de Tensão Sem Contato (NCV)": "✓",
-                    "Teste de Linha Viva (LIVE)": "✓",
-                    "Inrush": "✓",
-                    "Autodesligamento": "✓",
-                    "Indicador de Bateria Fraca": "✓",
-                    "Precisão Básica": "0,5%",
-                    "Abertura de Garra": "42mm",
-                    "Diâmetro do Condutor": "42mm",
-                    "Mudança de Faixa": "Automática/Manual",
-                    "Alimentação": "2x 1,5V AAA",
-                    "Dimensões (mm)/Peso (g)": "230x83x40/275",
-                    "Garantia": "12 meses"
-                  },
-                  "image": "/ProductImages/ALICATES/ALICATES-DIGITAIS/ET-3178.jpg"
-                },
-                {
-                  "name": "ET-3710C",
-                  "details": {
-                    "Display": "3 5/6 Dígitos/6000 (Duplo)",
-                    "True RMS": "AC",
-                    "Tensão DC": "600m/6/60/600/1000V",
-                    "Tensão AC": "6/60/600/750V",
-                    "Corrente AC": "6/60/600/1000A",
-                    "Resistência": "600/6k/60k/600k/6M/60MΩ",
-                    "Capacitância": "6n/60n/600n/6µ/60µ/600µ/6m/60m/100mF",
-                    "Temperatura": "-20°C ~ 1000°C / -4°F ~ 1832°F",
-                    "Frequência": "10Hz ~ 10MHz",
-                    "Duty Cycle": "10% ~ 90%",
-                    "Teste de Continuidade/Diodo": "✓",
-                    "Data Hold": "✓",
-                    "Máx./Mín./Relativo": "✓",
-                    "Lanterna": "✓",
-                    "Luz de Fundo": "✓",
-                    "Detecção de Tensão Sem Contato (NCV)": "✓",
-                    "Teste de Linha Viva (LIVE)": "✓",
-                    "Inrush": "✓",
-                    "Autodesligamento": "✓",
-                    "Indicador de Bateria Fraca": "✓",
-                    "Precisão Básica": "0,5%",
-                    "Mudança de Faixa": "Automática/Manual",
-                    "Abertura de Garra": "42mm",
-                    "Diâmetro do Condutor": "42mm",
-                    "Categoria de Segurança": "CAT III 1000V / CAT IV 600V",
-                    "Alimentação": "3x 1,5V AAA",
-                    "Dimensões (mm)/Peso (g)": "236x85x40/320",
-                    "Garantia": "12 meses"
-                  },
-                  "image": "/ProductImages/ALICATES/ALICATES-DIGITAIS/ET-3710C.jpg"
-                },
-                {
-                  "name": "ET-3811",
-                  "details": {
-                    "Display LCD/Contagem": "3 5/6 Dígitos/6000 (Duplo)",
-                    "Categoria de Segurança": "CAT III 1000V / CAT IV 600V",
-                    "True RMS": "AC",
-                    "Tensão AC": "6/60/600/750V",
-                    "Tensão DC": "600m/6/60/600/1000V",
-                    "Corrente AC": "60/600/1000A",
-                    "Corrente DC": "60/600/1000A",
-                    "Resistência": "600/6k/60k/600k/6M/60MΩ",
-                    "Frequência": "10Hz ~ 10MHz",
-                    "Duty Cycle": "10% ~ 90%",
-                    "Capacitância": "10n/100n/1000n/10µ/100µ/1000µ/10m/100mF",
-                    "Temperatura": "-20°C ~ 1000°C / -4°F ~ 1832°F",
-                    "Teste de Continuidade/Diodo": "✓",
-                    "Luz de Fundo": "✓",
-                    "Lanterna": "✓",
-                    "Data Hold": "✓",
-                    "Peak Hold": "✓",
-                    "Máx./Mín./Relativo": "✓",
-                    "Detecção de Tensão Sem Contato (NCV)": "✓",
-                    "Teste de Linha Viva (LIVE)": "✓",
-                    "LoZ": "✓",
-                    "Filtro de Frequência Variável (VFC)": "✓",
-                    "Inrush": "✓",
-                    "Autodesligamento": "✓",
-                    "Indicador de Bateria Fraca": "✓",
-                    "Precisão Básica": "0,5%",
-                    "Abertura de Garra": "42mm",
-                    "Diâmetro do Condutor": "42mm",
-                    "Mudança de Faixa": "Automática/Manual",
-                    "Alimentação": "3x1,5V AAA",
-                    "Dimensões (mm)/Peso (g)": "236x85x40/320",
-                    "Garantia": "12 meses"
-                  },
-                  "image": "/ProductImages/ALICATES/ALICATES-DIGITAIS/ET-3811.jpg"
-                },
-                {
-                  "name": "ET-3712",
-                  "details": {
-                    "Display LCD/Contagem": "3 5/6 Dígitos/6000",
-                    "Categoria de Segurança": "CAT III 1000V / CAT IV 600V",
-                    "True RMS": "AC",
-                    "Tensão AC": "600/1000V",
-                    "Tensão DC": "600/1000V",
-                    "Corrente AC": "60/600/1000A",
-                    "Corrente DC": "200µ/2000µA",
-                    "Resistência": "600/6k/60kΩ",
-                    "Frequência": "5Hz ~ 1kHz",
-                    "Capacitância": "200µ/2500µF",
-                    "Temperatura": "-40°C ~ 400°C",
-                    "Teste de Continuidade/Diodo": "✓",
-                    "Luz de Fundo": "✓",
-                    "Data Hold / Peak Hold": "✓",
-                    "Máx./Mín./Média": "✓",
-                    "Filtro de Frequência (VFD)": "✓",
-                    "Corrente de Partida (Peak RMS)": "✓",
-                    "Detecção de Tensão Sem Contato (EF)": "✓",
-                    "Fasímetro": "✓",
-                    "Autodesligamento": "✓",
-                    "Indicador de Bateria Fraca": "✓",
-                    "Precisão Básica": "1,8%",
-                    "Abertura de Garra": "51mm",
-                    "Diâmetro do Condutor": "51mm",
-                    "Mudança de Faixa": "Automática",
-                    "Alimentação": "2x1,5V AA",
-                    "Dimensões (mm)/Peso (g)": "258x94x44/312",
-                    "Garantia": "24 meses"
-                  },
-                  "image": "/ProductImages/ALICATES/ALICATES-DIGITAIS/ET-3712.jpg"
-                },
-                {
-                  "name": "ET-3920",
-                  "details": {
-                    "Display LCD/Contagem": "3 5/6 Dígitos/6600",
-                    "Categoria de Segurança": "CAT IV 600V",
-                    "True RMS": "AC",
-                    "Tensão AC": "660m/6,6/66/660/750V",
-                    "Tensão DC": "660m/6,6/66/660/1000V",
-                    "Corrente AC": "660/1500A",
-                    "Corrente DC": "660/2000A",
-                    "Resistência": "660/6,6k/66k/660k/6,6M/66MΩ",
-                    "Frequência": "66Hz ~ 1MHz",
-                    "Duty Cycle": "✓",
-                    "Capacitância": "6,6n/66n/660n/6,6µ/66µ/660µ/6,6mF",
-                    "Teste de Continuidade/Diodo": "✓",
-                    "Luz de Fundo": "✓",
-                    "Data Hold / Peak Hold": "✓",
-                    "Máx./Mín./Relativo/Zero": "✓",
-                    "Barra Gráfica": "66 segmentos",
-                    "Autodesligamento": "✓",
-                    "Indicador de Bateria Fraca": "✓",
-                    "Precisão Básica": "2%",
-                    "Abertura de Garra": "57mm",
-                    "Diâmetro do Condutor": "57mm",
-                    "Mudança de Faixa": "Automática/Manual",
-                    "Alimentação": "1x9V",
-                    "Dimensões (mm)/Peso (g)": "281x108x53/570",
-                    "Garantia": "12 meses"
-                  },
-                  "image": "/ProductImages/ALICATES/ALICATES-DIGITAIS/ET-3920.jpg"
-                },
-                {
-                    "name": "ET-3990",
-                    "details": {
-                      "Display LCD/Contagem": "3 5/6 Dígitos/6000",
-                      "Categoria de Segurança": "CAT IV 600V / CAT III 1000V",
-                      "True RMS": "AC / AC+DC",
-                      "Tensão AC": "6/60/600/1000V",
-                      "Tensão DC": "6/60/600/1000V",
-                      "Corrente AC": "600/2500A",
-                      "Corrente DC": "600/2500A",
-                      "Resistência": "600/6k/60k/600k/6M/60MΩ",
-                      "Temperatura": "-40°C ~ +1000°C / -40°F ~ +1832°F",
-                      "Capacitância": "60n/600n/6µ/60µ/600µ/6000µ/60mF",
-                      "Frequência": "60Hz ~ 60MHz",
-                      "Duty Cycle": "✓",
-                      "Teste de Continuidade/Diodo": "✓",
-                      "Luz de Fundo": "✓",
-                      "Data Hold": "✓",
-                      "Máx./Mín./Relativo": "✓",
-                      "Função LPF/HFR (Filtro Passa Baixa)": "✓",
-                      "Inrush": "✓",
-                      "Autodesligamento": "✓",
-                      "Precisão Básica": "1,5%",
-                      "Abertura de Garra": "63mm",
-                      "Diâmetro do Condutor": "60mm",
-                      "Mudança de Faixa": "Automática",
-                      "Alimentação": "1x9V",
-                      "Dimensões (mm)/Peso (g)": "298x107x47/726",
-                      "Garantia": "12 meses"
-                    },
-                    "image": "/ProductImages/ALICATES/ALICATES-DIGITAIS/ET-3990.jpg"
-                  },
-                  {
-                    "name": "ET-3880",
-                    "details": {
-                      "Display": "LCD 4 Dígitos 10000 contagens",
-                      "Categoria de Segurança": "CAT IV 600V / CAT III 1000V",
-                      "True-RMS": "AC",
-                      "Tensão AC": "600V",
-                      "Tensão DC": "600V",
-                      "Corrente AC": "1000A",
-                      "Corrente DC": "1000A",
-                      "Resistência": "1k/10kΩ",
-                      "Capacitância": "1000µF",
-                      "Frequência": "20Hz ~ 400Hz",
-                      "Temperatura": "-40°C a 1200°C / -40°F a 2200°F",
-                      "Continuidade e Diodo": "✔",
-                      "Congelamento de Leitura": "Data Hold / Peak Hold",
-                      "Máx-Mín-Méd-Rel-Zero": "Máx./Mín./Relativo",
-                      "Corrente de Partida": "Inrush",
-                      "Auto Desligamento": "✔",
-                      "Precisão Básica": "2%",
-                      "Abertura de Garra": "50mm",
-                      "Diâmetro do Condutor": "35mm",
-                      "Mudança de Faixa": "Automática",
-                      "Alimentação": "1 x 9V",
-                      "Dimensões (mm) / Peso (g)": "246x80x43 / 360",
-                      "Garantia": "12 meses"
-                    },
-                    "image": "/ProductImages/ALICATES/ALICATES-DIGITAIS/ET-3880.jpg"
-                  },
-                  {
-                    "name": "ET-4710",
-                    "details": {
-                      "Display": "3 5/6 Dígitos/6000",
-                      "Categoria de Segurança": "CAT III 1500V / CAT IV 1000V",
-                      "True RMS": "AC/AC+DC",
-                      "Tensão AC": "6/60/600/1000V",
-                      "Tensão DC": "6/60/600/1000/1500V",
-                      "Tensão AC+DC": "6/60/600/1000V",
-                      "Corrente AC": "200/500/1000/2000A",
-                      "Corrente DC": "200/500/2000A",
-                      "Corrente AC+DC": "200/1000/2000A",
-                      "Resistência": "600/6k/60k/600k/6M/40MΩ",
-                      "Capacitância": "60n/600n/6µ/60µ/600µ/2000µF",
-                      "Frequência de Rede": "✓",
-                      "Temperatura": "-50°C ~ 1000°C",
-                      "Continuidade e Diodo": "✓",
-                      "Luz de Fundo": "✓",
-                      "Detecção de Tensão Sem Contato (NCV)": "✓",
-                      "Modo Crest-Max": "✓",
-                      "Modo Relativo - Zero": "✓",
-                      "Identificação de Linha Viva": "✓",
-                      "Data Hold": "✓",
-                      "Filtro VFD": "✓",
-                      "Mudança de Faixa": "Automática/Manual",
-                      "Abertura de Garra": "55mm",
-                      "Diâmetro do Condutor": "55mm",
-                      "Precisão Básica": "2%",
-                      "Alimentação": "2 x 1,5V AA",
-                      "Dimensões (mm)/Peso (g)": "264x97x43/608",
-                      "Garantia": "12 meses",
-                      "Acessórios": "Pontas de Prova, Bolsa para Transporte, Termopar tipo K"
-                    },
-                    "image": "/ProductImages/ALICATES/ALICATES-PARA-PAINEL-SOLAR/ET-4710.jpg"
-                  }
-                  
+              "image": "/ProductImages/ALICATES/ALICATE-DIGITAIS/ET-3200A.png"
+            },
+            {
+              "name": "ET-3111",
+              "details": {
+                "Display LCD/Contagem": "3 1/2 Dígitos/2000",
+                "Categoria de Segurança": "CAT III 600V",
+                "Tensão DC": "200m/2/20/200/1000V",
+                "Tensão AC": "200/750V",
+                "Corrente AC": "20/200/1000A",
+                "Resistência": "200/2k/20k/200k/2M/20MΩ",
+                "Teste de Continuidade/Diodo": "✓",
+                "Peak Hold": "✓",
+                "Mudança de Faixa": "Manual",
+                "Abertura de Garra": "40mm",
+                "Diâmetro do Condutor": "40mm",
+                "Precisão Básica": "3%",
+                "Alimentação": "1x9V",
+                "Dimensões (mm)/Peso (g)": "250x95x45/345",
+                "Garantia": "12 meses"
+              },
+              "image": "/ProductImages/ALICATES/ALICATE-DIGITAIS/ET-3111.png"
+            },
+            {
+              "name": "ET-3200B",
+              "details": {
+                "Display LCD/Contagem": "3 1/2 Dígitos/2000",
+                "Categoria de Segurança": "CAT III 600V",
+                "Tensão DC": "200m/2/20/200/1000V",
+                "Tensão AC": "200/750V",
+                "Corrente AC": "20/200/1000A",
+                "Resistência": "200/2k/20k/200k/2000kΩ",
+                "Teste de Continuidade/Diodo": "✓",
+                "Peak Hold": "✓",
+                "Iluminação na Garra": "✓",
+                "Detecção de Tensão Sem Contato": "✓",
+                "Iluminação de Display": "✓",
+                "Mudança de Faixa": "Manual",
+                "Abertura de Garra": "40mm",
+                "Diâmetro do Condutor": "40mm",
+                "Precisão Básica": "3%",
+                "Alimentação": "1x9V",
+                "Dimensões (mm)/Peso (g)": "250x95x45/345",
+                "Garantia": "12 meses"
+              },
+              "image": "/ProductImages/ALICATES/ALICATE-DIGITAIS/ET-3200B.png"
+            },
+            {
+              "name": "ET-3201A",
+              "details": {
+                "Display LCD/Contagem": "3 1/2 Dígitos/2000",
+                "Categoria de Segurança": "CAT III 600V / CAT IV 300V",
+                "True RMS": "AC",
+                "Tensão AC": "200/750V",
+                "Tensão DC": "200m/20/200/1000V",
+                "Corrente AC": "20/200/1000A",
+                "Resistência": "200/2k/20k/200k/2M/20M/50MΩ",
+                "Teste de Continuidade/Diodo": "✓",
+                "Peak Hold": "✓",
+                "NCV (Detecção de Tensão sem Contato)": "✓ (com indicação luminosa frontal)",
+                "Iluminação de Display": "✓",
+                "Abertura de Garra": "30mm",
+                "Diâmetro do Condutor": "30mm",
+                "Mudança de Faixa": "Manual",
+                "Precisão Básica": "0,3%",
+                "Alimentação": "2x 1,5V AA",
+                "Dimensões (mm)/Peso (g)": "228x77x41/265",
+                "Garantia": "12 meses"
+              },
+              "image": "/ProductImages/ALICATES/ALICATE-DIGITAIS/ET-3201A.png"
+            },
+            {
+              "name": "ET-3901",
+              "details": {
+                "Display LCD/Contagem": "3 1/2 Dígitos/2000",
+                "Categoria de Segurança": "CAT IV 600V / CAT III 1000V",
+                "Tensão DC": "2/20/200/1000V",
+                "Tensão AC": "2/20/200/750V",
+                "Corrente AC": "200/2000A",
+                "Resistência": "200/2k/20k/200k/2M/20MΩ",
+                "Teste de Continuidade/Diodo": "✓",
+                "Data Hold": "✓",
+                "Máx./Mín./Relativo": "Máx.",
+                "Autodesligamento": "✓",
+                "Mudança de Faixa": "Automática",
+                "Iluminação": "✓",
+                "Abertura de Garra": "63mm",
+                "Diâmetro do Condutor": "60mm",
+                "Precisão Básica": "2,5%",
+                "Alimentação": "1x9V",
+                "Dimensões (mm)/Peso (g)": "298x107x47/389",
+                "Garantia": "12 meses"
+              },
+              "image": "/ProductImages/ALICATES/ALICATE-DIGITAIS/ET-3901.png"
+            },
+            {
+              "name": "ET-3702A",
+              "details": {
+                "Display LCD/Contagem": "3 3/4 Dígitos/4000",
+                "True RMS": "AC",
+                "Tensão DC": "400m/4/40/400/1000V",
+                "Tensão AC": "400m/4/40/400/750V",
+                "Corrente AC": "40/400/1000A",
+                "Resistência": "400/4k/40k/400k/4M/40MΩ",
+                "Capacitância": "4μ/40μ/400μ/4mF",
+                "Frequência": "4k/40k/400k/1MHz",
+                "Teste de Continuidade/Diodo": "✓",
+                "Data Hold": "✓",
+                "Autodesligamento": "✓",
+                "Mudança de Faixa": "Automática/Manual",
+                "Abertura de Garra": "51mm",
+                "Diâmetro do Condutor": "57mm",
+                "Precisão Básica": "2%",
+                "Categoria de Segurança": "CAT IV 600V",
+                "Alimentação": "1x9V",
+                "Dimensões (mm)/Peso (g)": "279x103x53/510",
+                "Garantia": "12 meses"
+              },
+              "image": "/ProductImages/ALICATES/ALICATE-DIGITAIS/ET-3702A.png"
+            },
+            {
+              "name": "ET-3960",
+              "details": {
+                "Display LCD/Contagem": "3 3/4 Dígitos/4000",
+                "Categoria de Segurança": "CAT III 600V",
+                "True RMS": "AC",
+                "Tensão DC": "4/40/400/1000V",
+                "Tensão AC": "4/40/400/750V",
+                "Corrente DC": "400/2000A",
+                "Corrente AC": "400/2000A",
+                "Resistência": "400/4k/40k/400k/4M/40MΩ",
+                "Frequência": "100/1k/10k/100k/1MHz",
+                "Teste de Continuidade/Diodo": "✓",
+                "Data Hold": "✓",
+                "Autodesligamento": "✓",
+                "Mudança de Faixa": "Automática/Manual",
+                "Abertura de Garra": "57mm",
+                "Diâmetro do Condutor": "55mm",
+                "Precisão Básica": "2%",
+                "Alimentação": "1x9V",
+                "Dimensões (mm)/Peso (g)": "240x100x50/610",
+                "Garantia": "12 meses"
+              },
+              "image": "/ProductImages/ALICATES/ALICATE-DIGITAIS/ET-3960.png"
+            },
+            {
+              "name": "SM-3305",
+              "details": {
+                "Display LCD/Contagem": "3 5/6 Dígitos/6000",
+                "Categoria de Segurança": "CAT III 600V",
+                "True RMS": "AC",
+                "Tensão AC": "600m/6/60/600V",
+                "Tensão DC": "600m/6/60/600V",
+                "Corrente AC": "60/600A",
+                "Corrente DC": "60/600A",
+                "Resistência": "600/6k/60k/600k/6M/60MΩ",
+                "Frequência": "100~10MHz",
+                "Capacitância": "6n/60n/600n/6µ/60µ/600µ/6m/60mF",
+                "Temperatura": "-40°C a 1000°C",
+                "Lanterna": "✓",
+                "Teste de Continuidade/Diodo": "✓",
+                "Duty Cycle": "✓",
+                "Inrush": "✓",
+                "Freq. de Rede": "✓",
+                "Data Hold": "✓",
+                "Máx./Mín./Relativo": "Máx./Mín.",
+                "Detecção de Tensão Sem Contato (NCV)": "✓",
+                "Indicador de Bateria Fraca": "✓",
+                "Autodesligamento": "✓",
+                "Mudança de Faixa": "Automática",
+                "Abertura de Garra": "36mm",
+                "Diâmetro do Condutor": "36mm",
+                "Precisão Básica": "2,5% + 5D",
+                "Alimentação": "3x 1,5V AAA",
+                "Dimensões (mm)/Peso (g)": "199x79x32/206",
+                "Garantia": "12 meses"
+              },
+              "image": "/ProductImages/LINHA-SMART/SM-3305.png"
+            },
+            {
+              "name": "ET-3105BT",
+              "details": {
+                "Display LCD/Contagem": "4 Dígitos/9999",
+                "Categoria de Segurança": "CAT III 600V",
+                "True RMS": "AC",
+                "Tensão DC": "9,999/99,99/600V",
+                "Tensão AC": "9,999/99,99/600V",
+                "Corrente AC": "99,99/600A",
+                "Resistência": "99,99Ω/999,9Ω/9,999kΩ/99,99kΩ/999,9kΩ/9,999MΩ/99,99MΩ",
+                "Capacitância": "99,99nF/999,9nF/9,999µF/99,99µF/999,9µF/9,999mF/99,99mF",
+                "Temperatura": "-40°C~1000°C / -40°F~1832°F",
+                "Frequência": "100Hz~10MHz",
+                "Duty Cycle": "✓",
+                "Teste de Continuidade/Diodo": "✓",
+                "Data Hold": "✓",
+                "Máx./Mín./Relativo": "✓",
+                "Filtro Passa Baixa (LPF)": "✓",
+                "Inrush": "✓",
+                "Bluetooth": "✓ (Minipa Link App)",
+                "Autodesligamento": "✓ (15 min)",
+                "Lanterna": "✓",
+                "Luz de Fundo": "✓",
+                "Mudança de Faixa": "Automática/Manual",
+                "Abertura de Garra": "28mm",
+                "Dimensões (mm)/Peso (g)": "201,5x47x28,5/251",
+                "Alimentação": "2x1,5V AAA",
+                "Garantia": "12 meses"
+              },
+              "image": "/ProductImages/ALICATES/ALICATES-DIGITAIS/ET-3105BT.jpg"
+            },
+            {
+              "name": "ET-3155",
+              "details": {
+                "Display": "LCD 3 5/6 Dígitos 6099 Contagens",
+                "Categoria de Segurança": "CAT III 600V",
+                "True-RMS": "AC",
+                "Tensão AC": "6/60/600V",
+                "Tensão DC": "600m/6/60/600V",
+                "Corrente AC": "6/60/600A",
+                "Resistência": "600/6k/60k/600k/6M/60MΩ",
+                "Frequência": "10 ~ 10MHz",
+                "Duty Cycle": "✓",
+                "Capacitância": "6n/60n/600n/6µ/60µ/600µ/6m/60mF",
+                "Continuidade e Diodo": "✓",
+                "Luz de Fundo": "✓",
+                "Congelamento de Leitura": "Data Hold",
+                "Máx-Mín-Rel": "Máx./Mín./Relativo",
+                "Detecção de Tensão Sem Contato": "NCV/Live",
+                "Auto Desligamento": "✓",
+                "Indicador de Bateria Fraca": "✓",
+                "Precisão Básica": "2%",
+                "Abertura de Garra": "28mm",
+                "Diâmetro do Condutor": "28mm",
+                "Mudança de Faixa": "Automática",
+                "Alimentação": "2 x 1,5V AAA",
+                "Dimensões (mm)/Peso (g)": "215 x 63,5 x 36 / 248",
+                "Garantia": "12 meses"
+              },
+              "image": "/ProductImages/ALICATES/ALICATE-DIGITAIS/ET-3155.png"
+            },
+            {
+              "name": "ET-3167",
+              "details": {
+                "Display LCD/Contagem": "3 5/6 Dígitos/6000",
+                "Categoria de Segurança": "CAT III 1000V / CAT IV 600V",
+                "True RMS": "AC",
+                "Tensão DC": "600m/6/60/600/1000V",
+                "Tensão AC": "6/60/600/1000V",
+                "Corrente AC": "6/60/600/1000A",
+                "Resistência": "600/6k/60k/600k/6M/60MΩ",
+                "Capacitância": "10n/100n/1000n/10µ/100µ/1000µ/10m/100mF",
+                "Temperatura": "-20°C ~ 1000°C / -4°F ~ 1832°F",
+                "Frequência": "10Hz ~ 10MHz",
+                "Duty Cycle": "0,1% ~ 99,9%",
+                "Teste de Continuidade/Diodo": "✓",
+                "Função LoZ": "✓",
+                "Data Hold / Peak Hold": "✓",
+                "Máx./Mín./Relativo": "✓",
+                "Lanterna / Luz de Fundo": "✓",
+                "Detecção de Tensão Sem Contato (NCV)": "✓",
+                "Teste de Linha Viva (LIVE)": "✓",
+                "Inrush": "✓",
+                "Autodesligamento": "✓",
+                "Indicador de Bateria Fraca": "✓",
+                "Precisão Básica": "0,5%",
+                "Abertura de Garra": "42mm",
+                "Diâmetro do Condutor": "42mm",
+                "Mudança de Faixa": "Automática/Manual",
+                "Alimentação": "2x 1,5V AAA",
+                "Dimensões (mm)/Peso (g)": "230x83x40/275",
+                "Garantia": "12 meses"
+              },
+              "image": "/ProductImages/ALICATES/ALICATES-DIGITAIS/ET-3167.jpg"
+            },
+            {
+              "name": "ET-3178",
+              "details": {
+                "Display LCD/Contagem": "3 5/6 Dígitos/6000",
+                "Categoria de Segurança": "CAT III 1000V / CAT IV 600V",
+                "True RMS": "AC",
+                "Tensão DC": "600m/6/60/600/1000V",
+                "Tensão AC": "6/60/600/1000V",
+                "Corrente AC": "6/60/600/1000A",
+                "Corrente DC": "60/600/1000A",
+                "Resistência": "600/6k/60k/600k/6M/60MΩ",
+                "Capacitância": "10n/100n/1000n/10µ/100µ/1000µ/10m/100mF",
+                "Temperatura": "-20°C ~ 1000°C / -4°F ~ 1832°F",
+                "Frequência": "10Hz ~ 10MHz",
+                "Duty Cycle": "0,1% ~ 99,9%",
+                "Teste de Continuidade/Diodo": "✓",
+                "Função LoZ": "✓",
+                "Data Hold / Peak Hold": "✓",
+                "Máx./Mín./Relativo": "✓",
+                "Lanterna / Luz de Fundo": "✓",
+                "Detecção de Tensão Sem Contato (NCV)": "✓",
+                "Teste de Linha Viva (LIVE)": "✓",
+                "Inrush": "✓",
+                "Autodesligamento": "✓",
+                "Indicador de Bateria Fraca": "✓",
+                "Precisão Básica": "0,5%",
+                "Abertura de Garra": "42mm",
+                "Diâmetro do Condutor": "42mm",
+                "Mudança de Faixa": "Automática/Manual",
+                "Alimentação": "2x 1,5V AAA",
+                "Dimensões (mm)/Peso (g)": "230x83x40/275",
+                "Garantia": "12 meses"
+              },
+              "image": "/ProductImages/ALICATES/ALICATES-DIGITAIS/ET-3178.jpg"
+            },
+            {
+              "name": "ET-3710C",
+              "details": {
+                "Display": "3 5/6 Dígitos/6000 (Duplo)",
+                "True RMS": "AC",
+                "Tensão DC": "600m/6/60/600/1000V",
+                "Tensão AC": "6/60/600/750V",
+                "Corrente AC": "6/60/600/1000A",
+                "Resistência": "600/6k/60k/600k/6M/60MΩ",
+                "Capacitância": "6n/60n/600n/6µ/60µ/600µ/6m/60m/100mF",
+                "Temperatura": "-20°C ~ 1000°C / -4°F ~ 1832°F",
+                "Frequência": "10Hz ~ 10MHz",
+                "Duty Cycle": "10% ~ 90%",
+                "Teste de Continuidade/Diodo": "✓",
+                "Data Hold": "✓",
+                "Máx./Mín./Relativo": "✓",
+                "Lanterna": "✓",
+                "Luz de Fundo": "✓",
+                "Detecção de Tensão Sem Contato (NCV)": "✓",
+                "Teste de Linha Viva (LIVE)": "✓",
+                "Inrush": "✓",
+                "Autodesligamento": "✓",
+                "Indicador de Bateria Fraca": "✓",
+                "Precisão Básica": "0,5%",
+                "Mudança de Faixa": "Automática/Manual",
+                "Abertura de Garra": "42mm",
+                "Diâmetro do Condutor": "42mm",
+                "Categoria de Segurança": "CAT III 1000V / CAT IV 600V",
+                "Alimentação": "3x 1,5V AAA",
+                "Dimensões (mm)/Peso (g)": "236x85x40/320",
+                "Garantia": "12 meses"
+              },
+              "image": "/ProductImages/ALICATES/ALICATES-DIGITAIS/ET-3710C.jpg"
+            },
+            {
+              "name": "ET-3811",
+              "details": {
+                "Display LCD/Contagem": "3 5/6 Dígitos/6000 (Duplo)",
+                "Categoria de Segurança": "CAT III 1000V / CAT IV 600V",
+                "True RMS": "AC",
+                "Tensão AC": "6/60/600/750V",
+                "Tensão DC": "600m/6/60/600/1000V",
+                "Corrente AC": "60/600/1000A",
+                "Corrente DC": "60/600/1000A",
+                "Resistência": "600/6k/60k/600k/6M/60MΩ",
+                "Frequência": "10Hz ~ 10MHz",
+                "Duty Cycle": "10% ~ 90%",
+                "Capacitância": "10n/100n/1000n/10µ/100µ/1000µ/10m/100mF",
+                "Temperatura": "-20°C ~ 1000°C / -4°F ~ 1832°F",
+                "Teste de Continuidade/Diodo": "✓",
+                "Luz de Fundo": "✓",
+                "Lanterna": "✓",
+                "Data Hold": "✓",
+                "Peak Hold": "✓",
+                "Máx./Mín./Relativo": "✓",
+                "Detecção de Tensão Sem Contato (NCV)": "✓",
+                "Teste de Linha Viva (LIVE)": "✓",
+                "LoZ": "✓",
+                "Filtro de Frequência Variável (VFC)": "✓",
+                "Inrush": "✓",
+                "Autodesligamento": "✓",
+                "Indicador de Bateria Fraca": "✓",
+                "Precisão Básica": "0,5%",
+                "Abertura de Garra": "42mm",
+                "Diâmetro do Condutor": "42mm",
+                "Mudança de Faixa": "Automática/Manual",
+                "Alimentação": "3x1,5V AAA",
+                "Dimensões (mm)/Peso (g)": "236x85x40/320",
+                "Garantia": "12 meses"
+              },
+              "image": "/ProductImages/ALICATES/ALICATES-DIGITAIS/ET-3811.jpg"
+            },
+            {
+              "name": "ET-3712",
+              "details": {
+                "Display LCD/Contagem": "3 5/6 Dígitos/6000",
+                "Categoria de Segurança": "CAT III 1000V / CAT IV 600V",
+                "True RMS": "AC",
+                "Tensão AC": "600/1000V",
+                "Tensão DC": "600/1000V",
+                "Corrente AC": "60/600/1000A",
+                "Corrente DC": "200µ/2000µA",
+                "Resistência": "600/6k/60kΩ",
+                "Frequência": "5Hz ~ 1kHz",
+                "Capacitância": "200µ/2500µF",
+                "Temperatura": "-40°C ~ 400°C",
+                "Teste de Continuidade/Diodo": "✓",
+                "Luz de Fundo": "✓",
+                "Data Hold / Peak Hold": "✓",
+                "Máx./Mín./Média": "✓",
+                "Filtro de Frequência (VFD)": "✓",
+                "Corrente de Partida (Peak RMS)": "✓",
+                "Detecção de Tensão Sem Contato (EF)": "✓",
+                "Fasímetro": "✓",
+                "Autodesligamento": "✓",
+                "Indicador de Bateria Fraca": "✓",
+                "Precisão Básica": "1,8%",
+                "Abertura de Garra": "51mm",
+                "Diâmetro do Condutor": "51mm",
+                "Mudança de Faixa": "Automática",
+                "Alimentação": "2x1,5V AA",
+                "Dimensões (mm)/Peso (g)": "258x94x44/312",
+                "Garantia": "24 meses"
+              },
+              "image": "/ProductImages/ALICATES/ALICATE-DIGITAIS/ET-3712.png"
+            },
+            {
+              "name": "ET-3920",
+              "details": {
+                "Display LCD/Contagem": "3 5/6 Dígitos/6600",
+                "Categoria de Segurança": "CAT IV 600V",
+                "True RMS": "AC",
+                "Tensão AC": "660m/6,6/66/660/750V",
+                "Tensão DC": "660m/6,6/66/660/1000V",
+                "Corrente AC": "660/1500A",
+                "Corrente DC": "660/2000A",
+                "Resistência": "660/6,6k/66k/660k/6,6M/66MΩ",
+                "Frequência": "66Hz ~ 1MHz",
+                "Duty Cycle": "✓",
+                "Capacitância": "6,6n/66n/660n/6,6µ/66µ/660µ/6,6mF",
+                "Teste de Continuidade/Diodo": "✓",
+                "Luz de Fundo": "✓",
+                "Data Hold / Peak Hold": "✓",
+                "Máx./Mín./Relativo/Zero": "✓",
+                "Barra Gráfica": "66 segmentos",
+                "Autodesligamento": "✓",
+                "Indicador de Bateria Fraca": "✓",
+                "Precisão Básica": "2%",
+                "Abertura de Garra": "57mm",
+                "Diâmetro do Condutor": "57mm",
+                "Mudança de Faixa": "Automática/Manual",
+                "Alimentação": "1x9V",
+                "Dimensões (mm)/Peso (g)": "281x108x53/570",
+                "Garantia": "12 meses"
+              },
+              "image": "/ProductImages/ALICATES/ALICATE-DIGITAIS/ET-3920.png"
+            },
+            {
+              "name": "ET-3990",
+              "details": {
+                "Display LCD/Contagem": "3 5/6 Dígitos/6000",
+                "Categoria de Segurança": "CAT IV 600V / CAT III 1000V",
+                "True RMS": "AC / AC+DC",
+                "Tensão AC": "6/60/600/1000V",
+                "Tensão DC": "6/60/600/1000V",
+                "Corrente AC": "600/2500A",
+                "Corrente DC": "600/2500A",
+                "Resistência": "600/6k/60k/600k/6M/60MΩ",
+                "Temperatura": "-40°C ~ +1000°C / -40°F ~ +1832°F",
+                "Capacitância": "60n/600n/6µ/60µ/600µ/6000µ/60mF",
+                "Frequência": "60Hz ~ 60MHz",
+                "Duty Cycle": "✓",
+                "Teste de Continuidade/Diodo": "✓",
+                "Luz de Fundo": "✓",
+                "Data Hold": "✓",
+                "Máx./Mín./Relativo": "✓",
+                "Função LPF/HFR (Filtro Passa Baixa)": "✓",
+                "Inrush": "✓",
+                "Autodesligamento": "✓",
+                "Precisão Básica": "1,5%",
+                "Abertura de Garra": "63mm",
+                "Diâmetro do Condutor": "60mm",
+                "Mudança de Faixa": "Automática",
+                "Alimentação": "1x9V",
+                "Dimensões (mm)/Peso (g)": "298x107x47/726",
+                "Garantia": "12 meses"
+              },
+              "image": "/ProductImages/ALICATES/ALICATE-DIGITAIS/ET-3990.png"
+            },
+            {
+              "name": "ET-3880",
+              "details": {
+                "Display": "LCD 4 Dígitos 10000 contagens",
+                "Categoria de Segurança": "CAT IV 600V / CAT III 1000V",
+                "True-RMS": "AC",
+                "Tensão AC": "600V",
+                "Tensão DC": "600V",
+                "Corrente AC": "1000A",
+                "Corrente DC": "1000A",
+                "Resistência": "1k/10kΩ",
+                "Capacitância": "1000µF",
+                "Frequência": "20Hz ~ 400Hz",
+                "Temperatura": "-40°C a 1200°C / -40°F a 2200°F",
+                "Continuidade e Diodo": "✔",
+                "Congelamento de Leitura": "Data Hold / Peak Hold",
+                "Máx-Mín-Méd-Rel-Zero": "Máx./Mín./Relativo",
+                "Corrente de Partida": "Inrush",
+                "Auto Desligamento": "✔",
+                "Precisão Básica": "2%",
+                "Abertura de Garra": "50mm",
+                "Diâmetro do Condutor": "35mm",
+                "Mudança de Faixa": "Automática",
+                "Alimentação": "1 x 9V",
+                "Dimensões (mm) / Peso (g)": "246x80x43 / 360",
+                "Garantia": "12 meses"
+              },
+              "image": "/ProductImages/ALICATES/ALICATE-DIGITAIS/ET-3880.png"
+            },
+            {
+              "name": "ET-4710",
+              "details": {
+                "Display": "3 5/6 Dígitos/6000",
+                "Categoria de Segurança": "CAT III 1500V / CAT IV 1000V",
+                "True RMS": "AC/AC+DC",
+                "Tensão AC": "6/60/600/1000V",
+                "Tensão DC": "6/60/600/1000/1500V",
+                "Tensão AC+DC": "6/60/600/1000V",
+                "Corrente AC": "200/500/1000/2000A",
+                "Corrente DC": "200/500/2000A",
+                "Corrente AC+DC": "200/1000/2000A",
+                "Resistência": "600/6k/60k/600k/6M/40MΩ",
+                "Capacitância": "60n/600n/6µ/60µ/600µ/2000µF",
+                "Frequência de Rede": "✓",
+                "Temperatura": "-50°C ~ 1000°C",
+                "Continuidade e Diodo": "✓",
+                "Luz de Fundo": "✓",
+                "Detecção de Tensão Sem Contato (NCV)": "✓",
+                "Modo Crest-Max": "✓",
+                "Modo Relativo - Zero": "✓",
+                "Identificação de Linha Viva": "✓",
+                "Data Hold": "✓",
+                "Filtro VFD": "✓",
+                "Mudança de Faixa": "Automática/Manual",
+                "Abertura de Garra": "55mm",
+                "Diâmetro do Condutor": "55mm",
+                "Precisão Básica": "2%",
+                "Alimentação": "2 x 1,5V AA",
+                "Dimensões (mm)/Peso (g)": "264x97x43/608",
+                "Garantia": "12 meses",
+                "Acessórios": "Pontas de Prova, Bolsa para Transporte, Termopar tipo K"
+              },
+              "image": "/ProductImages/ALICATES/ALICATES-PARA-PAINEL-SOLAR/ET-4710.png"
+            }
           ]
         },
         {
@@ -1570,107 +1568,107 @@
           "description": "Soluções completas para testes relacionados à potência e energia. É possível determinar problemas de harmônicas, consumo, demanda, fator de potência, entre outros, que poderão auxiliar no dimensionamento de soluções, como banco de capacitores e filtros, melhorando a eficácia do sistema, reduzindo problemas e evitando multas de fiscalização.",
           "image": "/ProductImages/ALICATES/ALICATES-WATTÍMETROS/subcategory-image.jpg",
           "products": [
-                  {
-                      "name": "ET-4091",
-                      "details": {
-                        "Display LCD/Contagem": "4 Dígitos/10000 com Iluminação",
-                        "Categoria de Segurança": "CAT III 600V",
-                        "True RMS": "AC",
-                        "Tensão AC": "600V",
-                        "Tensão DC": "600V",
-                        "Corrente AC": "40/400/1000A",
-                        "Resistência": "999Ω",
-                        "Frequência": "5Hz~500Hz",
-                        "Potência Ativa": "1kW/10kW/100kW/600kW (AC)",
-                        "Potência Aparente": "1kVA/10kVA/100kVA/600kVA (AC)",
-                        "Potência Reativa": "1kVAr/10VAr/100VAr/600VAr (AC)",
-                        "Energia Ativa": "100TWh (AC)",
-                        "Fator de Potência": "0,10~0,99",
-                        "Distorção Harmônica Total": "0~450% THD-F",
-                        "Harmônica": "-",
-                        "Teste de Continuidade": "✓",
-                        "Data/Peak Hold": "✓",
-                        "Autodesligamento": "✓",
-                        "Mudança de Faixa": "Automática",
-                        "Interface e Software": "Interface USB",
-                        "Adaptador Trifásico": "Não necessita",
-                        "Abertura de Garra": "45mm",
-                        "Diâmetro do Condutor": "45mm",
-                        "Precisão Básica": "0,5%",
-                        "Alimentação": "2x1,5V AAA",
-                        "Dimensões (mm)/Peso (g)": "224x78x40/224",
-                        "Garantia": "12 meses"
-                      },
-                      "image": "/ProductImages/ALICATES/ALICATES-WATTÍMETROS/ET-4091.jpg"
-                    },
-                    {
-                      "name": "ET-4055A",
-                      "details": {
-                        "Display LCD/Contagem": "Triplo 4 Dígitos/10000 com Iluminação",
-                        "Categoria de Segurança": "CAT III 600V / CAT IV 300V",
-                        "True RMS": "AC",
-                        "Tensão AC": "150/300/600V",
-                        "Corrente AC": "50/250/1000A",
-                        "Frequência": "40~80Hz",
-                        "Potência Ativa": "7.5/15.00/30.00/37.50/75.00/150.00/300.0/600.0kWh",
-                        "Potência Aparente": "7.5/15.00/30.00/37.50/75.00/150.00/300.0/600.0kWh",
-                        "Potência Reativa": "7.5/15.00/30.00/37.50/75.00/150.00/300.0/600.0kWh",
-                        "Energia Ativa": "1~9999kWh",
-                        "Fator de Potência": "0,300~1,000",
-                        "Distorção Harmônica Total": "0~100% THD",
-                        "Harmônica": "1ª~20ª h",
-                        "Data Hold": "✓",
-                        "Máx./Mín./Méd.": "Máx./Mín.",
-                        "Data Logger": "✓",
-                        "Autodesligamento": "✓",
-                        "Mudança de Faixa": "Automática",
-                        "Interface e Software": "Interface USB",
-                        "Adaptador Trifásico": "Não necessita",
-                        "Abertura de Garra": "50mm",
-                        "Diâmetro do Condutor": "50mm",
-                        "Precisão Básica": "2,0%",
-                        "Alimentação": "4x1,5V AA",
-                        "Dimensões (mm)/Peso (g)": "303x112x39/601",
-                        "Garantia": "12 meses"
-                      },
-                      "image": "/ProductImages/ALICATES/ALICATES-WATTÍMETROS/ET-4055A.jpg"
-                    },
-                    {
-                      "name": "ET-4010",
-                      "details": {
-                        "Display LCD/Contagem": "4 Dígitos/10000",
-                        "Categoria de Segurança": "CAT III 600V",
-                        "True RMS": "AC",
-                        "Tensão AC": "1000m/10/100/600V",
-                        "Tensão DC": "1000m/10/100/600V",
-                        "Corrente AC": "100µ/1000µ/100/1000A",
-                        "Resistência": "1k/10k/100k/1M/10M/100MΩ",
-                        "Frequência": "40~1kHz",
-                        "Capacitância": "10µ/100µ/1000µ/7000µF",
-                        "Temperatura": "-50°C a 900°C",
-                        "Potência Ativa": "100k/600kW",
-                        "Potência Aparente": "100k/600kVA",
-                        "Potência Reativa": "100k/600kVAR",
-                        "Horse Power": "100/800HP",
-                        "Fator de Potência": "-1",
-                        "Luz de Fundo": "✓",
-                        "Teste de Continuidade/Diodo": "✓",
-                        "Corrente de Partida": "✓",
-                        "Fasímetro": "✓",
-                        "Frequência de Rede": "✓",
-                        "Data Hold": "✓",
-                        "Máx./Mín.": "✓",
-                        "Autodesligamento": "✓",
-                        "Precisão Básica": "±5% + 35D",
-                        "Abertura de Garra": "43mm",
-                        "Diâmetro do Condutor": "43mm",
-                        "Mudança de Faixa": "Manual/Automático",
-                        "Alimentação": "2 x 1,5 AA",
-                        "Dimensões (mm)/Peso (g)": "265x100x42/400",
-                        "Garantia": "12 meses"
-                      },
-                      "image": "/ProductImages/ALICATES/ALICATES-WATTÍMETROS/ET-4010.jpg"
-                    }
+            {
+              "name": "ET-4091",
+              "details": {
+                "Display LCD/Contagem": "4 Dígitos/10000 com Iluminação",
+                "Categoria de Segurança": "CAT III 600V",
+                "True RMS": "AC",
+                "Tensão AC": "600V",
+                "Tensão DC": "600V",
+                "Corrente AC": "40/400/1000A",
+                "Resistência": "999Ω",
+                "Frequência": "5Hz~500Hz",
+                "Potência Ativa": "1kW/10kW/100kW/600kW (AC)",
+                "Potência Aparente": "1kVA/10kVA/100kVA/600kVA (AC)",
+                "Potência Reativa": "1kVAr/10VAr/100VAr/600VAr (AC)",
+                "Energia Ativa": "100TWh (AC)",
+                "Fator de Potência": "0,10~0,99",
+                "Distorção Harmônica Total": "0~450% THD-F",
+                "Harmônica": "-",
+                "Teste de Continuidade": "✓",
+                "Data/Peak Hold": "✓",
+                "Autodesligamento": "✓",
+                "Mudança de Faixa": "Automática",
+                "Interface e Software": "Interface USB",
+                "Adaptador Trifásico": "Não necessita",
+                "Abertura de Garra": "45mm",
+                "Diâmetro do Condutor": "45mm",
+                "Precisão Básica": "0,5%",
+                "Alimentação": "2x1,5V AAA",
+                "Dimensões (mm)/Peso (g)": "224x78x40/224",
+                "Garantia": "12 meses"
+              },
+              "image": "/ProductImages/ALICATES/ALICATES-WATTÍMETROS/ET-4091.png"
+            },
+            {
+              "name": "ET-4055A",
+              "details": {
+                "Display LCD/Contagem": "Triplo 4 Dígitos/10000 com Iluminação",
+                "Categoria de Segurança": "CAT III 600V / CAT IV 300V",
+                "True RMS": "AC",
+                "Tensão AC": "150/300/600V",
+                "Corrente AC": "50/250/1000A",
+                "Frequência": "40~80Hz",
+                "Potência Ativa": "7.5/15.00/30.00/37.50/75.00/150.00/300.0/600.0kWh",
+                "Potência Aparente": "7.5/15.00/30.00/37.50/75.00/150.00/300.0/600.0kWh",
+                "Potência Reativa": "7.5/15.00/30.00/37.50/75.00/150.00/300.0/600.0kWh",
+                "Energia Ativa": "1~9999kWh",
+                "Fator de Potência": "0,300~1,000",
+                "Distorção Harmônica Total": "0~100% THD",
+                "Harmônica": "1ª~20ª h",
+                "Data Hold": "✓",
+                "Máx./Mín./Méd.": "Máx./Mín.",
+                "Data Logger": "✓",
+                "Autodesligamento": "✓",
+                "Mudança de Faixa": "Automática",
+                "Interface e Software": "Interface USB",
+                "Adaptador Trifásico": "Não necessita",
+                "Abertura de Garra": "50mm",
+                "Diâmetro do Condutor": "50mm",
+                "Precisão Básica": "2,0%",
+                "Alimentação": "4x1,5V AA",
+                "Dimensões (mm)/Peso (g)": "303x112x39/601",
+                "Garantia": "12 meses"
+              },
+              "image": "/ProductImages/ALICATES/ALICATES-WATTÍMETROS/ET-4055A.png"
+            },
+            {
+              "name": "ET-4010",
+              "details": {
+                "Display LCD/Contagem": "4 Dígitos/10000",
+                "Categoria de Segurança": "CAT III 600V",
+                "True RMS": "AC",
+                "Tensão AC": "1000m/10/100/600V",
+                "Tensão DC": "1000m/10/100/600V",
+                "Corrente AC": "100µ/1000µ/100/1000A",
+                "Resistência": "1k/10k/100k/1M/10M/100MΩ",
+                "Frequência": "40~1kHz",
+                "Capacitância": "10µ/100µ/1000µ/7000µF",
+                "Temperatura": "-50°C a 900°C",
+                "Potência Ativa": "100k/600kW",
+                "Potência Aparente": "100k/600kVA",
+                "Potência Reativa": "100k/600kVAR",
+                "Horse Power": "100/800HP",
+                "Fator de Potência": "-1",
+                "Luz de Fundo": "✓",
+                "Teste de Continuidade/Diodo": "✓",
+                "Corrente de Partida": "✓",
+                "Fasímetro": "✓",
+                "Frequência de Rede": "✓",
+                "Data Hold": "✓",
+                "Máx./Mín.": "✓",
+                "Autodesligamento": "✓",
+                "Precisão Básica": "±5% + 35D",
+                "Abertura de Garra": "43mm",
+                "Diâmetro do Condutor": "43mm",
+                "Mudança de Faixa": "Manual/Automático",
+                "Alimentação": "2 x 1,5 AA",
+                "Dimensões (mm)/Peso (g)": "265x100x42/400",
+                "Garantia": "12 meses"
+              },
+              "image": "/ProductImages/ALICATES/ALICATES-WATTÍMETROS/ET-4010.png"
+            }
           ]
         },
         {
@@ -1680,135 +1678,132 @@
           "image": "/ProductImages/ALICATES/ALICATES-PARA-PAINEL-SOLAR/subcategory-image.jpg",
           "products": [
             {
-                    "name": "ET-4710",
-                    "details": {
-                      "Display": "3 5/6 Dígitos/6000",
-                      "Categoria de Segurança": "CAT III 1500V / CAT IV 1000V",
-                      "True RMS": "AC/AC+DC",
-                      "Tensão AC": "6/60/600/1000V",
-                      "Tensão DC": "6/60/600/1000/1500V",
-                      "Tensão AC+DC": "6/60/600/1000V",
-                      "Corrente AC": "200/500/1000/2000A",
-                      "Corrente DC": "200/500/2000A",
-                      "Corrente AC+DC": "200/1000/2000A",
-                      "Resistência": "600/6k/60k/600k/6M/40MΩ",
-                      "Capacitância": "60n/600n/6µ/60µ/600µ/2000µF",
-                      "Frequência de Rede": "✓",
-                      "Temperatura": "-50°C ~ 1000°C",
-                      "Continuidade e Diodo": "✓",
-                      "Luz de Fundo": "✓",
-                      "Detecção de Tensão Sem Contato (NCV)": "✓",
-                      "Modo Crest-Max": "✓",
-                      "Modo Relativo - Zero": "✓",
-                      "Identificação de Linha Viva": "✓",
-                      "Data Hold": "✓",
-                      "Filtro VFD": "✓",
-                      "Mudança de Faixa": "Automática/Manual",
-                      "Abertura de Garra": "55mm",
-                      "Diâmetro do Condutor": "55mm",
-                      "Precisão Básica": "2%",
-                      "Alimentação": "2 x 1,5V AA",
-                      "Dimensões (mm)/Peso (g)": "264x97x43/608",
-                      "Garantia": "12 meses",
-                      "Acessórios": "Pontas de Prova, Bolsa para Transporte, Termopar tipo K"
-                    },
-                    "image": "/ProductImages/ALICATES/ALICATES-PARA-PAINEL-SOLAR/ET-4710.jpg"
-                  },
-                  {
-          "id": 206,
-          "name": "Alicates Terrômetro",
-          "description": "Medidores de Aterramento com Garra.",
-          "image": "/ProductImages/ALICATES/ALICATE-TERRÔMETRO/subcategory-image.jpg",
-          "products": [
-
-              {
-                "name": "ET-4310",
-                "details": {
-                  "Modelo": "ET-4310",
-                  "Display LCD/Contagem": "4 Dígitos/10000",
-                  "Iluminação": "•",
-                  "Indicação de Bateria Fraca": "•",
-                  "Corrente AC": "0~30A",
-                  "Resistência": "0,01~1000Ω",
-                  "Abertura de Garra": "30mm",
-                  "Data Hold": "•",
-                  "Autodesligamento": "•",
-                  "Mudança de Faixa": "Automática",
-                  "Memória": "30 Registros",
-                  "Precisão Básica": "1,5%",
-                  "Categoria de Segurança": "CAT III 300V",
-                  "Alimentação": "4x1,5V AA",
-                  "Dimensões (mm)/Peso (g)": "304x104x68/1575",
-                  "Garantia": "12 meses"
-                },
-                "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/ALICATE-TERRÔMETRO/ET-4310.jpg"
-              },
-              {
-                "name": "ET-4202",
-                "details": {
-                  "Display LCD/Contagem": "4 Dígitos/9999 Contagens",
-                  "Categoria de Segurança": "CAT III 150V",
-                  "Luz de Fundo": "✔",
-                  "Indicação de Bateria Fraca": "✔",
-                  "Mudança de Faixa": "Automática",
-                  "Data Hold": "✔",
-                  "Autodesligamento": "✔ (aprox. 5 min)",
-                  "Alarme": "Configurável 1~199Ω",
-                  "Memória": "99 registros",
-                  "Resistência de Aterramento": "0,01/0,1/1/10/100/500Ω",
-                  "Abertura da Garra": "32mm",
-                  "Diâmetro do Condutor": "30mm",
-                  "Precisão Básica": "1,0%",
-                  "Alimentação": "4 x 1,5V AA",
-                  "Dimensões (mm)/Peso (g)": "275x85x56/870",
-                  "Garantia": "12 meses"
-                },
-                "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/ALICATE-TERRÔMETRO/ET-4202.jpg"
-              }
-          ]
-        },
-        {
-          "id": 207,
-          "name": "Alicates Osciloscópio",
-          "description": "Medidor de Corrente com osciloscópio integrado",
-          "image": "/ProductImages/ALICATES/ALICATE-OSCILOSCÓPIO/subcategory-image.jpg",
-          "products": [
-
-          {
-              "name": "cGraph I",
+              "name": "ET-4710",
               "details": {
-                "Display": "LCD múltiplo 2,8''/20.000 contagens",
-                "Categoria de Segurança": "CAT III 1000V / CAT IV 600V",
-                "True RMS": "AC",
-                "Tensão DC": "20mV/200mV/2V/20V/200V/1000V",
-                "Tensão AC": "200mV/2V/20V/200V/1000V",
-                "Corrente DC": "20A/200A/1000A",
-                "Corrente AC": "20A/200A/1000A",
-                "Corrente Inrush": "20A/200A/1000A",
-                "Resistência": "200Ω/2kΩ/20kΩ/200kΩ/2MΩ/20MΩ/100MΩ",
-                "Capacitância": "2nF/20nF/200nF/2µF/20µF/200µF/2000µF/20mF",
-                "Frequência": "20Hz~20MHz",
-                "Duty Cycle": "0,1%~99,9%",
+                "Display": "3 5/6 Dígitos/6000",
+                "Categoria de Segurança": "CAT III 1500V / CAT IV 1000V",
+                "True RMS": "AC/AC+DC",
+                "Tensão AC": "6/60/600/1000V",
+                "Tensão DC": "6/60/600/1000/1500V",
+                "Tensão AC+DC": "6/60/600/1000V",
+                "Corrente AC": "200/500/1000/2000A",
+                "Corrente DC": "200/500/2000A",
+                "Corrente AC+DC": "200/1000/2000A",
+                "Resistência": "600/6k/60k/600k/6M/40MΩ",
+                "Capacitância": "60n/600n/6µ/60µ/600µ/2000µF",
+                "Frequência de Rede": "✓",
+                "Temperatura": "-50°C ~ 1000°C",
                 "Continuidade e Diodo": "✓",
-                "Luz de Fundo": "✓ (ajustável)",
+                "Luz de Fundo": "✓",
+                "Detecção de Tensão Sem Contato (NCV)": "✓",
+                "Modo Crest-Max": "✓",
+                "Modo Relativo - Zero": "✓",
+                "Identificação de Linha Viva": "✓",
                 "Data Hold": "✓",
-                "Máx-Mín-Méd-Rel-Zero": "✓",
-                "Barra Gráfica": "20 segmentos",
-                "Detecção de Tensão sem Contato (NCV)": "✓",
-                "Osciloscópio Integrado": "1 canal, 700kHz (tensão), 1kHz (corrente), 5MSa/s",
-                "Abertura da Garra": "38mm",
-                "Diâmetro do Condutor": "38mm",
-                "Precisão Básica": "0,1%",
-                "Alimentação": "1 x 3,7V (Bateria Li-ion 18650 recarregável)",
-                "Dimensões (mm)/Peso (g)": "248x94,5x37,8 / 350",
+                "Filtro VFD": "✓",
+                "Mudança de Faixa": "Automática/Manual",
+                "Abertura de Garra": "55mm",
+                "Diâmetro do Condutor": "55mm",
+                "Precisão Básica": "2%",
+                "Alimentação": "2 x 1,5V AA",
+                "Dimensões (mm)/Peso (g)": "264x97x43/608",
                 "Garantia": "12 meses",
-                "Acessórios": "Pontas de Prova, Cabo USB-C, Estojo de Transporte"
+                "Acessórios": "Pontas de Prova, Bolsa para Transporte, Termopar tipo K"
               },
-              "image": "/ProductImages/ALICATES/cGraph-I.jpg"
+              "image": "/ProductImages/ALICATES/ALICATES-PARA-PAINEL-SOLAR/ET-4710.png"
+            },
+            {
+              "id": 206,
+              "name": "Alicates Terrômetro",
+              "description": "Medidores de Aterramento com Garra.",
+              "image": "/ProductImages/ALICATES/ALICATES-PARA-PAINEL-SOLAR/ALICATES-TERRÔMETRO.jpg",
+              "products": [
+                {
+                  "name": "ET-4310",
+                  "details": {
+                    "Modelo": "ET-4310",
+                    "Display LCD/Contagem": "4 Dígitos/10000",
+                    "Iluminação": "•",
+                    "Indicação de Bateria Fraca": "•",
+                    "Corrente AC": "0~30A",
+                    "Resistência": "0,01~1000Ω",
+                    "Abertura de Garra": "30mm",
+                    "Data Hold": "•",
+                    "Autodesligamento": "•",
+                    "Mudança de Faixa": "Automática",
+                    "Memória": "30 Registros",
+                    "Precisão Básica": "1,5%",
+                    "Categoria de Segurança": "CAT III 300V",
+                    "Alimentação": "4x1,5V AA",
+                    "Dimensões (mm)/Peso (g)": "304x104x68/1575",
+                    "Garantia": "12 meses"
+                  },
+                  "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/ALICATE-TERRÔMETRO/ET-4310.jpg"
+                },
+                {
+                  "name": "ET-4202",
+                  "details": {
+                    "Display LCD/Contagem": "4 Dígitos/9999 Contagens",
+                    "Categoria de Segurança": "CAT III 150V",
+                    "Luz de Fundo": "✔",
+                    "Indicação de Bateria Fraca": "✔",
+                    "Mudança de Faixa": "Automática",
+                    "Data Hold": "✔",
+                    "Autodesligamento": "✔ (aprox. 5 min)",
+                    "Alarme": "Configurável 1~199Ω",
+                    "Memória": "99 registros",
+                    "Resistência de Aterramento": "0,01/0,1/1/10/100/500Ω",
+                    "Abertura da Garra": "32mm",
+                    "Diâmetro do Condutor": "30mm",
+                    "Precisão Básica": "1,0%",
+                    "Alimentação": "4 x 1,5V AA",
+                    "Dimensões (mm)/Peso (g)": "275x85x56/870",
+                    "Garantia": "12 meses"
+                  },
+                  "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/ALICATE-TERRÔMETRO/ET-4202.jpg"
+                }
+              ]
+            },
+            {
+              "id": 207,
+              "name": "Alicates Osciloscópio",
+              "description": "Medidor de Corrente com osciloscópio integrado",
+              "image": "/ProductImages/ALICATES/ALICATES-PARA-PAINEL-SOLAR/ALICATES-OSCILOSCÓPIO.jpg",
+              "products": [
+                {
+                  "name": "cGraph I",
+                  "details": {
+                    "Display": "LCD múltiplo 2,8''/20.000 contagens",
+                    "Categoria de Segurança": "CAT III 1000V / CAT IV 600V",
+                    "True RMS": "AC",
+                    "Tensão DC": "20mV/200mV/2V/20V/200V/1000V",
+                    "Tensão AC": "200mV/2V/20V/200V/1000V",
+                    "Corrente DC": "20A/200A/1000A",
+                    "Corrente AC": "20A/200A/1000A",
+                    "Corrente Inrush": "20A/200A/1000A",
+                    "Resistência": "200Ω/2kΩ/20kΩ/200kΩ/2MΩ/20MΩ/100MΩ",
+                    "Capacitância": "2nF/20nF/200nF/2µF/20µF/200µF/2000µF/20mF",
+                    "Frequência": "20Hz~20MHz",
+                    "Duty Cycle": "0,1%~99,9%",
+                    "Continuidade e Diodo": "✓",
+                    "Luz de Fundo": "✓ (ajustável)",
+                    "Data Hold": "✓",
+                    "Máx-Mín-Méd-Rel-Zero": "✓",
+                    "Barra Gráfica": "20 segmentos",
+                    "Detecção de Tensão sem Contato (NCV)": "✓",
+                    "Osciloscópio Integrado": "1 canal, 700kHz (tensão), 1kHz (corrente), 5MSa/s",
+                    "Abertura da Garra": "38mm",
+                    "Diâmetro do Condutor": "38mm",
+                    "Precisão Básica": "0,1%",
+                    "Alimentação": "1 x 3,7V (Bateria Li-ion 18650 recarregável)",
+                    "Dimensões (mm)/Peso (g)": "248x94,5x37,8 / 350",
+                    "Garantia": "12 meses",
+                    "Acessórios": "Pontas de Prova, Cabo USB-C, Estojo de Transporte"
+                  },
+                  "image": "/ProductImages/ALICATES/cGraph-I.jpg"
+                }
+              ]
             }
-          ]
-        }
-
           ]
         }
       ]
@@ -1838,7 +1833,7 @@
                 "Dimensões (mm)/ Peso (g)": "299x86/600",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/DETECTOR-DE-ALTA-TENSÃO/EZHV.jpg"
+              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/DETECTOR-DE-ALTA-TENSÃO/EZHV.png"
             }
           ]
         },
@@ -1861,7 +1856,7 @@
                 "Dimensões (mm)/ Peso (g)": "299x86/600",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/DETECTORES-DE-TENSÃO/EZHV.jpg"
+              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/DETECTOR-DE-ALTA-TENSÃO/EZHV.png"
             },
             {
               "name": "ezPhase II",
@@ -1877,7 +1872,7 @@
                 "Dimensões (mm)/Peso (g)": "160x20x20/55",
                 "Garantia": "3 meses"
               },
-              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/DETECTORES-DE-TENSÃO/EZPHASE-II.jpg"
+              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/DETECTORS-DE-TENSÃO/EZPHASE-II.jpg"
             },
             {
               "name": "ezAlert-I",
@@ -1993,7 +1988,7 @@
                 "Dimensões (mm)/Peso (g)": "85x64x23/200",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/FASÍMETROS/MFA-840A.jpg"
+              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/FASÍMETROS/MFA-840A.png"
             },
             {
               "name": "MFA-850",
@@ -2008,7 +2003,7 @@
                 "Dimensões (mm)/Peso (g)": "134x85x45/540",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/FASÍMETROS/MFA-850.jpg"
+              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/FASÍMETROS/MFA-850.png"
             },
             {
               "name": "MFA-862",
@@ -2024,7 +2019,7 @@
                 "Dimensões (mm)/Peso (g)": "123x71x29/200",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/FASÍMETROS/MFA-862.jpg"
+              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/FASÍMETROS/MFA-862.png"
             },
             {
               "name": "MFA-841A",
@@ -2041,7 +2036,7 @@
                 "Dimensões (mm)/Peso (g)": "93(A) x 70(L) x 30(P)mm / 200g",
                 "Garantia": "1 ano"
               },
-              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/FASÍMETROS/MFA-841A.jpg"
+              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/FASÍMETROS/MFA-841A.png"
             }
           ]
         },
@@ -2065,7 +2060,7 @@
                 "Dimensões (mm)/Peso (g)": "110x175x70/750",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/MEGÔMETROS/MI-1000.jpg"
+              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/MEGÔMETROS/MI-1000.png"
             },
             {
               "name": "MI-2552",
@@ -2082,7 +2077,7 @@
                 "Dimensões (mm)/Peso (g)": "100x150x71/500",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/MEGÔMETROS/MI-2552.jpg"
+              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/MEGÔMETROS/MI-2552.png"
             },
             {
               "name": "MI-2701A",
@@ -2104,7 +2099,7 @@
                 "Dimensões (mm)/Peso (g)": "65x180x140/900",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/MEGÔMETROS/MI-2701A.jpg"
+              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/MEGÔMETROS/MI-2701A.png"
             },
             {
               "name": "MI-2705",
@@ -2129,7 +2124,7 @@
                 "Dimensões (mm)/Peso (g)": "202x155x94/500",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/MEGÔMETROS/MI-2705.jpg"
+              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/MEGÔMETROS/MI-2705.png"
             },
             {
               "name": "MI-2702",
@@ -2161,7 +2156,7 @@
                 "Dimensões (mm)/Peso (g)": "65(A) x 180(L) x 140(P)mm / 594g",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/MEGÔMETROS/MI-2702.jpg"
+              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/MEGÔMETROS/MI-2702.png"
             },
             {
               "name": "MI-1000A",
@@ -2178,7 +2173,7 @@
                 "Dimensões (mm)/Peso (g)": "115x175x62,5/758",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/MEGÔMETROS/MI-1000A.jpg"
+              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/MEGÔMETROS/MI-1000A.png"
             },
             {
               "name": "MI-2710",
@@ -2205,7 +2200,7 @@
                 "Garantia": "1 ano",
                 "Acessórios": "Manual / Pontas de Alta Tensão / Garra Jacaré / Mala de Transporte / Alça de Transporte / Cabo USB / Carregador / Gancho / Ponta Garra Jacaré / Chaves para Maleta"
               },
-              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/MEGÔMETROS/MI-2710.jpg"
+              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/MEGÔMETROS/MI-2710.png"
             }
           ]
         },
@@ -2250,8 +2245,7 @@
                 "Dimensões (mm)/Peso (g)": "202x97x40/505",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/MULTÍMETRO-MEGÔMETRO/ET-2780.jpg"
-             
+              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/MULTÍMETRO-MEGÔMETRO/ET-2780.png"
             }
           ]
         },
@@ -2266,14 +2260,14 @@
               "details": {
                 "Note": "No specifications table found"
               },
-              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/TERRÔMETROS/MTR-1522.jpg"
+              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/TERRÔMETROS/MTR-1522.png"
             },
             {
               "name": "MTR-1530",
               "details": {
                 "Note": "No specifications table found"
               },
-              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/TERRÔMETROS/MTR-1530.jpg"
+              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/TERRÔMETROS/MTR-1530.png"
             },
             {
               "name": "MTR-2100",
@@ -2300,7 +2294,7 @@
                 "Dimensões (mm)/Peso (g)": "277,2x227,5x153/2450",
                 "Garantia": "24 meses"
               },
-              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/TERRÔMETROS/MTR-2100.jpg"
+              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/TERRÔMETROS/MTR-2100.png"
             },
             {
               "name": "MTR-1531",
@@ -2322,7 +2316,7 @@
                 "Dimensões (mm)/Peso (g)": "125(A) x 330(L) x 265(P)mm / 600g",
                 "Garantia": "1 Ano"
               },
-              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/TERRÔMETROS/MTR-1531.jpg"
+              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/TERRÔMETROS/MTR-1531.png"
             }
           ]
         },
@@ -2352,7 +2346,7 @@
                 "Dimensões (mm)/Peso (g) 160x70,5x100/": "304x104x68/1575",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/ALICATE-TERRÔMETRO/ET-4310.jpg"
+              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/ALICATE-TERRÔMETRO/ET-4310.png"
             }
           ]
         },
@@ -2468,7 +2462,7 @@
                 "Mudança de Faixa": "Automática",
                 "Garantia": "1 ano"
               },
-              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/CANETA-MULTÍMETRO/EZVOLT3.jpg"
+              "image": "/ProductImages/FERRAMENTAS-ELÉTRICAS/CANETA-MULTIMETRO/EZVOLT3.png"
             }
           ]
         }
@@ -2505,7 +2499,7 @@
                 "Dimensões (mm)/Peso (g)": "120x53x28,5/120",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/TERMÔMETROS/MT-450A.jpg"
+              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/TERMÔMETROS/MT-450A.png"
             },
             {
               "name": "MT-455A",
@@ -2526,7 +2520,7 @@
                 "Dimensões (mm)/Peso (g)": "120x53x28,5/120",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/TERMÔMETROS/MT-455A.jpg"
+              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/TERMÔMETROS/MT-455A.png"
             }
           ]
         },
@@ -2582,7 +2576,7 @@
                 "Dimensões (mm)/Peso (g)": "105(A) x 38(L) x 14(P)mm / 25g",
                 "Garantia": "1 ano"
               },
-              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/DATA-LOGGER-DE-TEMPERATURA-E-UMIDADE/EZTEMP11.jpg"
+              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/DATA-LOGGER-DE-TEMPERATURA-E-UMIDADE/EZTEMP11.png"
             }
           ]
         },
@@ -2611,7 +2605,7 @@
                 "Dimensões (mm)/Peso (g)": "108x58x15/100",
                 "Garantia": "3 meses"
               },
-              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/TERMO-HIGRÔMETROS/MT-241.jpg"
+              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/TERMO-HIGRÔMETROS/MT-241.png"
             },
             {
               "name": "MT-242A",
@@ -2631,7 +2625,7 @@
                 "Dimensões (mm)/Peso (g)": "78x130x23/120",
                 "Garantia": "3 meses"
               },
-              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/TERMO-HIGRÔMETROS/MT-242A.jpg"
+              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/TERMO-HIGRÔMETROS/MT-242A.png"
             },
             {
               "name": "MTH-1320",
@@ -2659,7 +2653,7 @@
                 "Dimensões (mm)/Peso (g)": "152(A) x 55(L) x 33(P)mm / 98g",
                 "Garantia": "1 ano"
               },
-              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/TERMO-HIGRÔMETROS/MTH-1320.jpg"
+              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/TERMO-HIGRÔMETROS/MTH-1320.png"
             },
             {
               "name": "MT-241A",
@@ -2679,7 +2673,7 @@
                 "Dimensões (mm)/Peso (g)": "78x130x23/120",
                 "Garantia": "3 meses"
               },
-              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/TERMO-HIGRÔMETROS/MT-241A.jpg"
+              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/TERMO-HIGRÔMETROS/MT-241A.png"
             },
             {
               "name": "MTH-1390",
@@ -2707,7 +2701,7 @@
                 "Dimensões (mm)/Peso (g)": "218(A) x 64(L) x 35(P)mm / 192g",
                 "Garantia": "1 ano"
               },
-              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/TERMO-HIGRÔMETROS/MTH-1390.jpg"
+              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/TERMO-HIGRÔMETROS/MTH-1390.png"
             }
           ]
         },
@@ -2741,7 +2735,7 @@
                 "Dimensões (mm)/Peso (g)": "169x103x48/200",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/TERMÔMETROS-INFRAVERMELHOS/MT-350A.jpg"
+              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/ANEMÔMETROS/TERMÔMETROS-INFRAVERMELHO/MT-350A.png"
             },
             {
               "name": "MT-395A",
@@ -2767,7 +2761,7 @@
                 "Dimensões (mm)/Peso (g)": "260x155x54/295",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/TERMÔMETROS-INFRAVERMELHOS/MT-395A.jpg"
+              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/ANEMÔMETROS/TERMÔMETROS-INFRAVERMELHO/MT-395A.png"
             },
             {
               "name": "MT-320B",
@@ -2788,7 +2782,7 @@
                 "Dimensões (mm)/peso(g)": "165(A)x47(L)x59(P)mm / 135 (g)",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/TERMÔMETROS-INFRAVERMELHOS/MT-320B.jpg"
+              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/ANEMÔMETROS/TERMÔMETROS-INFRAVERMELHO/MT-320B.png"
             }
           ]
         },
@@ -2816,7 +2810,7 @@
                 "Dimensões (mm)": "160x50x28mm/118g",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/ANEMÔMETROS/MDA-01.jpg"
+              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/ANEMÔMETROS/MDA-01.png"
             },
             {
               "name": "MDA-10A",
@@ -2838,7 +2832,7 @@
                 "Dimensões (mm)/Peso (g)": "165x85x38/200",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/ANEMÔMETROS/MDA-10A.jpg"
+              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/ANEMÔMETROS/MDA-10A.png"
             },
             {
               "name": "MDA-20",
@@ -2860,7 +2854,7 @@
                 "Dimensões (mm)/Peso (g)": "162x78x30/375",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/ANEMÔMETROS/MDA-20.jpg"
+              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/ANEMÔMETROS/MDA-20.png"
             },
             {
               "name": "MDA-11A",
@@ -2880,7 +2874,7 @@
                 "Dimensões(mm) / Peso(g)": "120x53x43mm/365",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/ANEMÔMETROS/MDA-11A.jpg"
+              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/ANEMÔMETROS/MDA-11A.png"
             },
             {
               "name": "MDA-10B",
@@ -2907,7 +2901,7 @@
                 "Dimensões (mm)/Peso (g)": "210(A) x 72(L) x 28(P)mm / 142g",
                 "Garantia": "1 ano"
               },
-              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/ANEMÔMETROS/MDA-10B.jpg"
+              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/ANEMÔMETROS/MDA-10B.png"
             }
           ]
         },
@@ -2933,7 +2927,7 @@
                 "Dimensões (mm)": "160x50x28/118",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/LUXÍMETROS/MLM-1001.jpg"
+              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/LUXÍMETROS/MLM-1001.png"
             },
             {
               "name": "MLM-1011",
@@ -2950,7 +2944,7 @@
                 "Dimensões (mm)/Peso (g)": "230x72x30/190",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/LUXÍMETROS/MLM-1011.jpg"
+              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/LUXÍMETROS/MLM-1011.png"
             },
             {
               "name": "MLM-1020",
@@ -2968,7 +2962,7 @@
                 "Dimensões (mm)/Peso (g)": "195x45x26/185",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/LUXÍMETROS/MLM-1020.jpg"
+              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/LUXÍMETROS/MLM-1020.png"
             }
           ]
         },
@@ -3003,7 +2997,7 @@
                 "Dimensões (mm)/Peso (g)": "256x70x35/244",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/DECIBELÍMETROS/MSL-1355B.jpg"
+              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/DECIBELÍMETROS/MSL-1355B.png"
             },
             {
               "name": "MSL-1301",
@@ -3022,7 +3016,7 @@
                 "Dimensões (mm)/Peso (g)": "150x52x27/116",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/DECIBELÍMETROS/MSL-1301.jpg"
+              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/DECIBELÍMETROS/MSL-1301.png"
             }
           ]
         },
@@ -3077,7 +3071,7 @@
                 "Dimensões (mm)/Peso(g)": "236x 75,5x 86 / 503",
                 "Garantia": "1 ano"
               },
-              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/TERMOVISORA/MTV-120.jpg"
+              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/TERMOVISORA/MTV-120.png"
             },
             {
               "name": "MTV-10M",
@@ -3112,7 +3106,7 @@
                 "Garantia": "1 Ano",
                 "Aplicativo para Smartphone Android": "Android TM 8 ou superior"
               },
-              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/TERMOVISORA/MTV-10M.jpg"
+              "image": "/ProductImages/TEMPERATURA-E-AMBIENTE/TERMOVISORA/MTV-10M.png"
             }
           ]
         }
@@ -3153,7 +3147,7 @@
                 "Peso": "108,8g",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/CONSTRUÇÃO-CIVIL/TRENAS-A-LASER/MD-40A.jpg"
+              "image": "/ProductImages/CONSTRUÇÃO-CIVIL/TRENAS-A-LASER/MD-40A.png"
             },
             {
               "name": "MD-50B",
@@ -3176,7 +3170,7 @@
                 "Dimensões (mm)/Peso (g)": "105(A) x 40(L) x 24(P)mm / 78g",
                 "Garantia": "1 Ano"
               },
-              "image": "/ProductImages/CONSTRUÇÃO-CIVIL/TRENAS-A-LASER/MD-50B.jpg"
+              "image": "/ProductImages/CONSTRUÇÃO-CIVIL/TRENAS-A-LASER/MD-50B.png"
             }
           ]
         },
@@ -3198,7 +3192,7 @@
                 "Dimensões(mm)/peso(g)": "Φ120 mm (r) x 50mm (A) / 122g",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/CONSTRUÇÃO-CIVIL/MEDIDOR-DE-ÂNGULO-A-LASER/MLL-102.jpg"
+              "image": "/ProductImages/CONSTRUÇÃO-CIVIL/MEDIDOR-DE-ÂNGULO-A-LAZER/MLL-102.png"
             }
           ]
         },
@@ -3222,7 +3216,7 @@
                 "Dimensões(mm)/peso(g)": "75x65x75",
                 "Garantia": "3 meses"
               },
-              "image": "/ProductImages/CONSTRUÇÃO-CIVIL/NÍVEL-A-LASER/MN-110.jpg"
+              "image": "/ProductImages/CONSTRUÇÃO-CIVIL/NÍVEL-A-LASER/MN-110.png"
             }
           ]
         }
@@ -3269,7 +3263,7 @@
                 "Dimensões (mm)/Peso (g)": "166x88x51/320",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/LINHA-AUTOMOTIVA/OSCILOSCÓPIO-AUTOMOTIVO/MS-1005.jpg"
+              "image": "/ProductImages/LINHA-AUTOMOTIVA/OSCILOSCÓPIO-AUTOMOTIVO/MS-1005.png"
             }
           ]
         },
@@ -3302,7 +3296,7 @@
                 "Dimensões (mm) / Peso (g)": "183x95x47/413",
                 "Garantia": "1 ano"
               },
-              "image": "/ProductImages/LINHA-AUTOMOTIVA/TESTADOR-DE-BATERIA/MTB-1000.jpg"
+              "image": "/ProductImages/LINHA-AUTOMOTIVA/TESTADOR-DE-BATERIA/MTB-1000.png"
             },
             {
               "name": "MTB-200",
@@ -3328,7 +3322,7 @@
                 "Dimensões (mm)/Peso (g)": "200(A) x 120(L) x 55(P)mm / 272g",
                 "Garantia": "1 ano"
               },
-              "image": "/ProductImages/LINHA-AUTOMOTIVA/TESTADOR-DE-BATERIA/MTB-200.jpg"
+              "image": "/ProductImages/LINHA-AUTOMOTIVA/TESTADOR-DE-BATERIA/MTB-200.png"
             }
           ]
         },
@@ -3367,7 +3361,7 @@
                 "Dimensões (mm)/Peso (g)": "166x88x51/320",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/LINHA-AUTOMOTIVA/MULTÍMETROS-AUTOMOTIVOS/MA-120A.jpg"
+              "image": "/ProductImages/LINHA-AUTOMOTIVA/MULTÍMETROS-AUTOMOTIVO/MA-120A.png"
             },
             {
               "name": "MA-150",
@@ -3398,7 +3392,7 @@
                 "Dimensões (mm)/Peso (g)": "184x89x62/447g",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/LINHA-AUTOMOTIVA/MULTÍMETROS-AUTOMOTIVOS/MA-150.jpg"
+              "image": "/ProductImages/LINHA-AUTOMOTIVA/MULTÍMETROS-AUTOMOTIVO/MA-150.png"
             }
           ]
         }
@@ -3434,12 +3428,12 @@
                 "Dimensões(mm)/peso(g)": "165(A)x265(L)x360(P)mm / 10 (kg)",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/INSTRUMENTOS-DE-BANCADA/FONTES-DE-ALIMENTAÇÃO/MPC-3005.jpg"
+              "image": "/ProductImages/INSTRUMENTOS-DE-BANCADA/FONTES-DE-ALIMENTAÇÃO/MPC-3005.png"
             },
             {
               "name": "MPL-1305M",
               "details": {},
-              "image": "/ProductImages/INSTRUMENTOS-DE-BANCADA/FONTES-DE-ALIMENTAÇÃO/MPL-1305M.jpg"
+              "image": "/ProductImages/INSTRUMENTOS-DE-BANCADA/FONTES-DE-ALIMENTAÇÃO/MPL-1305M.png"
             },
             {
               "name": "MPL-3305M",
@@ -3465,12 +3459,12 @@
                 "Dimensões (mm)/Peso (g)": "260x170x315/11",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/INSTRUMENTOS-DE-BANCADA/FONTES-DE-ALIMENTAÇÃO/MPL-3305M.jpg"
+              "image": "/ProductImages/INSTRUMENTOS-DE-BANCADA/FONTES-DE-ALIMENTAÇÃO/MPL-3305M.png"
             },
             {
               "name": "MPS-3005B",
               "details": {},
-              "image": "/ProductImages/INSTRUMENTOS-DE-BANCADA/FONTES-DE-ALIMENTAÇÃO/MPS-3005B.jpg"
+              "image": "/ProductImages/INSTRUMENTOS-DE-BANCADA/FONTES-DE-ALIMENTAÇÃO/MPS-3005B.png"
             },
             {
               "name": "MPC-3003",
@@ -3490,7 +3484,7 @@
                 "Dimensões(mm)/peso(g)": "165(A)x265(L)x360(P)mm / 10 (kg)",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/INSTRUMENTOS-DE-BANCADA/FONTES-DE-ALIMENTAÇÃO/MPC-3003.jpg"
+              "image": "/ProductImages/INSTRUMENTOS-DE-BANCADA/FONTES-DE-ALIMENTAÇÃO/MPC-3003.png"
             },
             {
               "name": "MPL-1305PS",
@@ -3514,7 +3508,7 @@
                 "Dimensões(mm)/Peso (g)": "262(A) x 110(L) x 160(P)mm / 4,3kg",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/INSTRUMENTOS-DE-BANCADA/FONTES-DE-ALIMENTAÇÃO/MPL-1305PS.jpg"
+              "image": "/ProductImages/INSTRUMENTOS-DE-BANCADA/FONTES-DE-ALIMENTAÇÃO/MPL-1305PS.png"
             }
           ]
         },
@@ -3544,7 +3538,7 @@
                 "Frequência de Modulação": "AM, FM, PM, Varredura e Burst: 2mHz até 20,00kHz\r\n\t\t\tFSK: 2mHz ~ 100kHz",
                 "Faixa de Frequência": "Frequência, Período, Duty Cycle, Comprimento de Pulso Positivo: 100mHz ~200MHz"
               },
-              "image": "/ProductImages/INSTRUMENTOS-DE-BANCADA/GERADORES-DE-FUNÇÃO/MFG-4205D.jpg"
+              "image": "/ProductImages/INSTRUMENTOS-DE-BANCADA/GERADORES-DE-FUNÇÃO/MFG-4205D.png"
             },
             {
               "name": "MFG-4202A",
@@ -3560,7 +3554,7 @@
                 "Peso": "2kg",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/INSTRUMENTOS-DE-BANCADA/GERADORES-DE-FUNÇÃO/MFG-4202A.jpg"
+              "image": "/ProductImages/INSTRUMENTOS-DE-BANCADA/GERADORES-DE-FUNÇÃO/MFG-4202A.png"
             },
             {
               "name": "MFG-4210C",
@@ -3583,7 +3577,7 @@
                 "Dimensões (mm)/ Peso (g)": "105x229x281/2,6k",
                 "Garantia": "36 meses"
               },
-              "image": "/ProductImages/INSTRUMENTOS-DE-BANCADA/GERADORES-DE-FUNÇÃO/MFG-4210C.jpg"
+              "image": "/ProductImages/INSTRUMENTOS-DE-BANCADA/GERADORES-DE-FUNÇÃO/MFG-4210C.png"
             },
             {
               "name": "MFG-4205C",
@@ -3602,7 +3596,7 @@
                 "Dimensões (mm)/Peso (g)": "165x320x110/ Líquido 3,10kg - Bruto 4,10kg",
                 "Garantia": "36 meses"
               },
-              "image": "/ProductImages/INSTRUMENTOS-DE-BANCADA/GERADORES-DE-FUNÇÃO/MFG-4205C.jpg"
+              "image": "/ProductImages/INSTRUMENTOS-DE-BANCADA/GERADORES-DE-FUNÇÃO/MFG-4205C.png"
             }
           ]
         },
@@ -3643,7 +3637,7 @@
                 "Dimensões (mm)/ Peso (g)": "105x245x300/1,5k",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/INSTRUMENTOS-DE-BANCADA/MULTÍMETROS-DE-BANCADA/MDM-8045C.jpg"
+              "image": "/ProductImages/INSTRUMENTOS-DE-BANCADA/MULTÍMETROS-DE-BANCADAS/MDM-8045C.png"
             },
             {
               "name": "MDM-8145A",
@@ -3676,7 +3670,7 @@
                 "Dimensões (mm)/ Peso (g)": "105x245x310/3k",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/INSTRUMENTOS-DE-BANCADA/MULTÍMETROS-DE-BANCADA/MDM-8145A.jpg"
+              "image": "/ProductImages/INSTRUMENTOS-DE-BANCADA/MULTÍMETROS-DE-BANCADAS/MDM-8145A.png"
             },
             {
               "name": "MDM-8145B",
@@ -3706,7 +3700,7 @@
                 "Garantia": "12 meses",
                 "Acessórios": "Manual/ Pontas de prova / Garra Jacaré / Cabo de alimentação / Cabo USB"
               },
-              "image": "/ProductImages/INSTRUMENTOS-DE-BANCADA/MULTÍMETROS-DE-BANCADA/MDM-8145B.jpg"
+              "image": "/ProductImages/INSTRUMENTOS-DE-BANCADA/MULTÍMETROS-DE-BANCADAS/MDM-8145B.png"
             }
           ]
         },
@@ -3731,7 +3725,7 @@
                 "Dimensões (mm)/pesgo (g)": "100x215x270mm/peso 1,6kg",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/INSTRUMENTOS-DE-BANCADA/FREQUENCÍMETRO/MF-7240.jpg"
+              "image": "/ProductImages/INSTRUMENTOS-DE-BANCADA/FREQUENCÍMETRO/MF-7240.png"
             }
           ]
         }
@@ -3781,7 +3775,7 @@
                 "Mudança de Faixa": "Automática",
                 "Garantia": "6  meses"
               },
-              "image": "/ProductImages/LINHA-SMART/DISPOSITIVOS-IOT/SM-1000.jpg"
+              "image": "/ProductImages/LINHA-SMART/SM-1000.png"
             },
             {
               "name": "SM-1600",
@@ -3815,7 +3809,7 @@
                 "Mudança de Faixa": "Automática",
                 "Garantia": "1 ano"
               },
-              "image": "/ProductImages/LINHA-SMART/DISPOSITIVOS-IOT/SM-1600.jpg"
+              "image": "/ProductImages/LINHA-SMART/SM-1600.png"
             }
           ]
         },
@@ -3860,7 +3854,7 @@
                 "Mudança de Faixa": "Automática",
                 "Garantia": "1 ano"
               },
-              "image": "/ProductImages/LINHA-SMART/SENSORES-INTELIGENTES/SM-3305.jpg"
+              "image": "/ProductImages/LINHA-SMART/SM-3305.png"
             }
           ]
         }
@@ -3903,7 +3897,7 @@
                 "Dimensões (mm)/Peso (g)": "198 x 96 x 38mm / 600g",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/OSCILOSCÓPIOS/OSCILOSCÓPIO-DIGITAIS/MS-350.jpg"
+              "image": "/ProductImages/OSCILOSCÓPIOS/Osciloscópios Digitais/MS-350.png"
             },
             {
               "name": "MO-1102C",
@@ -3943,7 +3937,7 @@
                 "Dimensões (mm)/Peso (g)": "152(A) x 301(L) x 70(P)mm / 1,64kg",
                 "Garantia": "1 ano"
               },
-              "image": "/ProductImages/OSCILOSCÓPIOS/OSCILOSCÓPIO-DIGITAIS/MO-1102C.jpg"
+              "image": "/ProductImages/OSCILOSCÓPIOS/Osciloscópios Digitais/MO-1102C.png"
             },
             {
               "name": "MVB DSO",
@@ -3979,7 +3973,7 @@
                 "Dimensões (mm)/Peso (g)": "306x147x122mm/2,2k",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/OSCILOSCÓPIOS/OSCILOSCÓPIO-DIGITAIS/MVB-DSO.jpg"
+              "image": "/ProductImages/OSCILOSCÓPIOS/Osciloscópios Digitais/MVB-DSO.png"
             },
             {
               "name": "MO-1104C",
@@ -4019,7 +4013,7 @@
                 "Dimensões (mm)/Peso (g)": "152(A) x 301(L) x 70(P)mm / 1,85kg",
                 "Garantia": "1 ano"
               },
-              "image": "/ProductImages/OSCILOSCÓPIOS/OSCILOSCÓPIO-DIGITAIS/MO-1104C.jpg"
+              "image": "/ProductImages/OSCILOSCÓPIOS/Osciloscópios Digitais/MO-1104C.png"
             }
           ]
         }
@@ -4052,7 +4046,7 @@
                 "Dimensões (mm)/Peso (g)": "143x75x32/200",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/DIVERSOS/CAPACÍMETRO/MC-154A.jpg"
+              "image": "/ProductImages/DIVERSOS/CAPACÍMETRO/MC-154A.png"
             }
           ]
         },
@@ -4077,7 +4071,7 @@
                 "Dimensões (mm)/Peso (g)": "172x83x38/310",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/DIVERSOS/MEDIDOR-LCR/MC-155.jpg"
+              "image": "/ProductImages/DIVERSOS/MEDIDOR-LCR/MC-155.png"
             }
           ]
         },
@@ -4117,7 +4111,7 @@
                 "Dimensões (mm)/Peso (g)": "193x96x47/374",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/DIVERSOS/PONTE-LCR-PORTÁTIL/MX-1050.jpg"
+              "image": "/ProductImages/DIVERSOS/PONTE-LCR-PORTÁTIL/MX-1050.png"
             }
           ]
         },
@@ -4145,7 +4139,7 @@
                 "Dimensões (mm)/Peso (g)": "160x72x37/300",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/DIVERSOS/TACÔMETROS/MDT-2238B.jpg"
+              "image": "/ProductImages/DIVERSOS/TACÔMETROS/MDT-2238B.png"
             },
             {
               "name": "MDT-2245C",
@@ -4165,7 +4159,7 @@
                 "Dimensões (mm)/Peso (g)": "21x74x37/300",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/DIVERSOS/TACÔMETROS/MDT-2245C.jpg"
+              "image": "/ProductImages/DIVERSOS/TACÔMETROS/MDT-2245C.png"
             },
             {
               "name": "MDT-2244C",
@@ -4185,7 +4179,7 @@
                 "Dimensões (mm)/Peso (g)": "120x53x28/100",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/DIVERSOS/TACÔMETROS/MDT-2244C.jpg"
+              "image": "/ProductImages/DIVERSOS/TACÔMETROS/MDT-2244C.png"
             },
             {
               "name": "MDT-2238C",
@@ -4212,7 +4206,7 @@
                 "Dimensões (mm)/Peso (g)": "210(A) x 72(L) x 37(P)mm / 165g",
                 "Garantia": "1 Ano"
               },
-              "image": "/ProductImages/DIVERSOS/TACÔMETROS/MDT-2238C.jpg"
+              "image": "/ProductImages/DIVERSOS/TACÔMETROS/MDT-2238C.png"
             }
           ]
         },
@@ -4237,7 +4231,7 @@
                 "Dimensões (mm)/Peso (g)": "146X72X29/200",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/DIVERSOS/MEDIDORES-DE-ESPESSURA/MCE-100.jpg"
+              "image": "/ProductImages/DIVERSOS/MEDIDORES-DE-ESPESSURA/MCE-100.png"
             },
             {
               "name": "MCT-301",
@@ -4254,7 +4248,7 @@
                 "Dimensões (mm)/Peso (g)": "105x55x27/80",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/DIVERSOS/MEDIDORES-DE-ESPESSURA/MCT-301.jpg"
+              "image": "/ProductImages/DIVERSOS/MEDIDORES-DE-ESPESSURA/MCT-301.png"
             },
             {
               "name": "MCT-401",
@@ -4272,7 +4266,7 @@
                 "Dimensões (mm)/Peso (g)": "105x55x27/80",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/DIVERSOS/MEDIDORES-DE-ESPESSURA/MCT-401.jpg"
+              "image": "/ProductImages/DIVERSOS/MEDIDORES-DE-ESPESSURA/MCT-401.png"
             }
           ]
         },
@@ -4294,7 +4288,7 @@
                 "Dimensões (mm)/Peso (g)": "129x63x32/116",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/DIVERSOS/MEDIDOR-DE-UMIDADE-DE-MADEIRA/MWD-14A.jpg"
+              "image": "/ProductImages/DIVERSOS/MEDIDOR-DE-UMIDADE-DE-MADEIRA/MWD-14A.png"
             }
           ]
         },
@@ -4319,7 +4313,7 @@
                 "Peso (g)": "190,6 (Corpo)/208,3 (Sonda)",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/DIVERSOS/MEDIDOR-DE-UMIDADE-DE-GRÃO/MTG-640.jpg"
+              "image": "/ProductImages/DIVERSOS/MEDIDOR-UMIDADE-DE-GRÃO/MTG-640.png"
             }
           ]
         },
@@ -4344,7 +4338,7 @@
                 "Dimensões (mm)/Peso (g)": "190x98,5x195/300",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/DIVERSOS/BOROSCÓPIOS/MBR-240.jpg"
+              "image": "/ProductImages/DIVERSOS/BOROSCÓPIOS/MBR-240.png"
             },
             {
               "name": "MBR-270G",
@@ -4361,7 +4355,7 @@
                 "Dimensões (mm)/Peso (g)": "190x98,5x195/300",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/DIVERSOS/BOROSCÓPIOS/MBR-270G.jpg"
+              "image": "/ProductImages/DIVERSOS/BOROSCÓPIOS/MBR-270G.png"
             },
             {
               "name": "MBR-270GV",
@@ -4378,7 +4372,7 @@
                 "Dimensões (mm)/Peso (g)": "190x98,5x195/300",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/DIVERSOS/BOROSCÓPIOS/MBR-270GV.jpg"
+              "image": "/ProductImages/DIVERSOS/BOROSCÓPIOS/MBR-270GV.png"
             },
             {
               "name": "MBR-300",
@@ -4402,7 +4396,7 @@
                 "Garantia": "1 ano",
                 "Acessórios": "Manual, Bolsa de Transporte, Espelho, Gancho e Imã"
               },
-              "image": "/ProductImages/DIVERSOS/BOROSCÓPIOS/MBR-300.jpg"
+              "image": "/ProductImages/DIVERSOS/BOROSCÓPIOS/MBR-300.png"
             }
           ]
         },
@@ -4430,7 +4424,7 @@
                 "Dimensões (mm)/Peso (g)": "67x30x183/147",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/DIVERSOS/MEDIDOR-DE-VIBRAÇÃO/MVA-400.jpg"
+              "image": "/ProductImages/DIVERSOS/MEDIDOR-DE-VIBRAÇÃO/MVA-400.png"
             }
           ]
         },
@@ -4456,7 +4450,7 @@
                 "Peso": "Transmissor: Aproximadamente 150g\r\n\t\t\tReceptor: Aproximadamente 130g",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/DIVERSOS/IDENTIFICADOR-DE-CABOS/MTC-183.jpg"
+              "image": "/ProductImages/DIVERSOS/IDENTIFICADOR-DE-CABOS/MTC-183.png"
             }
           ]
         },
@@ -4473,7 +4467,7 @@
                 "Dimensões (mm)/Peso (g)": "165x54x10/103",
                 "Garantia": "3 meses"
               },
-              "image": "/ProductImages/DIVERSOS/PROTOBOARDS/MP-830A.jpg"
+              "image": "/ProductImages/DIVERSOS/PROTOBOARDS/MP-830A.png"
             },
             {
               "name": "MP-1680A",
@@ -4482,7 +4476,7 @@
                 "Dimensões (mm)/Peso (g)": "220x150x11/402",
                 "Garantia": "3 meses"
               },
-              "image": "/ProductImages/DIVERSOS/PROTOBOARDS/MP-1680A.jpg"
+              "image": "/ProductImages/DIVERSOS/PROTOBOARDS/MP-1680A.png"
             },
             {
               "name": "MP-2420A",
@@ -4491,7 +4485,7 @@
                 "Dimensões (mm)/Peso (g)": "235x182x11/541",
                 "Garantia": "3 meses"
               },
-              "image": "/ProductImages/DIVERSOS/PROTOBOARDS/MP-2420A.jpg"
+              "image": "/ProductImages/DIVERSOS/PROTOBOARDS/MP-2420A.png"
             }
           ]
         },
@@ -4515,7 +4509,7 @@
                 "Dimensões (mm)/Peso (g)": "76x49x220/440",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/DIVERSOS/DETECTOR-DE-GÁS-COMBUSTÍVEL/MGC-1000.jpg"
+              "image": "/ProductImages/DIVERSOS/DETECTOR-DE-GÁS-COMBUSTÍVEL/MGC-1000.png"
             }
           ]
         },
@@ -4535,7 +4529,7 @@
                 "CFC-114": "Propelente em aerossóis e medicamentos",
                 "CFC-115": "Refrigeração comercial"
               },
-              "image": "/ProductImages/DIVERSOS/DETECTOR-DE-GÁS-REFRIGERANTE/MGR-1000.jpg"
+              "image": "/ProductImages/DIVERSOS/DETECTOR-DE-GÁS-REFRIGERANTE/MGR-1000.png"
             }
           ]
         },
@@ -4556,7 +4550,7 @@
                 "Dimensão da Sonda": "200 mm",
                 "Garantia": "6 meses"
               },
-              "image": "/ProductImages/DIVERSOS/MEDIDOR-DE-UMIDADE-DE-SOLO/MV-331.jpg"
+              "image": "/ProductImages/DIVERSOS/MEDIDOR-DE-UMIDADE-DE-SOLO/MV-331.png"
             }
           ]
         },
@@ -4594,7 +4588,7 @@
                 "Interface": "USB Tipo C",
                 "Garantia": "1 ano"
               },
-              "image": "/ProductImages/DIVERSOS/DURÔMETRO/MDU-300.jpg"
+              "image": "/ProductImages/DIVERSOS/DURÔMETRO/MDU-300.png"
             }
           ]
         }
@@ -4621,7 +4615,7 @@
                 "Categoria de Segurança": "CAT II 600V",
                 "Comprimento": "1,2m"
               },
-              "image": "/ProductImages/ACESSÓRIOS/PONTAS-DE-OSCILOSCÓPIO/LF-300.jpg"
+              "image": "/ProductImages/ACESSÓRIOS/PONTAS-DE-OSCILOSCÓPIO/LF-300.png"
             },
             {
               "name": "LF-60B",
@@ -4633,7 +4627,7 @@
                 "Categoria de Segurança": "CAT II 1X:150V RMS & 10X:300V RMS",
                 "Comprimento": "110 ± 2cm"
               },
-              "image": "/ProductImages/ACESSÓRIOS/PONTAS-DE-OSCILOSCÓPIO/LF-60B.jpg"
+              "image": "/ProductImages/ACESSÓRIOS/PONTAS-DE-OSCILOSCÓPIO/LF-60B.png"
             },
             {
               "name": "LF-100B",
@@ -4646,7 +4640,7 @@
                 "Categoria de Segurança": "CAT II 1X:150V RMS & 10X:300V RMS",
                 "Comprimento": "110 ± 2cm"
               },
-              "image": "/ProductImages/ACESSÓRIOS/PONTAS-DE-OSCILOSCÓPIO/LF-100B.jpg"
+              "image": "/ProductImages/ACESSÓRIOS/PONTAS-DE-OSCILOSCÓPIO/LF-100B.png"
             }
           ]
         },
@@ -4665,7 +4659,7 @@
                 "Atenuação": "1:1000",
                 "Relação de Transformação": "1V AC ou DC para 1kV AC ou DC"
               },
-              "image": "/ProductImages/ACESSÓRIOS/PONTA-DE-ALTA-TENSÃO/HV-40A.jpg"
+              "image": "/ProductImages/ACESSÓRIOS/PONTA-DE-ALTA-TENSÃO/HV-40A.png"
             }
           ]
         },
@@ -4685,7 +4679,7 @@
                 "Conexão": "Soquete Tipo K",
                 "Comprimento (mm)": "970"
               },
-              "image": "/ProductImages/ACESSÓRIOS/TERMOPARES-TIPO-K/MTK-01.jpg"
+              "image": "/ProductImages/ACESSÓRIOS/TERMOPARES-TIPO-K/MTK-01.png"
             },
             {
               "name": "MTK-93",
@@ -4701,7 +4695,7 @@
                 "Conformidade": "-",
                 "Comprimento (mm)": "1100"
               },
-              "image": "/ProductImages/ACESSÓRIOS/TERMOPARES-TIPO-K/MTK-93.jpg"
+              "image": "/ProductImages/ACESSÓRIOS/TERMOPARES-TIPO-K/MTK-93.png"
             },
             {
               "name": "MTK-13B",
@@ -4717,7 +4711,7 @@
                 "Conformidade": "ASTM E230",
                 "Comprimento (mm)": "1000"
               },
-              "image": "/ProductImages/ACESSÓRIOS/TERMOPARES-TIPO-K/MTK-13B.jpg"
+              "image": "/ProductImages/ACESSÓRIOS/TERMOPARES-TIPO-K/MTK-13B.png"
             },
             {
               "name": "MTK-15B",
@@ -4733,7 +4727,7 @@
                 "Conformidade": "ASTM E230",
                 "Comprimento (mm)": "1000"
               },
-              "image": "/ProductImages/ACESSÓRIOS/TERMOPARES-TIPO-K/MTK-15B.jpg"
+              "image": "/ProductImages/ACESSÓRIOS/TERMOPARES-TIPO-K/MTK-15B.png"
             }
           ]
         },
@@ -4751,7 +4745,7 @@
                 "Conexão": "Pino Banana 4mm Macho",
                 "Distância Entre Pinos": "20mm"
               },
-              "image": "/ProductImages/ACESSÓRIOS/ADAPTADORES/MAK-2.jpg"
+              "image": "/ProductImages/ACESSÓRIOS/ADAPTADORES/MAK-2.png"
             }
           ]
         },
@@ -4773,7 +4767,7 @@
                 "Comprimento do Cabo (mm)": "700",
                 "Garantia": "3 meses"
               },
-              "image": "/ProductImages/ACESSÓRIOS/PONTAS-DE-PROVA/MTL-1.jpg"
+              "image": "/ProductImages/ACESSÓRIOS/PONTAS-DE-PROVA/MTL-1.png"
             },
             {
               "name": "MTL-3",
@@ -4787,7 +4781,7 @@
                 "Comprimento do Cabo (mm)": "650",
                 "Garantia": "3 meses"
               },
-              "image": "/ProductImages/ACESSÓRIOS/PONTAS-DE-PROVA/MTL-3.jpg"
+              "image": "/ProductImages/ACESSÓRIOS/PONTAS-DE-PROVA/MTL-3.png"
             },
             {
               "name": "MTL-7A",
@@ -4804,7 +4798,7 @@
                 "Acompanha": "2 Protetores para os terminais\r\n\t\t\t2 Protetores para Borne Banana",
                 "Garantia": "3 meses"
               },
-              "image": "/ProductImages/ACESSÓRIOS/PONTAS-DE-PROVA/MTL-7A.jpg"
+              "image": "/ProductImages/ACESSÓRIOS/PONTAS-DE-PROVA/MTL-7A.png"
             },
             {
               "name": "MTL-24A",
@@ -4820,7 +4814,7 @@
                 "Acompanha": "2 Garras Jacaré Pequenas e 2 Protetores para os Terminais",
                 "Garantia": "3 meses"
               },
-              "image": "/ProductImages/ACESSÓRIOS/PONTAS-DE-PROVA/MTL-24A.jpg"
+              "image": "/ProductImages/ACESSÓRIOS/PONTAS-DE-PROVA/MTL-24A.png"
             },
             {
               "name": "MTL-18",
@@ -4837,7 +4831,7 @@
                 "Acompanha": "2 Garras Jacaré Pequenas, \r\n\t\t\t2 Protetores para os Terminais e  \r\n\t\t\t2 Protetores para Borne Banana",
                 "Garantia": "3 meses"
               },
-              "image": "/ProductImages/ACESSÓRIOS/PONTAS-DE-PROVA/MTL-18.jpg"
+              "image": "/ProductImages/ACESSÓRIOS/PONTAS-DE-PROVA/MTL-18.png"
             }
           ]
         },
@@ -4857,7 +4851,7 @@
                 "Atenuação": "0,1dB/m @ 30MHz\n0,264dB/m @ 200MHz\n1,4824dB/m @ 3GHz",
                 "Garantia": "3 meses"
               },
-              "image": "/ProductImages/ACESSÓRIOS/CABOS-DE-CONEXÃO/MTL-20.jpg"
+              "image": "/ProductImages/ACESSÓRIOS/CABOS-DE-CONEXÃO/MTL-20.png"
             },
             {
               "name": "MTL-21",
@@ -4871,7 +4865,7 @@
                 "Abertura da Garra Jacaré": "6mm",
                 "Garantia": "3 meses"
               },
-              "image": "/ProductImages/ACESSÓRIOS/CABOS-DE-CONEXÃO/MTL-21.jpg"
+              "image": "/ProductImages/ACESSÓRIOS/CABOS-DE-CONEXÃO/MTL-21.png"
             },
             {
               "name": "MTL-22",
@@ -4884,7 +4878,7 @@
                 "Comprimento do Cabo (mm)": "1000",
                 "Garantia": "3 meses"
               },
-              "image": "/ProductImages/ACESSÓRIOS/CABOS-DE-CONEXÃO/MTL-22.jpg"
+              "image": "/ProductImages/ACESSÓRIOS/CABOS-DE-CONEXÃO/MTL-22.png"
             },
             {
               "name": "MTL-23",
@@ -4898,7 +4892,7 @@
                 "Abertura da Garra Jacaré": "6mm",
                 "Garantia": "3 meses"
               },
-              "image": "/ProductImages/ACESSÓRIOS/CABOS-DE-CONEXÃO/MTL-23.jpg"
+              "image": "/ProductImages/ACESSÓRIOS/CABOS-DE-CONEXÃO/MTL-23.png"
             }
           ]
         },
@@ -4945,7 +4939,7 @@
                 "Dimensões (mm)/Peso (g)": "130x69x42/193",
                 "Garantia": "12 meses"
               },
-              "image": "/ProductImages/ACESSÓRIOS/GARRAS-DE-CORRENTE/CA-601.jpg"
+              "image": "/ProductImages/ACESSÓRIOS/GARRAS-DE-CORRENTE/CA-601.png"
             }
           ]
         }
